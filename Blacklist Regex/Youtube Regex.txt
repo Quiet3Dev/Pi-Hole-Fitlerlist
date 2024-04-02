@@ -1,0 +1,107 @@
+===================================================================================================
+
+Type: Youtube
+
+Links:
+
+1. https://raw.githubusercontent.com/slyfox1186/pihole.youtube.blocklist/main/blacklist/youtube-regex-filters.txt
+
+2. https://raw.githubusercontent.com/aounakram/my-pihole-lists/master/regex.list
+
+3. https://raw.githubusercontent.com/spacys/pihole/master/block_youtube_regex.txt
+
+4. https://raw.githubusercontent.com/kbinani/adblock-youtube-ads/master/signed.txt
+
+5. https://raw.githubusercontent.com/SystemJargon/pi-hole/main/regex/regex-domains-youtube.list
+
+===================================================================================================
+
+#1
+
+^[\w.]?google(?:adservices|apis|syndication|usercontent)?\.com$
+^[\w.]?l\.google\.com$
+^clients\d+?.google\.com$
+^r[-0-9]+sn[-.a-zA-Z0-9]+googlevideo\.com
+^r[.0-9]+sn.*googlevideo\.com$
+^[-.0-9a-zA-Z]double(?:lick|click)\.net$
+^[-.0-9a-zA-Z]?manifest\.googlevideo\.com$
+^beacons\.gv[-.0-9a-zA-Z]+\.com$
+^clients[0-9]+\.youtube\.com$
+
+
+-----------------------------------------------------------------------------------------------------------
+
+#2
+
+(\[0-9\]+)---sn(\[a-z-0-9\])+\\.googlevideo.com
+^(.+[-_.])??adse?rv(er?|ice)?s?[0-9]*[-.]
+^(.+[-_.])??m?ad[sxv]?[0-9]*[-_.]
+^(.+[-_.])??telemetry[-.]
+^(.+[-_.])??xn--
+^adim(age|g)s?[0-9]*[-_.]
+^adtrack(er|ing)?[0-9]*[-.]
+^advert(s|is(ing|ements?))?[0-9]*[-_.]
+^aff(iliat(es?|ion))?[-.]
+^analytics?[-.]
+^banners?[-.]
+^beacons?[0-9]*[-.]
+^count(ers?)?[0-9]*[-.]
+^pixels?[-.]
+^stat(s|istics)?[0-9]*[-.]
+^track(ers?|ing)?[0-9]*[-.]
+^traff(ic)?[-.]
+(^|\.)6\.googlevideo\.com$
+(^|\.)7\.googlevideo\.com$
+(^|\.)d\.googlevideo\.com$
+(^|\.)k\.googlevideo\.com$
+(^|\.)r\.googlevideo\.com$
+(^|\.)y\.googlevideo\.com$
+(^|\.)z\.googlevideo\.com$
+
+-----------------------------------------------------------------------------------------------------------
+
+#3
+
+# Youtube block
+
+(\.|^|-)(youtubeeducation|youtube|ytimg|googlevideo|youtubegaming|youtube-nocookie|youtubei|yt3)[.]
+
+-------------------------------------------------------------------------------------------------------------
+
+#4
+
+##.ad-container
+##.video-ads
+##.ytp-ad-progress-list
+=adunit&
+youtube.com###masthead-ad
+||doubleclick.net^
+||flashtalking.com$domain=youtube.com
+||googleadservices.com
+||googlesyndication.com^
+||s0.2mdn.net.ads
+||www.google.*pagead$domain=youtube.com
+||www.youtube.com[[computeEmptyGif_()]]$image
+||www.youtube.com[[computeThumbnailUrl_(data.thumbnail)]]
+||www.youtube.com.api.stats
+||www.youtube.com.pagead
+||www.youtube.com.ptracking
+
+---------------------------------------------------------------------------------------------------
+
+#5
+
+(^|\.)youtube\.com$
+(^|\.)googlevideo\.com$
+(^|\.)googleusercontent\.com$
+(\.|^|-)(youtubeeducation|youtube|ytimg|googlevideo|youtubegaming|youtube-nocookie|youtubei|yt3)[.]
+
+===================================================================================================
+
+Credits:
+
+- slyfox1186
+- aounakram
+- spacys
+- kbinani
+- SystemJargon

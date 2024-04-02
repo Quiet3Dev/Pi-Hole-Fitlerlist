@@ -1,0 +1,75 @@
+Note: Youtube has built ads inside the videos, which means if you try to put one of the filters down at the bottom of the Pi-Hole, it will likely block the ad along with the video you are trying to watch. Either it gives you a loading screen or the video is not able to be played. Therefore, we recommend using web-based adblocking extensions. For example: 
+
+- AdGuard
+
+- uBlock Origin
+
+- Adblock Plus
+
+The reason we removed the Youtube filter list is because some people managed to make it work so that it blocks only ads and does not block video. We haven't figured out how to block only ads without blocking the video along with them. It is recommended that you create your own whitelist because everyone has their own reason for wanting to unblock certain websites due to a specific scenario. 
+
+Note: Some of the lists have "Temp," which means they were previously unavailable and we don't know when they will be restored. I used the Wayback Machine to get the file before the owner or website took it down.
+
+Blocklist Type: Ads
+(Includes ads, tracking, malware, phishing, porn, Windows, iOS, and Android.)
+
+=============================================================================================================================================================================================================================================
+ __________________________
+|                          |
+|  Blocklist: Youtube Ads  |
+|__________________________|
+
+
+https://web.archive.org/web/20211229101952/https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt (Ads)
+
+https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/crowed_list.txt (Ads)
+
+https://raw.githubusercontent.com/whackamole-ytads/pihole-blocklist/master/black.list (Ads)
+
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Adblock-YouTube-Ads.txt (Ads)
+
+https://raw.githubusercontent.com/HenningVanRaumle/pihole-ytadblock/master/ytadblock.txt (Ads)
+
+https://raw.githubusercontent.com/anudeepND/youtubeadsblacklist/master/hosts.txt (Ads)
+
+https://raw.githubusercontent.com/slyfox1186/pihole.youtube.blocklist/main/blacklist/youtube-standard-filters.txt (Ads)
+
+https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list/-/raw/master/Individual%20lists/The_Quantum_Youtube-Ads-List.txt (Ads)
+
+https://raw.githubusercontent.com/JohnHiqs/blocklist/master/youtubewithoutad (Ads)
+
+https://www.sunshine.it/blacklist.txt (Everything with Youtube)
+
+https://ente.dev/api/blocklist/youtube-advertising-hosts (Ads)
+
+
+=============================================================================================================================================================================================================================================
+
+This is an easy-to-copy list if anyone wants to copy the "Ads and Tracking" blocklist into Pi-Hole. Remember, there is a chance it could be blocked, in which case you might need to make a custom whitelist.
+ _____________________________________________
+|                                             |
+| Easy Copy List: Ads and Tracking for Pihole |
+|_____________________________________________|
+
+
+https://web.archive.org/web/20211229101952/https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/crowed_list.txt https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Adblock-YouTube-Ads.txt https://raw.githubusercontent.com/HenningVanRaumle/pihole-ytadblock/master/ytadblock.txt https://raw.githubusercontent.com/anudeepND/youtubeadsblacklist/master/hosts.txt https://raw.githubusercontent.com/slyfox1186/pihole.youtube.blocklist/main/blacklist/youtube-standard-filters.txt https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list/-/raw/master/Individual%20lists/The_Quantum_Youtube-Ads-List.txt https://raw.githubusercontent.com/JohnHiqs/blocklist/master/youtubewithoutad https://www.sunshine.it/blacklist.txt https://ente.dev/api/blocklist/youtube-advertising-hosts 
+
+
+=============================================================================================================================================================================================================================================
+ ___________
+|           |
+|  Credits  |
+|___________|
+
+
+- kboghdady
+- whackamole-ytads
+- deathbybandaid
+- HenningVanRaumle
+- anudeepND
+- slyfox1186
+- The_Quantum_Alpha
+- JohnHiqs
+- Walter Wiedenhofer
+- Willi Entenmann
+

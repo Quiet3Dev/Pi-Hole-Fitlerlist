@@ -1,0 +1,109 @@
+The ransomware blocklist was created for Pi-Hole to prevent cryptocurrency theft, credit card theft, and other forms of fraud, thereby creating a secure network for devices. It's recommended to make your own whitelist because everyone has their own reason to unblock some websites due to certain scenarios.
+
+Note: Some of the lists have "Temp," which means they were previously unavailable and we don't know when they will be restored. I used the Wayback Machine to get the file before the owner or website took it down.
+
+Blocklist Type: Ransomware
+(Includes ransomware and crypto)
+
+=============================================================================================================================================================================================================================================
+ _________________________
+|                         |
+|  Blocklist: Ransomware  |
+|_________________________|
+
+
+https://blocklistproject.github.io/Lists/ransomware.txt (Ransomware)
+
+https://raw.githubusercontent.com/blocklistproject/Lists/master/ransomware.txt (Ransomware)
+
+https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/PiHole/Archive/Cerber_Ransomware.txt (Ransomware)
+
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Ransomware-Domain-Blocklist.txt (Ransomware)
+
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/TeslaCrypt-Ransomware-Payment-Sites-Domain-Blocklist.txt (Ransomware)
+
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/TeslaCrypt-Ransomware-C2-Domain-Blocklist.txt (Ransomware)
+
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/TorrentLocker-Ransomware-Payment-Sites-Domain-Blocklist.txt (Ransomware)
+
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/CryptoWall-Ransomware-C2-Domain-blocklist.txt (Ransomware)
+
+https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/Malware%20-%20Ransomware%20Sodinokibi (Ransomware)
+
+https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/Ryuk%20Ransomware%20and%20Associated%20Threat%20Activity (Ransomware)
+
+https://raw.githubusercontent.com/hemiipatu/PiHoleBlocklists/master/blocklists/ransomware.txt (Ransomware)
+
+https://web.archive.org/web/20201229122814/https://raw.githubusercontent.com/hemiipatu/Blocklists/master/ransomware.txt (Ransomware)
+
+https://web.archive.org/web/20190926081322/https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt (Ransomware)
+
+https://web.archive.org/web/20181028164033/https://ransomwaretracker.abuse.ch/downloads/CW_C2_DOMBL.txt (Ransomware)
+
+https://web.archive.org/web/20181028164033/https://ransomwaretracker.abuse.ch/downloads/TC_C2_URLBL.txt (Ransomware)
+
+https://web.archive.org/web/20181028164033/https://ransomwaretracker.abuse.ch/downloads/TC_C2_DOMBL.txt (Ransomware)
+
+https://web.archive.org/web/20180108125339/https://ransomwaretracker.abuse.ch/downloads/LY_PS_DOMBL.txt (Ransomware)
+
+https://web.archive.org/web/20181028164032/https://ransomwaretracker.abuse.ch/downloads/TL_C2_DOMBL.txt (Ransomware)
+
+https://web.archive.org/web/20181028164032/https://ransomwaretracker.abuse.ch/downloads/TL_PS_DOMBL.txt (Ransomware)
+
+https://web.archive.org/web/20181028164032/https://ransomwaretracker.abuse.ch/downloads/TL_PS_IPBL.txt (Ransomware)
+
+https://web.archive.org/web/20181028164032/https://ransomwaretracker.abuse.ch/downloads/TL_C2_IPBL.txt (Ransomware)
+
+https://web.archive.org/web/20180108125339/https://ransomwaretracker.abuse.ch/downloads/LY_DS_URLBL.txt (Ransomware)
+
+https://web.archive.org/web/20180108125344/https://ransomwaretracker.abuse.ch/downloads/LY_PS_IPBL.txt (Ransomware)
+
+https://web.archive.org/web/20180108125338/https://ransomwaretracker.abuse.ch/downloads/LY_C2_IPBL.txt (Ransomware)
+
+https://web.archive.org/web/20180108125354/https://ransomwaretracker.abuse.ch/downloads/TC_DS_URLBL.txt (Ransomware)
+
+https://web.archive.org/web/20181028164033/https://ransomwaretracker.abuse.ch/downloads/TC_PS_DOMBL.txt (Ransomware)
+
+https://web.archive.org/web/20190926183322/https://ransomwaretracker.abuse.ch/downloads/TC_C2_URLBL.txt (Ransomware)
+
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/TorrentLocker-Ransomware-C2-Domain-Blocklist.txt (Ransomware)
+
+https://kriskintel.com/feeds/ktip_ransomware_feeds.txt (Ransomware)
+
+https://raw.githubusercontent.com/dasdiesernoah/pihole-blocklists/main/Blocklists/Ransomware (Ransomware)
+
+https://raw.githubusercontent.com/kdpuvvadi/pihole-list/main/ransomeware.txt (Ransomware)
+
+
+=============================================================================================================================================================================================================================================
+
+This is an easy-to-copy list if anyone wants to copy the "Ransomware" blocklist into Pi-Hole. Remember, there is a chance it could be blocked, in which case you might need to make a custom whitelist.
+
+ _______________________________________
+|                                       |
+| Easy Copy List: Ransomware for Pihole |
+|_______________________________________|
+
+
+https://blocklistproject.github.io/Lists/ransomware.txt https://raw.githubusercontent.com/blocklistproject/Lists/master/ransomware.txt https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/PiHole/Archive/Cerber_Ransomware.txt https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Ransomware-Domain-Blocklist.txt https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/TeslaCrypt-Ransomware-Payment-Sites-Domain-Blocklist.txt https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/TeslaCrypt-Ransomware-C2-Domain-Blocklist.txt https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/TorrentLocker-Ransomware-Payment-Sites-Domain-Blocklist.txt https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/CryptoWall-Ransomware-C2-Domain-blocklist.txt https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/Malware%20-%20Ransomware%20Sodinokibi https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/Ryuk%20Ransomware%20and%20Associated%20Threat%20Activity https://raw.githubusercontent.com/hemiipatu/PiHoleBlocklists/master/blocklists/ransomware.txt https://web.archive.org/web/20201229122814/https://raw.githubusercontent.com/hemiipatu/Blocklists/master/ransomware.txt https://web.archive.org/web/20190926081322/https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt https://web.archive.org/web/20181028164033/https://ransomwaretracker.abuse.ch/downloads/CW_C2_DOMBL.txt https://web.archive.org/web/20181028164033/https://ransomwaretracker.abuse.ch/downloads/TC_C2_URLBL.txt https://web.archive.org/web/20181028164033/https://ransomwaretracker.abuse.ch/downloads/TC_C2_DOMBL.txt https://web.archive.org/web/20180108125339/https://ransomwaretracker.abuse.ch/downloads/LY_PS_DOMBL.txt https://web.archive.org/web/20181028164032/https://ransomwaretracker.abuse.ch/downloads/TL_C2_DOMBL.txt https://web.archive.org/web/20181028164032/https://ransomwaretracker.abuse.ch/downloads/TL_PS_DOMBL.txt https://web.archive.org/web/20181028164032/https://ransomwaretracker.abuse.ch/downloads/TL_PS_IPBL.txt https://web.archive.org/web/20181028164032/https://ransomwaretracker.abuse.ch/downloads/TL_C2_IPBL.txt https://web.archive.org/web/20180108125339/https://ransomwaretracker.abuse.ch/downloads/LY_DS_URLBL.txt https://web.archive.org/web/20180108125344/https://ransomwaretracker.abuse.ch/downloads/LY_PS_IPBL.txt https://web.archive.org/web/20180108125338/https://ransomwaretracker.abuse.ch/downloads/LY_C2_IPBL.txt https://web.archive.org/web/20180108125354/https://ransomwaretracker.abuse.ch/downloads/TC_DS_URLBL.txt https://web.archive.org/web/20181028164033/https://ransomwaretracker.abuse.ch/downloads/TC_PS_DOMBL.txt https://web.archive.org/web/20190926183322/https://ransomwaretracker.abuse.ch/downloads/TC_C2_URLBL.txt https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/TorrentLocker-Ransomware-C2-Domain-Blocklist.txt https://kriskintel.com/feeds/ktip_ransomware_feeds.txt https://raw.githubusercontent.com/dasdiesernoah/pihole-blocklists/main/Blocklists/Ransomware https://web.archive.org/web/20210121195652/https://infosharing.cybersaiyan.it/feeds/CS-PIHOLE https://raw.githubusercontent.com/kdpuvvadi/pihole-list/main/ransomeware.txt
+
+
+=============================================================================================================================================================================================================================================
+
+ ___________
+|           |
+|  Credits  |
+|___________|
+
+
+
+- Blocklist Project
+- XionKzn
+- deathbybandaid
+- Esox-Lucius
+- hemiipatu
+- abuse.ch
+- kriskintel
+- dasdiesernoah
+- kdpuvvadi
+

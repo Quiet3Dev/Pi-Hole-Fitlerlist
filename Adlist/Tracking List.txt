@@ -1,0 +1,882 @@
+The tracking list is intended to be used for the purpose of blocking tracking sites designed for analytics, updates, telemetry, spyware, and fingerprinting. Some websites will have broken features that will require you to whitelist certain domains for the website to work properly. This applies to Windows, Android, iOS, and MacOS.
+
+Note: Some of the lists have "Temp," which means they were previously unavailable and we don't know when they will be restored. I used the Wayback Machine to get the file before the owner or website took it down. Also, tracking blocklists have been known to break websites and other services, so it would be best to whitelist those sites that are commonly searched.
+
+Blocklist Type: Tracking
+(Includes tracking for Windows, iOS, MacOS, and Android.)
+
+=============================================================================================================================================================================================================================================
+ _______________________
+|                       |
+|  Blocklist: Tracking  |
+|_______________________|
+
+
+https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt (Tracking)
+
+https://blocklistproject.github.io/Lists/tracking.txt (Tracking)
+
+https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt (Tracking)
+
+https://web.archive.org/web/20210125013754/https://raw.githubusercontent.com/hectorm/hmirror/master/data/disconnect.me-tracking/list.txt (Tracking)
+
+https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt (Tracking)
+
+https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt (Moblie Tracking)
+
+https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt (Moblie Tracking)
+
+https://raw.githubusercontent.com/mkb2091/blockconvert/master/output/domains.txt (Tracking)
+
+https://web.archive.org/web/20210417014812/https://raw.githubusercontent.com/herrbischoff/trackers/master/trackers.txt (Tracking)
+
+https://raw.githubusercontent.com/kevinle-1/Windows-telemetry-blocklist/master/windowsblock.txt (Tracking)
+
+https://gist.githubusercontent.com/johnrlive/d9c9de7ecc79cbfdb58bd53af5faeeea/raw/4aaa7e9c76815a8a5a2de8c3ef42d21b1f06c6b8/Samsung%2520Smart-TV%2520Blocklist%2520Adlist%2520(for%2520PiHole) (Tracking)
+
+https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt (Tracking)
+
+https://raw.githubusercontent.com/erkexzcx/disconnectme-pihole/master/services_Analytics.txt (Tracking)
+
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking (Tracking)
+
+https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/Tracking/trackingblocklist.txt (Tracking)
+
+https://raw.githubusercontent.com/xlimit91/xlimit91-block-list/master/blacklist.txt (Tracking)
+
+https://justdomains.github.io/blocklists/lists/easyprivacy-justdomains.txt (Tracking)
+
+https://raw.githubusercontent.com/smashah/smashblock/master/blocklist-r.txt (Tracking)
+
+https://raw.githubusercontent.com/erkexzcx/disconnectme-pihole/master/services_FingerprintingGeneral.txt (Tracking)
+
+https://raw.githubusercontent.com/erkexzcx/disconnectme-pihole/master/services_FingerprintingInvasive.txt (Tracking)
+
+https://raw.githubusercontent.com/erkexzcx/disconnectme-pihole/master/services_Disconnect.txt (Tracking)
+
+https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt (Tracking)
+
+https://v.firebog.net/hosts/Easyprivacy.txt (Tracking)
+
+https://v.firebog.net/hosts/Prigent-Ads.txt (Tracking)
+
+https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt (Tracking)
+
+https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts (Tracking)
+
+https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt (Tracking)
+
+https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt (Tracking)
+
+https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts (Tracking)
+
+https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt (Tracking)
+
+https://someonewhocares.org/hosts/zero/hosts (Tracking)
+
+https://web.archive.org/web/20201105135910/https://raw.githubusercontent.com/herrbischoff/trackers/master/domains.txt (Tracking)
+
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt (Tracking)
+
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt (Tracking)
+
+https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SessionReplay.txt (Tracking)
+
+https://better.fyi/blockerList.txt (Tracking - Regex)
+
+https://raw.githubusercontent.com/bmyjacks/adlists/master/adlists/anti-AD-for-Pi-Hole.txt (Tracking)
+
+https://raw.githubusercontent.com/bmyjacks/adlists/master/adlists/EasyPrivacy.txt (Tracking)
+
+https://raw.githubusercontent.com/bmyjacks/adlists/master/adlists/EasyList-Cookie-List.txt (Tracking)
+
+https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileSpyware.txt (Tracking)
+
+https://raw.githubusercontent.com/anarki999/Adblock-List-Archive/master/Better.fyiTrackersBlocklist.txt (Tracking)
+
+https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt (Tracking)
+
+https://hostfiles.frogeye.fr/multiparty-only-trackers-hosts.txt (Tracking)
+
+https://ftpihole.s3.eu-west-2.amazonaws.com/blocklists/smartphone-ads-tracking.txt (Ads and Tracking)
+
+https://v.firebog.net/hosts/static/HPHosts/Hostsmmt.txt (Tracking)
+
+https://raw.githubusercontent.com/jakejarvis/ios-trackers/master/blocklist.txt (Tracking)
+
+https://gitlab.com/my-privacy-dns/matrix/matrix/-/raw/master/source/tracking/domains.list (Tracking)
+
+https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains (Tracking)
+
+https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/doubleclick.txt (Tracking)
+
+https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/analytics.txt (Tracking)
+
+https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt (Tracking)
+
+https://blocklistproject.github.io/Lists/tracking.txt (Tracking)
+
+https://raw.githubusercontent.com/quedlin/blacklist/master/domains (Tracking)
+
+https://raw.githubusercontent.com/UnbendableStraw/samsungnosnooping/master/README.md (Tracking)
+
+https://v.firebog.net/hosts/static/SamsungSmart.txt (Tracking)
+
+https://raw.githubusercontent.com/nabble/semalt-blocker/master/domains/blocked (Tracking)
+
+https://raw.githubusercontent.com/cbuijs/shallalist/master/adv/domains (Tracking)
+
+https://raw.githubusercontent.com/cbuijs/shallalist/master/aggressive/domains (Tracking)
+
+https://raw.githubusercontent.com/cbuijs/shallalist/master/downloads/domains (Tracking)
+
+https://raw.githubusercontent.com/cbuijs/shallalist/master/spyware/domains (Tracking)
+
+https://raw.githubusercontent.com/cbuijs/shallalist/master/tracker/domains (Tracking)
+
+https://raw.githubusercontent.com/soteria-nou/domain-list/master/analytics.txt (Tracking)
+
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Steven-Blacks-Trackers.txt (Tracking)
+
+https://raw.githubusercontent.com/Th3M3/blocklists/master/tracking%26ads.list (Tracking)
+
+https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/extra.txt (Tracking)
+
+https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt (Tracking)
+
+https://raw.githubusercontent.com/ligyxy/Blocklist/master/BLOCKLIST (Tracking)
+
+https://raw.githubusercontent.com/blocktastic/pihole/master/blocktastic.txt (Tracking)
+
+https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt (Tracking)
+
+https://joewein.net/dl/bl/dom-bl.txt (Tracking)
+
+https://raw.githubusercontent.com/meinhimmel/hosts/master/hosts (Tracking)
+
+https://raw.githubusercontent.com/mhhakim/pihole-blocklist/master/custom-blocklist.txt (Tracking)
+
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Notracking-hostnames.txt (Tracking)
+
+https://raw.githubusercontent.com/soteria-nou/domain-list/master/widgets.txt (Tracking)
+
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/uAssetsPrivacy.txt (Tracking)
+
+https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/uncheckyads.txt (Tracking)
+
+https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/android.txt (Tracking)
+
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/easyprivacy/list.txt (Tracking)
+
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/fademind-add.2o7net/list.txt (Tracking)
+
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Prebake-Obtrusive.txt (Tracking)
+
+https://raw.githubusercontent.com/AdamO20054/PiHoleAdFucker/main/AdListsMulti/TrackingBlocklists (Tracking)
+
+https://raw.githubusercontent.com/erkexzcx/disconnectme-pihole/master/services_Analytics.txt (Tracking)
+
+https://raw.githubusercontent.com/erkexzcx/disconnectme-pihole/master/services_FingerprintingGeneral.txt (Tracking)
+
+https://raw.githubusercontent.com/erkexzcx/disconnectme-pihole/master/services_FingerprintingInvasive.txt (Tracking)
+
+https://raw.githubusercontent.com/adversarialtools/apple-telemetry/master/blacklist (Tracking)
+
+https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt (Tracking)
+
+https://raw.githubusercontent.com/pirat28/IHateTracker/master/iHateTracker.txt (Tracking)
+
+https://hblock.molinero.dev/hosts_domains.txt (Tracking and Social)
+
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/uAssetsPrivacy.txt (Tracking)
+
+https://raw.githubusercontent.com/tyzbit/hosts/master/data/tyzbit/hosts (Tracking)
+
+https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt (Tracking)
+
+https://hostfiles.frogeye.fr/firstparty-only-trackers-hosts.txt (Tracking)
+
+https://raw.githubusercontent.com/im-sm/Pi-hole-Torrent-Blocklist/main/all-torrent-trackres.txt (Tracking)
+
+https://raw.githubusercontent.com/axeleroy/adguard-cname-trackers-pihole/main/blocklist.txt (Tracking)
+
+https://raw.githubusercontent.com/uTogglin/PI-hole-iploggers-blocklist/main/List (Tracking)
+
+https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/analyticsparsed (Tracking)
+
+https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/doubleclickparsed (Tracking)
+
+https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/proxiesparsed (Tracking)
+
+https://github.com/Cauchon/NSABlocklist-pi-hole-edition/blob/master/Trackers/webrtc%20tracking.txt (Tracking WebRTC)
+
+https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list/-/raw/master/For%20hosts%20file/The_Quantum_Ad-List.txt (Tracking)
+
+https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/tyzbit.txt (Tracking)
+
+https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/fonts.txt (Tracking)
+
+https://raw.githubusercontent.com/craiu/mobiletrackers/master/list.txt (Tracking)
+
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Apple (Tracking)
+
+https://perflyst.github.io/PiHoleBlocklist/android-tracking.txt (Tracking)
+
+https://raw.githubusercontent.com/ftpmorph/ftprivacy/master/blocklists/avg-avast-data-mining-full-block.txt (Tracking)
+
+https://raw.githubusercontent.com/blocklistproject/Lists/master/tracking.txt (Tracking)
+
+https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts (Tracking)
+
+https://raw.githubusercontent.com/ftpmorph/ftpihole/master/blocklists/avg-avast-data-mining-full-block.txt (Tracking)
+
+https://raw.githubusercontent.com/rto/phased-array/master/phased_array_blocklist.txt (Tracking)
+
+https://web.archive.org/web/20210126111012/https://raw.githubusercontent.com/ftpmorph/ftpihole/master/blocklists/apple-macos-big-sur.txt (Tracking - MacOS)
+
+https://raw.githubusercontent.com/StevenBlack/hosts/master/data/UncheckyAds/hosts (Tracking)
+
+https://raw.githubusercontent.com/LunarWatcher/Pihole-blocklists/master/global-blocklist-plain.txt (Tracking)
+
+https://gitlab.com/my-privacy-dns/matrix/matrix/-/raw/master/source/tracking/domains.list (Tracking)
+
+https://web.archive.org/web/20200103140913/https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/PiHole_HOSTS_Spyware.txt (Tracking)
+
+https://raw.githubusercontent.com/hell-sh/Evil-Domains/master/lists/IP%20Loggers.txt (Tracking)
+
+https://raw.githubusercontent.com/hell-sh/Evil-Domains/master/lists/Trackers.txt (Tracking)
+
+https://raw.githubusercontent.com/llacb47/mischosts/master/apple-telemetry (Tracking)
+
+https://raw.githubusercontent.com/llacb47/mischosts/master/microsoft-telemetry (Tracking)
+
+https://raw.githubusercontent.com/llacb47/mischosts/master/whiteops-hosts (Tracking)
+
+https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/domains/domains1.list (Tracking)
+
+https://raw.githubusercontent.com/p1r473/samsungnosnooping/master/Samsungnosnooping.txt (Tracking)
+
+https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/EasyPrivacy3rdParty.txt (Tracking)
+
+https://raw.githubusercontent.com/soteria-nou/domain-list/cleaned/affiliate.txt (Tracking)
+
+https://raw.githubusercontent.com/soteria-nou/domain-list/cleaned/analytics.txt (Tracking)
+
+https://raw.githubusercontent.com/soteria-nou/domain-list/cleaned/enrichments.txt (Tracking)
+
+https://raw.githubusercontent.com/soteria-nou/domain-list/cleaned/widgets.txt (Tracking)
+
+https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/alexa (Tracking)
+
+https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/apple (Tracking)
+
+https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/huawei (Tracking)
+
+https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/roku (Tracking)
+
+https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/samsung (Tracking)
+
+https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/sonos (Tracking)
+
+https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows (Tracking)
+
+https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi (Tracking)
+
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/child-protection (Tracking)
+
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Win10Telemetry (Tracking)
+
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/samsung (Tracking)
+
+https://www.github.developerdan.com/hosts/lists/amp-hosts-extended.txt (Tracking)
+
+https://raw.githubusercontent.com/furkun/Anti-IP-Grabber-Hosts/main/hosts (Tracking)
+
+https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/mozilla/all (Tracking)
+
+https://raw.githubusercontent.com/notracking/hosts-blocklists/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt (Tracking)
+
+https://raw.githubusercontent.com/de956/adblock-list/main/blocklist.txt (Tracking)
+
+https://download.dnscrypt.info/blocklists/domains/mybase.txt (Tracking)
+
+https://raw.githubusercontent.com/JohnHiqs/Blocklist/master/blocklist_category_tracking.txt (Tracking)
+
+https://raw.githubusercontent.com/soteria-nou/domain-list/master/enrichments.txt (Tracking)
+
+https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/firebase.txt (Tracking)
+
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Other%20domains%20versions/BrowseWebsitesWithoutLoggingInDomains.txt (Tracking - Anti Block)
+
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Fanboy-Annoyances-List.txt (Tracking - Social Media)
+
+https://raw.githubusercontent.com/Strappazzon/teleme7ry/master/rules.txt (Tracking - Windows Telemetry)
+
+https://dsi.ut-capitole.fr/blacklists/download/sect.tar.gz (Tracking)
+
+https://raw.githubusercontent.com/notracking/hosts-blocklists/master/domains.txt (Tracking)      
+
+https://web.archive.org/web/20200215140431/http://mirror1.malwaredomains.com:80/files/url_shorteners.txt (Tracking)
+
+https://github.com/j-moriarti/pDNSf-Hosts-collection/releases/download/v1.0.0/pDNSf-hosts-part0.txt (Tracking)
+
+https://raw.githubusercontent.com/neoFelhz/neohosts/data/_data/extra/2345.txt (Tracking)
+
+https://raw.githubusercontent.com/neoFelhz/neohosts/data/_data/extra/analytics.txt (Tracking)
+
+https://web.archive.org/web/20191009194133/https://hosts-file.net/exp.txt (Tracking)         
+                              
+https://iplists.firehol.org/files/iblocklist_abuse_zeus.netset (Tracking) 
+
+https://iplists.firehol.org/files/myip.ipset (Tracking)
+
+https://iplists.firehol.org/files/php_harvesters.ipset (Tracking)
+
+https://raw.githubusercontent.com/Amdromeda/Blocklist-Pi-Hole/master/Windows%20telemetry.txt (Tracking – Windows)
+
+https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/firewall/spy.txt (Tracking – Windows)
+
+https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/MiFitXiaomi/mifitxiaomiblocklist.txt (Tracking) 
+
+https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/Windows/windowstelemetryblocklist.txt (Tracking - Windows) 
+
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Block-EU-Cookie-Shit-List.txt (Tracking) 
+
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/WindowsSpyBlocker7.txt (Tracking - Windows)  
+                                                                          
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/WindowsSpyBlocker81.txt (Tracking – Windows)
+
+https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/search-blacklist.txt (Tracking)
+
+https://raw.githubusercontent.com/ftpmorph/ftpihole/master/blocklists/huawei-trackers.txt (Tracking)
+
+https://raw.githubusercontent.com/ftpmorph/ftpihole/master/blocklists/windows10-spying-erm-i-mean-telemetry-lol.txt (Tracking)
+
+https://raw.githubusercontent.com/ftpmorph/ftpihole/master/blocklists/xiaomi-ads-tracking.txt (Tracking)
+
+https://raw.githubusercontent.com/soteria-nou/domain-list/master/affiliate.txt (Tracking)
+
+https://raw.githubusercontent.com/wildquaker/filterlists/master/cname_cloaked_list.txt (Tracking)
+
+https://raw.githubusercontent.com/wildquaker/filterlists/master/justdomains.txt (Tracking)
+
+https://raw.githubusercontent.com/muxcc/AdsBlockLists/master/ksn.hosts (Tracking)
+
+https://web.archive.org/web/20201223162851/https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/nomsdata.txt (Windows Telemetry)
+
+https://gitlab.com/dns-firewall/dns/matrix/matrix/raw/master/source/tracking/domains.list (Tracking)
+
+https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/notrack-blocklist.txt (Tracking)
+
+https://raw.githubusercontent.com/fredprod/host-file.net-backup/master/emd.txt (Tracking)
+
+https://raw.githubusercontent.com/fredprod/host-file.net-backup/master/exp.txt (Tracking)
+
+https://raw.githubusercontent.com/fredprod/host-file.net-backup/master/grm.txt (Tracking)
+
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Filter (Tracking)
+
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Microsoft (Tracking)
+
+https://raw.githubusercontent.com/lwsnz/pihole-lists-armada/main/netflix-telemetry.txt (Tracking)
+
+https://raw.githubusercontent.com/lwsnz/pihole-lists-armada/main/block-updates-windows-androidtv-vlc.txt (Windows Telemetry)
+
+https://raw.githubusercontent.com/lwsnz/pihole-lists-armada/main/windows_os-track-telemetry.txt (Windows Telemetry)
+
+https://raw.githubusercontent.com/lwsnz/pihole-lists-armada/main/ring.com-telemetry.txt (Ring Telemetry)
+
+https://raw.githubusercontent.com/lwsnz/pihole-lists-armada/main/cvd_app-telemetry-tracing.txt (Covid Telemetry)
+
+https://raw.githubusercontent.com/lwsnz/pihole-lists-armada/main/typical-android-app-telemetry.txt (Andriod Telemetry)
+
+https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/government.txt (Tracking)
+
+https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/searchengines_-_kid-safe.txt (Tracking)
+
+https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/spyware.txt (Tracking)
+
+https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/tracking.txt (Tracking)
+
+https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/hacking-illegal.txt  (Tracking)
+
+https://raw.githubusercontent.com/uuiese/block/master/E-MailTracking.txt (Tracking)
+
+https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/HOSTS (Tracking)
+
+https://raw.githubusercontent.com/uuiese/block/master/MirrorTrackers.txt (Tracking)
+
+https://raw.githubusercontent.com/uuiese/block/master/MirrorTrackersAFP.txt (Tracking)
+
+https://raw.githubusercontent.com/uuiese/block/master/MirrorTrackersCFF.txt (Tracking)
+
+https://raw.githubusercontent.com/uuiese/block/master/MirrorTrackersCFP.txt (Tracking)
+
+https://raw.githubusercontent.com/uuiese/block/master/MirrorTrackersWT.txt (Tracking)
+
+https://raw.githubusercontent.com/uuiese/block/master/MyBlockDoH.txt (Tracking)
+
+https://raw.githubusercontent.com/uuiese/block/master/MyHostFile.txt (Tracking)
+
+https://raw.githubusercontent.com/uuiese/block/master/Myampproject.txt (Tracking)
+
+https://gist.githubusercontent.com/vuxat/f25149898451efc6a2723af7c6643f82/raw/5985279ee61a7a77d4f5a5163460177b6a8b62e2/hosts-file.net_hjk.txt (Tracking)
+
+https://raw.githubusercontent.com/de956/adblock-list/main/blocklist.txt (Tracking)
+
+https://raw.githubusercontent.com/Knuschberkeks/Knuschberblock/main/Knuschberblock.txt (Tracking)
+
+https://raw.githubusercontent.com/uuiese/block/master/MirrorNSAB.txt (Tracking)
+
+https://raw.githubusercontent.com/dashingdon/blocklists/master/pihole_black.list (Tracking)
+
+https://raw.githubusercontent.com/Amdr0meda/Blocklist_Pi_Hole/master/Windows%20telemetry.txt (Window Telemetry)
+
+https://raw.githubusercontent.com/Amdr0meda/Blocklist_Pi_Hole/master/Xiaomi%20Mi-Fit%20Amazfit%20Huami.txt (Tracking)
+
+https://www.i-dont-care-about-cookies.eu/abp/ (Tracking)
+
+https://raw.githubusercontent.com/smokingwheels/smokingwheels.github.io/master/Pi-hole/searchengine (Tracking)
+
+https://raw.githubusercontent.com/smokingwheels/smokingwheels.github.io/master/Pi-hole/searchengine1  (Tracking)
+
+https://raw.githubusercontent.com/smokingwheels/smokingwheels.github.io/master/Pi-hole/searchengine2 (Tracking)
+
+http://web.archive.org/web/20200304013256/https://hosts-file.net/grm.txt (Tracking)
+
+http://web.archive.org/web/20191001083500/http://hosts-file.net/emd.txt (Tracking)
+
+https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains (Tracking)
+
+https://raw.githubusercontent.com/deep-bhatt/huawei-block-list/master/huawei-block-host.txt (Tracking)
+
+https://raw.githubusercontent.com/AdlistCreator/Pi-Hole-Blocklist/main/htrc/Hosts.txt (Tracking)
+
+https://git.herrbischoff.com/trackers/plain/cookie.txt (Tracking)
+
+https://git.herrbischoff.com/trackers/plain/telemetry.txt (Tracking)
+
+https://git.herrbischoff.com/trackers/plain/trackers.txt (Tracking)
+
+https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list/-/raw/master/Individual%20lists/The_Quantum_Privacy-list.txt (Tracking)
+
+https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/activation.txt (Tracking)
+
+https://raw.githubusercontent.com/ojmarcelino/pihole/main/Adobe (Tracking)
+
+https://raw.githubusercontent.com/ojmarcelino/pihole/main/Microsoft (Windows Telemetry)
+
+https://raw.githubusercontent.com/iteqla/pihole/main/IP_Camera_blocklist.txt (Tracking)
+
+https://raw.githubusercontent.com/iteqla/pihole/main/Samsung.txt (Tracking)
+
+https://raw.githubusercontent.com/Kenny2k8/Pihole-Blocklist/master/Blocklist/malicious (Tracking)
+
+https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspicious/ipinfo.txt (Tracking)
+
+https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspicious/i2p.txt (Tracking)
+
+https://raw.githubusercontent.com/buckmelanoma/block_lists/master/windows10_endpoints.txt  (Windows Telemetry and Updates)
+
+https://raw.githubusercontent.com/buckmelanoma/block_lists/master/microsoft.txt (Windows Telemetry and Updates)
+
+https://raw.githubusercontent.com/buckmelanoma/block_lists/master/hue_bridge.txt (Tracking)
+
+https://raw.githubusercontent.com/Yusaki-Akito/blocklist/master/fingerprintblock.txt (Tracking)
+
+https://raw.githubusercontent.com/anthonytwh/pihole-blocklist-converter/master/filters/filters.txt (Tracking)
+
+https://raw.githubusercontent.com/anthonytwh/pihole-blocklist-converter/master/filters/privacy.txt (Tracking)
+
+https://raw.githubusercontent.com/MoralCode/pihole-antitelemetry/main/telemetry-domains_beta.txt (Tracking - iOS and Andriod)
+
+https://raw.githubusercontent.com/MoralCode/pihole-antitelemetry/main/telemetry-domains_borked.txt (Tracking - iOS and Andriod)
+
+https://raw.githubusercontent.com/einyx/pfsense-pihole-blocklist/master/nsa.txt (Tracking)
+
+https://raw.githubusercontent.com/daylamtayari/Pi-Hole-Blocklist/master/Mirrors/NSA-Blocklist--CHEF-KOCH.txt (Tracking)
+
+https://raw.githubusercontent.com/einyx/pfsense-pihole-blocklist/master/philips.txt (Tracking)
+
+https://raw.githubusercontent.com/einyx/pfsense-pihole-blocklist/master/sonos.txt (Tracking)
+
+https://raw.githubusercontent.com/nocturnalarchives/BlockLists-x/master/sonos-master.txt (Tracking)
+
+https://raw.githubusercontent.com/nocturnalarchives/BlockLists-x/master/sonos-metrics.txt (Tracking)
+
+https://raw.githubusercontent.com/nocturnalarchives/BlockLists-x/master/sonos-updates.txt (Tracking Updates)
+
+https://raw.githubusercontent.com/daylamtayari/Pi-Hole-Blocklist/master/Mirrors/Xiaomi-Blocklist--Anthony-Wang.txt (Tracking)
+
+https://raw.githubusercontent.com/nocturnalarchives/BlockLists-x/master/duckduckgo-trackers.txt (Tracking)
+
+https://raw.githubusercontent.com/nocturnalarchives/BlockLists-x/master/netflix-trackers.txt (Tracking)
+
+https://raw.githubusercontent.com/einyx/pfsense-pihole-blocklist/master/windows.txt (Windows Telemetry)
+
+https://gitlab.com/janhkrueger/hosts/-/blob/main/hosts (Tracking)
+
+https://gitlab.com/im-boots/pihole-lists/-/raw/main/loggers.txt (Tracking)
+
+https://gitlab.com/im-boots/pihole-lists/-/raw/main/smarttv.txt (Tracking)
+
+https://raw.githubusercontent.com/dead-hosts/Zelo72s_rpi.pihole.blocklists.multi/master/output/origin.list/Analytic/POTENTIALLY_INACTIVE/potentially_up (Tracking)
+
+https://raw.githubusercontent.com/dead-hosts/Zelo72s_rpi.pihole.blocklists.multi/master/output/origin.list/Analytic/POTENTIALLY_INACTIVE/down_or_potentially_down (Tracking)
+
+https://raw.githubusercontent.com/dead-hosts/Zelo72s_rpi.pihole.blocklists.multi/master/output/origin.list/domains/ACTIVE/list (Tracking) 
+
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/easyprivacy/list.txt (Tracking)
+
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/fanboy-cookiemonster/list.txt (Tracking)
+
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/gfrogeye-firstparty-trackers/list.txt (Tracking)
+
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/mozilla-shavar-analytics/list.txt (Tracking)
+
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/ublock-badware/list.txt (Tracking)
+
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/ublock-privacy/list.txt (Tracking)
+
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/urlhaus/list.txt (Tracking)
+
+https://gitlab.com/H4ckZ/blocklist/-/raw/master/blocklist.txt (Tracking)
+
+https://gitlab.com/sbioa1234/pihole/-/raw/master/etc-pihole/list.4.s3.amazonaws.com.domains (Tracking)
+
+https://raw.githubusercontent.com/0XE4/Pi-Holed/master/ip_logging_domains (Tracking)
+
+https://raw.githubusercontent.com/rto/phased-array/master/phased_array_blocklist.txt (Tracking)
+
+https://encrypt-the-planet.com/downloads/hosts (Windows Telemetry)
+
+https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/apple (Tracking iOS)
+
+https://raw.githubusercontent.com/liamja/Prebake/master/obtrusive.txt (Tracking)
+
+https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt (Tracking)
+
+https://gitlab.com/im-boots/pihole-lists/-/raw/main/loggers.txt (Tracking)
+
+https://gitlab.com/im-boots/pihole-lists/-/raw/main/smarttv.txt (Andriod Tracking)
+
+https://raw.githubusercontent.com/JohnHiqs/CHEF-KOCH/main/HOSTS/Microsoft-HOSTS-FilterList.txt (Windows Telemetry)
+
+https://raw.githubusercontent.com/JohnHiqs/CHEF-KOCH/main/HOSTS/Skype-HOSTS-FilterList.txt (Windows Telemetry)
+
+https://raw.githubusercontent.com/JohnHiqs/CHEF-KOCH/main/HOSTS/Apple-HOSTS-FilterList.txt (Apple Telemetry)
+
+https://raw.githubusercontent.com/JohnHiqs/CHEF-KOCH/main/HOSTS/Adguard-HOSTS-FilterList.txt (Tracking)
+
+https://raw.githubusercontent.com/JohnHiqs/CHEF-KOCH/main/HOSTS/Google-HOSTS-FilterList.txt (Tracking)
+
+https://raw.githubusercontent.com/JohnHiqs/CHEF-KOCH/main/HOSTS/Mozilla-HOSTS-FilterList.txt (Tracking)
+
+https://raw.githubusercontent.com/JohnHiqs/CHEF-KOCH/main/HOSTS/Spotify-HOSTS-FilterList.txt (Tracking)
+
+https://raw.githubusercontent.com/JohnHiqs/blocklist/master/blocklist_devices_samsungsmarttv.txt (Tracking)
+
+https://raw.githubusercontent.com/Kenny2k8/Pihole-Blocklist/master/Blocklist/amazon-com-inc (Tracking)
+
+https://raw.githubusercontent.com/lwsnz/pihole-lists-armada/main/android-location-tracking-common (Tracking)
+
+https://raw.githubusercontent.com/lwsnz/pihole-lists-armada/main/connectivity-tests-common (Tracking)
+
+https://raw.githubusercontent.com/lwsnz/pihole-lists-armada/main/huawei-telemetry-track.txt (Tracking)
+
+https://raw.githubusercontent.com/lwsnz/pihole-lists-armada/main/mozilla-cloud-blocklist.txt (Tracking)
+
+https://raw.githubusercontent.com/lwsnz/pihole-lists-armada/main/no-google-big.txt (Tracking)
+
+https://raw.githubusercontent.com/lwsnz/pihole-lists-armada/main/no-google-hosts.txt (Tracking)
+
+https://raw.githubusercontent.com/lwsnz/pihole-lists-armada/main/nvidia-telemetry (Tracking)
+
+https://raw.githubusercontent.com/lwsnz/pihole-lists-armada/main/xiaomi-telemetry-tracking (Tracking)
+
+https://raw.githubusercontent.com/lwsnz/pihole-lists-armada/main/url-shorteners.txt (Tracking)
+
+https://raw.githubusercontent.com/FleuryK/pihole-ads/master/blocklist-ads-website/zeustracker.abuse.ch_at_20190621.txt (Tracking)
+
+https://raw.githubusercontent.com/FleuryK/pihole-ads/master/blocklist-ads-website/github_chef-koch_canvas_at_20190412.txt (Tracking)
+
+https://raw.githubusercontent.com/FleuryK/pihole-ads/master/blocklist-ads-website/github_chef-koch_audiofp_at_20190412.txt (Tracking)
+
+https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/searchengines_-_google-bing_allowed.txt (Tracking)
+
+https://raw.githubusercontent.com/muxcc/AdsBlockLists/master/spy.hosts (Tracking)
+
+https://raw.githubusercontent.com/suhas316380/pihole-ads-list/master/ios.list (Tracking - iOS)
+
+https://raw.githubusercontent.com/KitsapCreator/pihole-blocklists/master/autodiscover/autodiscover-tlds.txt (Windows Telemetry)
+
+https://raw.githubusercontent.com/KitsapCreator/pihole-blocklists/master/autodiscover/autodiscover-tlds-original.txt (Windows Telemetry)
+
+https://raw.githubusercontent.com/craiu/mobiletrackers/master/windowslist.txt (Windows Telemetry)
+
+https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/anti-norton-tracking.txt (Tracking)
+
+https://raw.githubusercontent.com/Kwinnieprince/pihole-blocklists/master/tracking/androidtracking/androidtrackingblocklist.txt (Tracking)
+
+https://raw.githubusercontent.com/Kwinnieprince/pihole-blocklists/master/tracking/curated_trackingblocklist.txt (Tracking)
+
+https://raw.githubusercontent.com/Kwinnieprince/pihole-blocklists/master/tracking/notracking.txt (Tracking)
+
+https://raw.githubusercontent.com/Kwinnieprince/pihole-blocklists/master/tracking/port_scanning_blocklist.txt (Tracking)
+
+https://raw.githubusercontent.com/Kwinnieprince/pihole-blocklists/master/tracking/simpletrackingblocklist.txt (Tracking)
+
+https://raw.githubusercontent.com/Kwinnieprince/pihole-blocklists/master/tracking/trackingblocklist.txt (Tracking)
+
+https://raw.githubusercontent.com/corespace-security/blocklist/master/adblock-simple.txt (Tracking) 
+
+https://raw.githubusercontent.com/corespace-security/blocklist/master/amazon.txt (Tracking)
+
+https://raw.githubusercontent.com/corespace-security/blocklist/master/fritz.box-block.txt (Tracking)
+
+https://raw.githubusercontent.com/corespace-security/blocklist/master/google.txt (Tracking)
+
+https://raw.githubusercontent.com/corespace-security/blocklist/master/in-addr.txt (Tracking)
+
+https://ente.dev/api/blocklist/apple-hosts (Tracking - iOS)
+
+https://ente.dev/api/blocklist/google-amp-hosts (Google Amp Blocking - Tracking)
+
+https://raw.githubusercontent.com/ShadowWhisperer/IPs/master/Other/Trackers (Tracking)
+
+https://raw.githubusercontent.com/AdlistCreator/Pi-Hole-Blocklist/main/ente-list/tracking-hosts.txt (Tracking)
+
+https://raw.githubusercontent.com/AdlistCreator/Pi-Hole-Blocklist/main/ente-list/amazon-hosts.txt (Tracking)
+
+https://raw.githubusercontent.com/AdlistCreator/Pi-Hole-Blocklist/main/ente-list/apple-hosts.txt (Apple Tracking)
+
+https://raw.githubusercontent.com/AdlistCreator/Pi-Hole-Blocklist/main/ente-list/cloudflare-hosts.txt (Tracking)
+
+https://raw.githubusercontent.com/AdlistCreator/Pi-Hole-Blocklist/main/ente-list/google-amp-hosts.txt (Tracking)
+
+https://raw.githubusercontent.com/dead-hosts/Zelo72s_rpi.pihole.blocklists.multi/master/output/origin.list/Analytic/POTENTIALLY_INACTIVE/active_and_merged_in_results (Tracking)
+
+https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/URL_tracking_parameters (Tracking)
+
+https://raw.githubusercontent.com/Kenny2k8/Pihole-Blocklist/master/Blocklist/Huawai (Tracking)
+
+https://hostfiles.frogeye.fr/firstparty-trackers.txt (Tracking)
+
+https://hostfiles.frogeye.fr/multiparty-trackers.txt (Tracking)
+
+https://raw.githubusercontent.com/JuanRodenas/Pi-hole_list/main/Listas/Amazon/all (Tracking)
+
+https://raw.githubusercontent.com/JuanRodenas/Pi-hole_list/main/Listas/Apple/all (Tracking - iOS)
+
+https://raw.githubusercontent.com/SystemJargon/pi-hole/main/lists/blacklist/google/no-google-hosts.txt (Tracking)
+
+https://raw.githubusercontent.com/SystemJargon/pi-hole/main/lists/blacklist/google/no-google-big.txt (Tracking)
+
+https://raw.githubusercontent.com/SystemJargon/pi-hole/main/lists/blacklist/google/no-gmail.txt (Tracking)
+
+https://raw.githubusercontent.com/SystemJargon/pi-hole/main/lists/blacklist/google/google-apis.txt (Tracking)
+
+https://raw.githubusercontent.com/SystemJargon/pi-hole/main/lists/blacklist/other/url-shorteners.txt (Tracking)
+
+https://raw.githubusercontent.com/SystemJargon/pi-hole/main/lists/blacklist/telemetry/adverts-telemetry-tracking.txt (Tracking)
+
+https://raw.githubusercontent.com/SystemJargon/pi-hole/main/lists/blacklist/telemetry/cv19-app-telemetry-tracing.txt (Tracking)
+
+https://raw.githubusercontent.com/SystemJargon/pi-hole/main/lists/blacklist/telemetry/nvidia-telemetry.txt (Tracking)
+
+https://raw.githubusercontent.com/SystemJargon/pi-hole/main/lists/blacklist/telemetry/ring-doorbell-app-telemetry.txt (Tracking)
+
+https://raw.githubusercontent.com/SystemJargon/pi-hole/main/lists/blacklist/updates/web-browsers-nopush.txt (Tracking)
+
+https://raw.githubusercontent.com/SystemJargon/pi-hole/main/lists/blacklist/v.firebog.net/EasyPrivacy.txt (Tracking)
+
+https://raw.githubusercontent.com/SystemJargon/pi-hole/main/lists/blacklist/v.firebog.net/Easylist.txt (Tracking)
+
+https://raw.githubusercontent.com/SystemJargon/pi-hole/main/lists/blacklist/telemetry/windows-telemetry-spy-blocklist.txt (Windows Telemetry)
+
+https://raw.githubusercontent.com/SystemJargon/pi-hole/main/lists/blacklist/updates/windows-updates-blocklist.txt (Windows Update Blocking)
+
+=============================================================================================================================================================================================================================================
+
+This is an easy-to-copy list if anyone wants to copy the "Tracking" blocklist into Pi-Hole. Remember, there is a chance it could be blocked, in which case you might need to make a custom whitelist.
+ _____________________________________
+|                                     |
+| Easy Copy List: Tracking for Pihole | 
+|_____________________________________|
+
+
+https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt https://blocklistproject.github.io/Lists/tracking.txt https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt https://web.archive.org/web/20210125013754/https://raw.githubusercontent.com/hectorm/hmirror/master/data/disconnect.me-tracking/list.txt https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt https://raw.githubusercontent.com/mkb2091/blockconvert/master/output/domains.txt https://web.archive.org/web/20210417014812/https://raw.githubusercontent.com/herrbischoff/trackers/master/trackers.txt https://gist.githubusercontent.com/johnrlive/d9c9de7ecc79cbfdb58bd53af5faeeea/raw/4aaa7e9c76815a8a5a2de8c3ef42d21b1f06c6b8/Samsung%2520Smart-TV%2520Blocklist%2520Adlist%2520(for%2520PiHole) https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt https://raw.githubusercontent.com/erkexzcx/disconnectme-pihole/master/services_Analytics.txt https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/Tracking/trackingblocklist.txt https://raw.githubusercontent.com/xlimit91/xlimit91-block-list/master/blacklist.txt https://justdomains.github.io/blocklists/lists/easyprivacy-justdomains.txt https://raw.githubusercontent.com/smashah/smashblock/master/blocklist-r.txt https://raw.githubusercontent.com/erkexzcx/disconnectme-pihole/master/services_FingerprintingGeneral.txt https://raw.githubusercontent.com/erkexzcx/disconnectme-pihole/master/services_FingerprintingInvasive.txt https://raw.githubusercontent.com/erkexzcx/disconnectme-pihole/master/services_Disconnect.txt https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt https://v.firebog.net/hosts/Easyprivacy.txt https://v.firebog.net/hosts/Prigent-Ads.txt https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt https://someonewhocares.org/hosts/zero/hosts https://web.archive.org/web/20201105135910/https://raw.githubusercontent.com/herrbischoff/trackers/master/domains.txt https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SessionReplay.txt https://raw.githubusercontent.com/bmyjacks/adlists/master/adlists/anti-AD-for-Pi-Hole.txt https://raw.githubusercontent.com/bmyjacks/adlists/master/adlists/EasyPrivacy.txt https://raw.githubusercontent.com/bmyjacks/adlists/master/adlists/EasyList-Cookie-List.txt https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileSpyware.txt https://raw.githubusercontent.com/anarki999/Adblock-List-Archive/master/Better.fyiTrackersBlocklist.txt https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt https://hostfiles.frogeye.fr/multiparty-only-trackers-hosts.txt https://v.firebog.net/hosts/static/HPHosts/Hostsmmt.txt https://gitlab.com/my-privacy-dns/matrix/matrix/-/raw/master/source/tracking/domains.list https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/doubleclick.txt https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/analytics.txt https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt https://blocklistproject.github.io/Lists/tracking.txt https://raw.githubusercontent.com/quedlin/blacklist/master/domains https://raw.githubusercontent.com/UnbendableStraw/samsungnosnooping/master/README.md https://v.firebog.net/hosts/static/SamsungSmart.txt https://raw.githubusercontent.com/nabble/semalt-blocker/master/domains/blocked https://raw.githubusercontent.com/cbuijs/shallalist/master/adv/domains https://raw.githubusercontent.com/cbuijs/shallalist/master/aggressive/domains https://raw.githubusercontent.com/cbuijs/shallalist/master/downloads/domains https://raw.githubusercontent.com/cbuijs/shallalist/master/spyware/domains https://raw.githubusercontent.com/cbuijs/shallalist/master/tracker/domains https://raw.githubusercontent.com/soteria-nou/domain-list/master/analytics.txt https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Steven-Blacks-Trackers.txt https://raw.githubusercontent.com/Th3M3/blocklists/master/tracking%26ads.list https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/extra.txt https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt https://raw.githubusercontent.com/ligyxy/Blocklist/master/BLOCKLIST https://raw.githubusercontent.com/blocktastic/pihole/master/blocktastic.txt https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt https://joewein.net/dl/bl/dom-bl.txt https://raw.githubusercontent.com/meinhimmel/hosts/master/hosts https://raw.githubusercontent.com/mhhakim/pihole-blocklist/master/custom-blocklist.txt https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Notracking-hostnames.txt https://raw.githubusercontent.com/soteria-nou/domain-list/master/widgets.txt https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/uAssetsPrivacy.txt https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/uncheckyads.txt https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/android.txt https://raw.githubusercontent.com/hectorm/hmirror/master/data/easyprivacy/list.txt https://raw.githubusercontent.com/hectorm/hmirror/master/data/fademind-add.2o7net/list.txt https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Prebake-Obtrusive.txt https://raw.githubusercontent.com/AdamO20054/PiHoleAdFucker/main/AdListsMulti/TrackingBlocklists https://raw.githubusercontent.com/erkexzcx/disconnectme-pihole/master/services_Analytics.txt https://raw.githubusercontent.com/erkexzcx/disconnectme-pihole/master/services_FingerprintingGeneral.txt https://raw.githubusercontent.com/erkexzcx/disconnectme-pihole/master/services_FingerprintingInvasive.txt https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt https://raw.githubusercontent.com/pirat28/IHateTracker/master/iHateTracker.txt https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/uAssetsPrivacy.txt https://raw.githubusercontent.com/tyzbit/hosts/master/data/tyzbit/hosts https://raw.githubusercontent.com/tyzbit/hosts/master/data/tyzbit/hosts https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt https://hostfiles.frogeye.fr/firstparty-only-trackers-hosts.txt https://raw.githubusercontent.com/im-sm/Pi-hole-Torrent-Blocklist/main/all-torrent-trackres.txt https://raw.githubusercontent.com/axeleroy/adguard-cname-trackers-pihole/main/blocklist.txt https://raw.githubusercontent.com/uTogglin/PI-hole-iploggers-blocklist/main/List https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/analyticsparsed https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/doubleclickparsed https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/proxiesparsed https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list/-/raw/master/For%20hosts%20file/The_Quantum_Ad-List.txt https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/tyzbit.txt https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/fonts.txt https://raw.githubusercontent.com/craiu/mobiletrackers/master/list.txt https://perflyst.github.io/PiHoleBlocklist/android-tracking.txt https://raw.githubusercontent.com/ftpmorph/ftprivacy/master/blocklists/avg-avast-data-mining-full-block.txt https://raw.githubusercontent.com/blocklistproject/Lists/master/tracking.txt https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts https://raw.githubusercontent.com/ftpmorph/ftpihole/master/blocklists/avg-avast-data-mining-full-block.txt https://raw.githubusercontent.com/rto/phased-array/master/phased_array_blocklist.txt https://raw.githubusercontent.com/StevenBlack/hosts/master/data/UncheckyAds/hosts https://raw.githubusercontent.com/LunarWatcher/Pihole-blocklists/master/global-blocklist-plain.txt https://gitlab.com/my-privacy-dns/matrix/matrix/-/raw/master/source/tracking/domains.list https://web.archive.org/web/20200103140913/https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/PiHole_HOSTS_Spyware.txt https://raw.githubusercontent.com/hell-sh/Evil-Domains/master/lists/IP%20Loggers.txt https://raw.githubusercontent.com/hell-sh/Evil-Domains/master/lists/Trackers.txt  https://raw.githubusercontent.com/llacb47/mischosts/master/whiteops-hosts https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/domains/domains1.list https://raw.githubusercontent.com/p1r473/samsungnosnooping/master/Samsungnosnooping.txt https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/EasyPrivacy3rdParty.txt https://raw.githubusercontent.com/soteria-nou/domain-list/cleaned/affiliate.txt https://raw.githubusercontent.com/soteria-nou/domain-list/cleaned/analytics.txt https://raw.githubusercontent.com/soteria-nou/domain-list/cleaned/enrichments.txt https://raw.githubusercontent.com/soteria-nou/domain-list/cleaned/widgets.txt https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/alexa  https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/huawei https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/roku https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/samsung https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/sonos https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/child-protection https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/samsung https://www.github.developerdan.com/hosts/lists/amp-hosts-extended.txt https://raw.githubusercontent.com/furkun/Anti-IP-Grabber-Hosts/main/hosts https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/mozilla/all https://raw.githubusercontent.com/notracking/hosts-blocklists/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt https://raw.githubusercontent.com/de956/adblock-list/main/blocklist.txt https://download.dnscrypt.info/blocklists/domains/mybase.txt https://raw.githubusercontent.com/JohnHiqs/Blocklist/master/blocklist_category_tracking.txt https://raw.githubusercontent.com/soteria-nou/domain-list/master/enrichments.txt https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/firebase.txt https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Other%20domains%20versions/BrowseWebsitesWithoutLoggingInDomains.txt https://dsi.ut-capitole.fr/blacklists/download/sect.tar.gz https://raw.githubusercontent.com/notracking/hosts-blocklists/master/domains.txt https://web.archive.org/web/20200215140431/http://mirror1.malwaredomains.com:80/files/url_shorteners.txt https://github.com/j-moriarti/pDNSf-Hosts-collection/releases/download/v1.0.0/pDNSf-hosts-part0.txt https://raw.githubusercontent.com/neoFelhz/neohosts/data/_data/extra/2345.txt https://raw.githubusercontent.com/neoFelhz/neohosts/data/_data/extra/analytics.txt https://web.archive.org/web/20191009194133/https://hosts-file.net/exp.txt https://iplists.firehol.org/files/iblocklist_abuse_zeus.netset https://iplists.firehol.org/files/myip.ipset https://iplists.firehol.org/files/php_harvesters.ipset https://raw.githubusercontent.com/Amdromeda/Blocklist-Pi-Hole/master/Windows%20telemetry.txt https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/firewall/spy.txt https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/MiFitXiaomi/mifitxiaomiblocklist.txt https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/Windows/windowstelemetryblocklist.txt https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Block-EU-Cookie-Shit-List.txt https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/WindowsSpyBlocker7.txt https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/WindowsSpyBlocker81.txt https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/search-blacklist.txt https://raw.githubusercontent.com/ftpmorph/ftpihole/master/blocklists/huawei-trackers.txt https://raw.githubusercontent.com/ftpmorph/ftpihole/master/blocklists/windows10-spying-erm-i-mean-telemetry-lol.tx https://raw.githubusercontent.com/ftpmorph/ftpihole/master/blocklists/xiaomi-ads-tracking.txt https://raw.githubusercontent.com/soteria-nou/domain-list/master/affiliate.txt https://raw.githubusercontent.com/wildquaker/filterlists/master/cname_cloaked_list.txt https://raw.githubusercontent.com/wildquaker/filterlists/master/justdomains.txt https://raw.githubusercontent.com/muxcc/AdsBlockLists/master/ksn.hosts https://gitlab.com/dns-firewall/dns/matrix/matrix/raw/master/source/tracking/domains.list https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/notrack-blocklist.txt https://raw.githubusercontent.com/fredprod/host-file.net-backup/master/emd.txt https://raw.githubusercontent.com/fredprod/host-file.net-backup/master/exp.txt https://raw.githubusercontent.com/fredprod/host-file.net-backup/master/grm.txt https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Filter https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Microsoft https://raw.githubusercontent.com/lwsnz/pihole-lists-armada/main/netflix-telemetry.txt https://raw.githubusercontent.com/lwsnz/pihole-lists-armada/main/block-updates-windows-androidtv-vlc.txt https://raw.githubusercontent.com/lwsnz/pihole-lists-armada/main/windows_os-track-telemetry.txt https://raw.githubusercontent.com/lwsnz/pihole-lists-armada/main/ring.com-telemetry.txt https://raw.githubusercontent.com/lwsnz/pihole-lists-armada/main/cvd_app-telemetry-tracing.txt https://raw.githubusercontent.com/lwsnz/pihole-lists-armada/main/typical-android-app-telemetry.txt https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/government.txt https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/searchengines_-_kid-safe.txt  https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/spyware.txt https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/tracking.txt https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/hacking-illegal.txt https://raw.githubusercontent.com/uuiese/block/master/E-MailTracking.txt https://raw.githubusercontent.com/uuiese/block/master/MirrorNSAB.txt https://raw.githubusercontent.com/uuiese/block/master/MirrorTrackers.txt https://raw.githubusercontent.com/uuiese/block/master/MirrorTrackersAFP.txt https://raw.githubusercontent.com/uuiese/block/master/MirrorTrackersCFF.txt https://raw.githubusercontent.com/uuiese/block/master/MirrorTrackersCFP.txt  https://raw.githubusercontent.com/uuiese/block/master/MirrorTrackersWT.txt  https://raw.githubusercontent.com/uuiese/block/master/MyBlockDoH.txt  https://raw.githubusercontent.com/uuiese/block/master/MyHostFile.txt  https://raw.githubusercontent.com/uuiese/block/master/Myampproject.txt https://gist.githubusercontent.com/vuxat/f25149898451efc6a2723af7c6643f82/raw/5985279ee61a7a77d4f5a5163460177b6a8b62e2/hosts-file.net_hjk.txt https://raw.githubusercontent.com/de956/adblock-list/main/blocklist.txt https://raw.githubusercontent.com/Knuschberkeks/Knuschberblock/main/Knuschberblock.txt https://raw.githubusercontent.com/dashingdon/blocklists/master/pihole_black.list https://raw.githubusercontent.com/Amdr0meda/Blocklist_Pi_Hole/master/Windows%20telemetry.txt https://raw.githubusercontent.com/Amdr0meda/Blocklist_Pi_Hole/master/Xiaomi%20Mi-Fit%20Amazfit%20Huami.txt https://www.i-dont-care-about-cookies.eu/abp/ https://raw.githubusercontent.com/smokingwheels/smokingwheels.github.io/master/Pi-hole/searchengine https://raw.githubusercontent.com/smokingwheels/smokingwheels.github.io/master/Pi-hole/searchengine1 https://raw.githubusercontent.com/smokingwheels/smokingwheels.github.io/master/Pi-hole/searchengine2 http://web.archive.org/web/20200304013256/https://hosts-file.net/grm.txt http://web.archive.org/web/20191001083500/http://hosts-file.net/emd.txt https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains https://raw.githubusercontent.com/deep-bhatt/huawei-block-list/master/huawei-block-host.txt https://raw.githubusercontent.com/AdlistCreator/Pi-Hole-Blocklist/main/htrc/Hosts.txt https://git.herrbischoff.com/trackers/plain/cookie.txt https://git.herrbischoff.com/trackers/plain/telemetry.txt https://git.herrbischoff.com/trackers/plain/trackers.txt https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list/-/raw/master/Individual%20lists/The_Quantum_Privacy-list.txt https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/activation.txt https://raw.githubusercontent.com/ojmarcelino/pihole/main/Adobe https://raw.githubusercontent.com/iteqla/pihole/main/IP_Camera_blocklist.txt https://raw.githubusercontent.com/iteqla/pihole/main/Samsung.txt https://raw.githubusercontent.com/Kenny2k8/Pihole-Blocklist/master/Blocklist/malicious https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspicious/ipinfo.txt https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspicious/i2p.txt  https://raw.githubusercontent.com/buckmelanoma/block_lists/master/hue_bridge.txt https://raw.githubusercontent.com/Yusaki-Akito/blocklist/master/fingerprintblock.txt https://raw.githubusercontent.com/anthonytwh/pihole-blocklist-converter/master/filters/filters.txt https://raw.githubusercontent.com/anthonytwh/pihole-blocklist-converter/master/filters/privacy.txt https://raw.githubusercontent.com/einyx/pfsense-pihole-blocklist/master/nsa.txt https://raw.githubusercontent.com/daylamtayari/Pi-Hole-Blocklist/master/Mirrors/NSA-Blocklist--CHEF-KOCH.txt https://raw.githubusercontent.com/einyx/pfsense-pihole-blocklist/master/philips.txt https://raw.githubusercontent.com/einyx/pfsense-pihole-blocklist/master/sonos.txt https://raw.githubusercontent.com/nocturnalarchives/BlockLists-x/master/sonos-master.txt https://raw.githubusercontent.com/nocturnalarchives/BlockLists-x/master/sonos-metrics.txt https://raw.githubusercontent.com/nocturnalarchives/BlockLists-x/master/sonos-updates.txt https://raw.githubusercontent.com/daylamtayari/Pi-Hole-Blocklist/master/Mirrors/Xiaomi-Blocklist--Anthony-Wang.txt https://raw.githubusercontent.com/nocturnalarchives/BlockLists-x/master/duckduckgo-trackers.txt https://raw.githubusercontent.com/nocturnalarchives/BlockLists-x/master/netflix-trackers.txt https://gitlab.com/janhkrueger/hosts/-/blob/main/hosts https://gitlab.com/im-boots/pihole-lists/-/raw/main/loggers.txt https://gitlab.com/im-boots/pihole-lists/-/raw/main/smarttv.txt https://raw.githubusercontent.com/dead-hosts/Zelo72s_rpi.pihole.blocklists.multi/master/output/origin.list/Analytic/POTENTIALLY_INACTIVE/potentially_up https://raw.githubusercontent.com/dead-hosts/Zelo72s_rpi.pihole.blocklists.multi/master/output/origin.list/Analytic/POTENTIALLY_INACTIVE/down_or_potentially_down https://raw.githubusercontent.com/dead-hosts/Zelo72s_rpi.pihole.blocklists.multi/master/output/origin.list/domains/ACTIVE/list https://raw.githubusercontent.com/hectorm/hmirror/master/data/easyprivacy/list.txt https://raw.githubusercontent.com/hectorm/hmirror/master/data/fanboy-cookiemonster/list.txt https://raw.githubusercontent.com/hectorm/hmirror/master/data/gfrogeye-firstparty-trackers/list.txt https://raw.githubusercontent.com/hectorm/hmirror/master/data/mozilla-shavar-analytics/list.txt https://raw.githubusercontent.com/hectorm/hmirror/master/data/ublock-badware/list.txt https://raw.githubusercontent.com/hectorm/hmirror/master/data/ublock-privacy/list.txt  https://raw.githubusercontent.com/hectorm/hmirror/master/data/urlhaus/list.txt https://gitlab.com/H4ckZ/blocklist/-/raw/master/blocklist.txt https://gitlab.com/sbioa1234/pihole/-/raw/master/etc-pihole/list.4.s3.amazonaws.com.domains https://raw.githubusercontent.com/0XE4/Pi-Holed/master/ip_logging_domains https://raw.githubusercontent.com/rto/phased-array/master/phased_array_blocklist.txt https://encrypt-the-planet.com/downloads/hosts https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/apple https://raw.githubusercontent.com/liamja/Prebake/master/obtrusive.txt https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt https://gitlab.com/im-boots/pihole-lists/-/raw/main/loggers.txt https://gitlab.com/im-boots/pihole-lists/-/raw/main/smarttv.txt https://raw.githubusercontent.com/JohnHiqs/CHEF-KOCH/main/HOSTS/Adguard-HOSTS-FilterList.txt https://raw.githubusercontent.com/JohnHiqs/CHEF-KOCH/main/HOSTS/Google-HOSTS-FilterList.txt https://raw.githubusercontent.com/JohnHiqs/CHEF-KOCH/main/HOSTS/Mozilla-HOSTS-FilterList.txt https://raw.githubusercontent.com/JohnHiqs/CHEF-KOCH/main/HOSTS/Spotify-HOSTS-FilterList.txt https://raw.githubusercontent.com/JohnHiqs/blocklist/master/blocklist_devices_samsungsmarttv.txt https://raw.githubusercontent.com/lwsnz/pihole-lists-armada/main/android-location-tracking-common https://raw.githubusercontent.com/lwsnz/pihole-lists-armada/main/connectivity-tests-common https://raw.githubusercontent.com/lwsnz/pihole-lists-armada/main/huawei-telemetry-track.txt https://raw.githubusercontent.com/lwsnz/pihole-lists-armada/main/mozilla-cloud-blocklist.txt https://raw.githubusercontent.com/lwsnz/pihole-lists-armada/main/no-google-big.txt https://raw.githubusercontent.com/lwsnz/pihole-lists-armada/main/no-google-hosts.txt https://raw.githubusercontent.com/lwsnz/pihole-lists-armada/main/nvidia-telemetry https://raw.githubusercontent.com/lwsnz/pihole-lists-armada/main/xiaomi-telemetry-tracking https://raw.githubusercontent.com/lwsnz/pihole-lists-armada/main/url-shorteners.txt https://raw.githubusercontent.com/FleuryK/pihole-ads/master/blocklist-ads-website/zeustracker.abuse.ch_at_20190621.txt https://raw.githubusercontent.com/FleuryK/pihole-ads/master/blocklist-ads-website/github_chef-koch_canvas_at_20190412.txt https://raw.githubusercontent.com/FleuryK/pihole-ads/master/blocklist-ads-website/github_chef-koch_audiofp_at_20190412.txt https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/searchengines_-_google-bing_allowed.txt https://raw.githubusercontent.com/muxcc/AdsBlockLists/master/spy.hosts https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/anti-norton-tracking.txt https://raw.githubusercontent.com/Kwinnieprince/pihole-blocklists/master/tracking/androidtracking/androidtrackingblocklist.txt https://raw.githubusercontent.com/Kwinnieprince/pihole-blocklists/master/tracking/curated_trackingblocklist.txt https://raw.githubusercontent.com/Kwinnieprince/pihole-blocklists/master/tracking/notracking.txt https://raw.githubusercontent.com/Kwinnieprince/pihole-blocklists/master/tracking/port_scanning_blocklist.txt https://raw.githubusercontent.com/Kwinnieprince/pihole-blocklists/master/tracking/simpletrackingblocklist.txt https://raw.githubusercontent.com/Kwinnieprince/pihole-blocklists/master/tracking/trackingblocklist.txt https://raw.githubusercontent.com/corespace-security/blocklist/master/adblock-simple.txt  https://raw.githubusercontent.com/corespace-security/blocklist/master/amazon.txt https://raw.githubusercontent.com/corespace-security/blocklist/master/fritz.box-block.txt  https://raw.githubusercontent.com/corespace-security/blocklist/master/google.txt https://raw.githubusercontent.com/corespace-security/blocklist/master/in-addr.txt https://ente.dev/api/blocklist/google-amp-hosts https://raw.githubusercontent.com/ShadowWhisperer/IPs/master/Other/Trackers https://raw.githubusercontent.com/AdlistCreator/Pi-Hole-Blocklist/main/ente-list/tracking-hosts.txt https://raw.githubusercontent.com/AdlistCreator/Pi-Hole-Blocklist/main/ente-list/amazon-hosts.txt https://raw.githubusercontent.com/AdlistCreator/Pi-Hole-Blocklist/main/ente-list/apple-hosts.txt https://raw.githubusercontent.com/AdlistCreator/Pi-Hole-Blocklist/main/ente-list/cloudflare-hosts.txt https://raw.githubusercontent.com/AdlistCreator/Pi-Hole-Blocklist/main/ente-list/google-amp-hosts.txt https://raw.githubusercontent.com/dead-hosts/Zelo72s_rpi.pihole.blocklists.multi/master/output/origin.list/Analytic/POTENTIALLY_INACTIVE/active_and_merged_in_results https://raw.githubusercontent.com/Kenny2k8/Pihole-Blocklist/master/Blocklist/Huawai https://hostfiles.frogeye.fr/firstparty-trackers.txt https://hostfiles.frogeye.fr/multiparty-trackers.txt https://raw.githubusercontent.com/JuanRodenas/Pi-hole_list/main/Listas/Amazon/all https://raw.githubusercontent.com/SystemJargon/pi-hole/main/lists/blacklist/google/no-google-hosts.txt https://raw.githubusercontent.com/SystemJargon/pi-hole/main/lists/blacklist/google/no-google-big.txt https://raw.githubusercontent.com/SystemJargon/pi-hole/main/lists/blacklist/google/no-gmail.txt https://raw.githubusercontent.com/SystemJargon/pi-hole/main/lists/blacklist/google/google-apis.txt https://raw.githubusercontent.com/SystemJargon/pi-hole/main/lists/blacklist/other/url-shorteners.txt https://raw.githubusercontent.com/SystemJargon/pi-hole/main/lists/blacklist/telemetry/adverts-telemetry-tracking.txt https://raw.githubusercontent.com/SystemJargon/pi-hole/main/lists/blacklist/telemetry/cv19-app-telemetry-tracing.txt https://raw.githubusercontent.com/SystemJargon/pi-hole/main/lists/blacklist/telemetry/nvidia-telemetry.txt https://raw.githubusercontent.com/SystemJargon/pi-hole/main/lists/blacklist/telemetry/ring-doorbell-app-telemetry.txt https://raw.githubusercontent.com/SystemJargon/pi-hole/main/lists/blacklist/updates/web-browsers-nopush.txt https://raw.githubusercontent.com/SystemJargon/pi-hole/main/lists/blacklist/v.firebog.net/EasyPrivacy.txt https://raw.githubusercontent.com/SystemJargon/pi-hole/main/lists/blacklist/v.firebog.net/Easylist.txt
+
+
+=============================================================================================================================================================================================================================================
+
+This is an easy-to-copy list if anyone wants to copy the "Windows Tracking" blocklist into Pi-Hole. Remember, there is a chance it could be blocked, in which case you might need to make a custom whitelist.
+ _____________________________________________
+|                                             |
+| Easy Copy List: Windows Tracking for Pihole | 
+|_____________________________________________|
+
+
+https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt https://raw.githubusercontent.com/kevinle-1/Windows-telemetry-blocklist/master/windowsblock.txt https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt  https://raw.githubusercontent.com/llacb47/mischosts/master/microsoft-telemetry https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Win10Telemetry https://raw.githubusercontent.com/Strappazzon/teleme7ry/master/rules.txt https://web.archive.org/web/20201223162851/https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/nomsdata.txt https://raw.githubusercontent.com/ojmarcelino/pihole/main/Microsoft https://raw.githubusercontent.com/buckmelanoma/block_lists/master/windows10_endpoints.txt https://raw.githubusercontent.com/buckmelanoma/block_lists/master/microsoft.txt https://raw.githubusercontent.com/einyx/pfsense-pihole-blocklist/master/windows.txt https://raw.githubusercontent.com/JohnHiqs/CHEF-KOCH/main/HOSTS/Microsoft-HOSTS-FilterList.txt https://raw.githubusercontent.com/JohnHiqs/CHEF-KOCH/main/HOSTS/Skype-HOSTS-FilterList.txt https://raw.githubusercontent.com/Kenny2k8/Pihole-Blocklist/master/Blocklist/amazon-com-inc https://raw.githubusercontent.com/KitsapCreator/pihole-blocklists/master/autodiscover/autodiscover-tlds.txt https://raw.githubusercontent.com/KitsapCreator/pihole-blocklists/master/autodiscover/autodiscover-tlds-original.txt https://raw.githubusercontent.com/craiu/mobiletrackers/master/windowslist.txt https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/URL_tracking_parameters https://raw.githubusercontent.com/SystemJargon/pi-hole/main/lists/blacklist/telemetry/windows-telemetry-spy-blocklist.txt https://raw.githubusercontent.com/SystemJargon/pi-hole/main/lists/blacklist/updates/windows-updates-blocklist.txt 
+
+
+=============================================================================================================================================================================================================================================
+
+This is an easy-to-copy list if anyone wants to copy the "Apple Tracking" blocklist into Pi-Hole. Remember, there is a chance it could be blocked, in which case you might need to make a custom whitelist.
+ ___________________________________________
+|                                           |
+| Easy Copy List: Apple Tracking for Pihole | 
+|___________________________________________|
+
+
+https://raw.githubusercontent.com/jakejarvis/ios-trackers/master/blocklist.txt https://raw.githubusercontent.com/adversarialtools/apple-telemetry/master/blacklist https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Apple https://web.archive.org/web/20210126111012/https://raw.githubusercontent.com/ftpmorph/ftpihole/master/blocklists/apple-macos-big-sur.txt https://raw.githubusercontent.com/llacb47/mischosts/master/apple-telemetry https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/apple https://raw.githubusercontent.com/MoralCode/pihole-antitelemetry/main/telemetry-domains_beta.txt https://raw.githubusercontent.com/MoralCode/pihole-antitelemetry/main/telemetry-domains_borked.txt https://raw.githubusercontent.com/JohnHiqs/CHEF-KOCH/main/HOSTS/Apple-HOSTS-FilterList.txt https://raw.githubusercontent.com/suhas316380/pihole-ads-list/master/ios.list https://ente.dev/api/blocklist/apple-hosts https://raw.githubusercontent.com/JuanRodenas/Pi-hole_list/main/Listas/Apple/all
+
+
+=============================================================================================================================================================================================================================================
+
+This is an easy-to-copy list if anyone wants to copy the "Social Media Tracking" blocklist into Pi-Hole. Remember, there is a chance it could be blocked, in which case you might need to make a custom whitelist.
+ __________________________________________________
+|                                                  |
+| Easy Copy List: Social Media Tracking for Pihole | 
+|__________________________________________________|
+
+
+https://hblock.molinero.dev/hosts_domains.txt https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Fanboy-Annoyances-List.txt      
+
+=============================================================================================================================================================================================================================================
+
+___________
+|           |
+|  Credits  |
+|___________|
+
+
+
+- disconnect.me
+- Blocklist Project
+- quidsup
+- hectorm
+- crazy-max
+- Perflyst
+- mkb2091
+- herrbischoff
+- kevinle-1
+- johnrlive
+- Cauchon
+- Daniel White
+- erkexzcx
+- ShadowWhisperer
+- d43m0nhLInt3r
+- xlimit91
+- justdomains
+- smashah
+- geoffrey.frogeye.fr
+- WaLLy3K
+- FadeMind
+- Dan Pollock
+- Jake Jarvis
+- my-privacy-dns
+- nextdns
+- nicspaargaren
+- notracking
+- quedlin
+- UnbendableStraw
+- nabble
+- cbuijs
+- soteria-nou
+- deathbybandaid
+- Th3M3
+- ligyxy
+- blocktastic
+- blokada
+- joewein
+- meinhimmel
+- mhhakim
+- austinheap
+- Adam020054
+- adversarialtools
+- Akamaru
+- pirat28
+- hlock.molinero
+- tyzbit
+- AdguardTeam
+- im-sm
+- axeleroy
+- uTogglin
+- The_Quantum_Alpha
+- craiu
+- ftpmorph
+- bongochong
+- rto
+- StevenBlack
+- LunarWatcher
+- XionKzn
+- hell-sh
+- llacb47
+- mitchellkrogza
+- p1r473
+- r-a-y
+- Zelo72
+- RPiList
+- Daniel White
+- furkun
+- jmdugan
+- de959
+- BarbBlock
+- JohnHiqs
+- Strappazzon
+- malwaredomains
+- neoFelhz
+- host-file
+- zeustracker.abuse.ch
+- Amdromeda
+- DRSDavidSoft
+- Yuki2718
+- wildquaker
+- muxcc
+- slyfox1186
+- dns-firewall
+- fredprod
+- theycallmetimmy
+- uuiese
+- CHEF-KOCH
+- vuxat
+- Knuschberkeks
+- dashingdon
+- Amdr0meda
+- I don't care about cookies
+- smokingwheels
+- deep-bhatt
+- AdlistCreator
+- ojmarcelino
+- iteqla
+- Kenny2k8
+- stamparm
+- buckmelanoma
+- Yusaki-Akito
+- anthonytwh
+- MoralCode
+- einyx
+- daylamtayari
+- nocturnalarchives
+- janhkrueger
+- im-boots
+- dead-hosts
+- H4ckZ
+- sbioa1234
+- 0XE4
+- rto
+- encrypt-the-planet.com
+- liamja
+- FleuryK
+- suhas316380
+- KitsapCreator
+- iam-py-test
+- Kwinnieprince
+- corespace-security
+- Willi Entenmann
+- dead-hosts
+- Kees1958
+- slyfox1186
+- JuanRodenas
+- SystemJargon

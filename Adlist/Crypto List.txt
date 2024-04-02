@@ -1,0 +1,224 @@
+Crypto blocklist for Pi-Hole to stop crypto scripts on websites, crypto installed software on computers in the network, and mobile apps related to crypto. It's recommended to make your own whitelist because everyone has their own reason to unblock some websites due to certain scenarios.
+
+Note: Some of the lists have "Temp," which means they were previously unavailable and we don't know when they will be restored. I used the Wayback Machine to get the file before the owner or website took it down.
+
+Blocklist Type: Crypto
+(Includes crypto, phishing, and tracking.)
+
+=============================================================================================================================================================================================================================================
+ _____________________
+|                     |
+|  Blocklist: Crypto  |
+|_____________________|
+
+
+https://blocklistproject.github.io/Lists/crypto.txt (Crypto)
+
+https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser (Crypto)
+
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Cryptocurrency (Crypto)
+
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/RAW/Cryptocurrency (Crypto)
+
+https://justdomains.github.io/blocklists/lists/nocoin-justdomains.txt (Crypto)
+
+https://raw.githubusercontent.com/Amdromeda/Blocklist-Pi-Hole/master/Mining%20pages.txt (Crypto)
+
+https://pastebin.com/raw/a1TPEPfP (Crypto)
+
+https://v.firebog.net/hosts/Prigent-Crypto.txt (Crypto)
+
+https://raw.githubusercontent.com/greatis/Anti-WebMiner/master/blacklist.txt (Crypto)
+
+https://zerodot1.gitlab.io/CoinBlockerLists/list_browser.txt (Crypto)
+
+https://raw.githubusercontent.com/Levero/PiHole-Block-Whitelist/master/cryptominer.txt (Crypto)
+
+https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/hosts (Crypto)
+
+https://dehakkelaar.nl/lists/cryptojacking_campaign.list.txt (Crypto)
+
+https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/hosts_optional (Crypto)
+
+https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser_UBO.txt (Crypto)
+
+https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/hosts_browser (Crypto)
+
+https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt (Crypto)
+
+https://zerodot1.gitlab.io/CoinBlockerLists/list_optional.txt (Crypto)
+
+https://zerodot1.gitlab.io/CoinBlockerLists/list.txt (Crypto)
+
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/adblock-nocoin-list/list.txt (Crypto)
+
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/eth-phishing-detect/list.txt (Crypto)
+
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/zerodot1-coinblockerlists-browser/list.txt (Crypto)
+
+https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/Malware%20-%20Crypto%20Mining%20Pool%20Hosts (Crypto)
+
+https://raw.githubusercontent.com/erkexzcx/disconnectme-pihole/master/services_Cryptomining.txt (Crypto)
+
+https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspicious/crypto_mining.txt (Crypto)
+
+https://web.archive.org/web/20210124153812/https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/cryptomine.txt (Crypto)
+
+https://raw.githubusercontent.com/blocklistproject/Lists/master/crypto.txt (Crypto)
+
+https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspicious/crypto_mining.txt (Crypto)
+
+https://hosts.anudeep.me/mirror/CoinMiner.txt (Crypto)
+
+https://raw.githubusercontent.com/missdeer/blocklist/master/toblock-without-shorturl.lst (Crypto)
+
+https://zerodot1.gitlab.io/CoinBlockerLists/hosts (Crypto)
+
+https://raw.githubusercontent.com/hell-sh/Evil-Domains/master/lists/Other.txt (Crypto)
+
+https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/domains/domains0.list (Crypto)
+
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/crypto (Crypto)
+
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Cryptocurrency (Crypto) 
+                                                                               
+https://raw.githubusercontent.com/neoFelhz/neohosts/data/_data/extra/coinhave.txt (Crypto)     
+                     
+https://github.com/missdeer/blocklist/blob/master/toblock-without-shorturl.lst?raw=true (Crypto)
+
+https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list.txt (Crypto)
+
+https://iplists.firehol.org/files/cta_cryptowall.ipset (Crypto)
+
+https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/nocoin.txt (Crypto)
+
+https://raw.githubusercontent.com/CryptoFR/crypto-scams-fr/master/websites.txt (Crypto)
+
+https://raw.githubusercontent.com/justdomains/blocklists/master/lists/nocoin-justdomains.txt (Crypto)
+
+https://raw.githubusercontent.com/wildquaker/filterlists/master/MiningServerIPList.txt (Crypto)
+
+https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/crypto-coinmining.txt (Crypto)
+
+https://raw.githubusercontent.com/FadeMind/hosts.extras/master/CoinBlockerList/hosts (Crypto)
+
+https://zerodot1.gitlab.io/CoinBlockerLists/hosts_optional (Crypto)
+
+https://raw.githubusercontent.com/Amdr0meda/Blocklist_Pi_Hole/master/Mining%20pages.txt (Crypto)
+
+https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/list_browser.txt (Crypto)
+
+https://raw.githubusercontent.com/smokingwheels/smokingwheels.github.io/master/Pi-hole/yacysearchengine (Crypto)
+
+https://raw.githubusercontent.com/smokingwheels/smokingwheels.github.io/master/yacy/yacydump1.txt (Crypto)
+
+https://raw.githubusercontent.com/smokingwheels/smokingwheels.github.io/master/yacy/yacydump2.txt (Crypto)
+
+https://raw.githubusercontent.com/smokingwheels/smokingwheels.github.io/master/yacy/yacydump3.txt (Crypto)
+
+https://raw.githubusercontent.com/smokingwheels/smokingwheels.github.io/master/yacy/yacydump4.txt (Crypto)
+
+https://raw.githubusercontent.com/zetagi74/blocklists/master/Bigblock4 (Crypto, Phishing, and Tracking)
+
+https://raw.githubusercontent.com/einyx/pfsense-pihole-blocklist/master/mining.txt (Crypto)
+
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/adblock-nocoin-list/list.txt (Crypto)
+
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/anudeepnd-coinminer/list.txt (Crypto)
+
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/eth-phishing-detect/list.txt (Crypto)
+
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/zerodot1-coinblockerlists-browser/list.txt (Crypto)
+
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/zerodot1-coinblockerlists-optional/list.txt (Crypto)
+
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/zerodot1-coinblockerlists/list.txt (Crypto)
+
+https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt (Crypto)
+
+https://gitlab.com/timocapa/pihole-list/-/raw/master/EtherAddressLookup (Crypto)
+
+https://raw.githubusercontent.com/vitorinux/vmpihole-domainlist/main/domainlist.txt (Crypto)
+
+https://raw.githubusercontent.com/gcebollero/pihole-blackdga/master/bambenek-dga-feed-high (Crypto)
+
+https://raw.githubusercontent.com/KevinThomas0/CryptoScamDB-Lists/master/cryptoscamdb-blocklist.txt (Crypto)
+
+https://ente.dev/api/blocklist/crypto-hosts (Crypto)
+
+https://raw.githubusercontent.com/missdeer/blocklist/master/toblock.lst (Crypto)
+
+https://raw.githubusercontent.com/AdlistCreator/Pi-Hole-Blocklist/main/ente-list/crypto-hosts.txt (Crypto)
+
+https://raw.githubusercontent.com/Snota418/Youtube-spam-host-list/main/Crypto%20streams (Crypto)
+
+https://raw.githubusercontent.com/YAMA-EDV/blocklist-cryptojacking/master/yama_blacklist_cryptojacking.txt (Crypto)
+
+https://raw.githubusercontent.com/SystemJargon/pi-hole/main/lists/blacklist/v.firebog.net/Prigent-Crypto.txt (Crypto)
+
+=============================================================================================================================================================================================================================================
+
+If anyone wants to copy the "Crypto" blocklist into Pihole, this is a simple copy list. Remember, there is a chance it could be blocked, in which case you might need to make a custom whitelist.
+
+ ___________________________________
+|                                   |
+| Easy Copy List: Crypto for Pihole |
+|___________________________________|
+
+
+https://blocklistproject.github.io/Lists/crypto.txt https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Cryptocurrency https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/RAW/Cryptocurrency https://justdomains.github.io/blocklists/lists/nocoin-justdomains.txt https://raw.githubusercontent.com/Amdromeda/Blocklist-Pi-Hole/master/Mining%20pages.txt https://pastebin.com/raw/a1TPEPfP https://v.firebog.net/hosts/Prigent-Crypto.txt https://raw.githubusercontent.com/greatis/Anti-WebMiner/master/blacklist.txt https://zerodot1.gitlab.io/CoinBlockerLists/list_browser.txt https://raw.githubusercontent.com/Levero/PiHole-Block-Whitelist/master/cryptominer.txt https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/hosts https://dehakkelaar.nl/lists/cryptojacking_campaign.list.txt https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/hosts_optional https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser_UBO.txt https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/hosts_browser https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt https://zerodot1.gitlab.io/CoinBlockerLists/list_optional.txt https://zerodot1.gitlab.io/CoinBlockerLists/list.txt https://raw.githubusercontent.com/hectorm/hmirror/master/data/adblock-nocoin-list/list.txt https://raw.githubusercontent.com/hectorm/hmirror/master/data/eth-phishing-detect/list.txt https://raw.githubusercontent.com/hectorm/hmirror/master/data/zerodot1-coinblockerlists-browser/list.txt https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/Malware%20-%20Crypto%20Mining%20Pool%20Hosts https://raw.githubusercontent.com/erkexzcx/disconnectme-pihole/master/services_Cryptomining.txt https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspicious/crypto_mining.txt https://web.archive.org/web/20210124153812/https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/cryptomine.txt https://raw.githubusercontent.com/blocklistproject/Lists/master/crypto.txt https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspicious/crypto_mining.txt https://hosts.anudeep.me/mirror/CoinMiner.txt https://raw.githubusercontent.com/missdeer/blocklist/master/toblock-without-shorturl.lst https://zerodot1.gitlab.io/CoinBlockerLists/hosts https://raw.githubusercontent.com/hell-sh/Evil-Domains/master/lists/Other.txt https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/domains/domains0.list https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/crypto https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Cryptocurrency https://raw.githubusercontent.com/neoFelhz/neohosts/data/_data/extra/coinhave.txt https://github.com/missdeer/blocklist/blob/master/toblock-without-shorturl.lst?raw=true https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list.txt https://iplists.firehol.org/files/cta_cryptowall.ipset https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/nocoin.txt https://raw.githubusercontent.com/CryptoFR/crypto-scams-fr/master/websites.txt https://raw.githubusercontent.com/justdomains/blocklists/master/lists/nocoin-justdomains.txt https://raw.githubusercontent.com/wildquaker/filterlists/master/MiningServerIPList.txt https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/crypto-coinmining.txt https://raw.githubusercontent.com/FadeMind/hosts.extras/master/CoinBlockerList/hosts https://zerodot1.gitlab.io/CoinBlockerLists/hosts_optional https://raw.githubusercontent.com/Amdr0meda/Blocklist_Pi_Hole/master/Mining%20pages.txt https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/list_browser.txt https://raw.githubusercontent.com/smokingwheels/smokingwheels.github.io/master/Pi-hole/yacysearchengine https://raw.githubusercontent.com/smokingwheels/smokingwheels.github.io/master/yacy/yacydump1.txt https://raw.githubusercontent.com/smokingwheels/smokingwheels.github.io/master/yacy/yacydump2.txt https://raw.githubusercontent.com/smokingwheels/smokingwheels.github.io/master/yacy/yacydump3.txt https://raw.githubusercontent.com/smokingwheels/smokingwheels.github.io/master/yacy/yacydump4.txt https://raw.githubusercontent.com/zetagi74/blocklists/master/Bigblock4 https://raw.githubusercontent.com/einyx/pfsense-pihole-blocklist/master/mining.txt https://raw.githubusercontent.com/hectorm/hmirror/master/data/adblock-nocoin-list/list.txt https://raw.githubusercontent.com/hectorm/hmirror/master/data/anudeepnd-coinminer/list.txt https://raw.githubusercontent.com/hectorm/hmirror/master/data/eth-phishing-detect/list.txt https://raw.githubusercontent.com/hectorm/hmirror/master/data/zerodot1-coinblockerlists-browser/list.txt https://raw.githubusercontent.com/hectorm/hmirror/master/data/zerodot1-coinblockerlists-optional/list.txt https://raw.githubusercontent.com/hectorm/hmirror/master/data/zerodot1-coinblockerlists/list.txt https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt https://gitlab.com/timocapa/pihole-list/-/raw/master/EtherAddressLookup https://raw.githubusercontent.com/vitorinux/vmpihole-domainlist/main/domainlist.txt https://raw.githubusercontent.com/gcebollero/pihole-blackdga/master/bambenek-dga-feed-high  https://raw.githubusercontent.com/KevinThomas0/CryptoScamDB-Lists/master/cryptoscamdb-blocklist.txt https://ente.dev/api/blocklist/crypto-hosts https://raw.githubusercontent.com/missdeer/blocklist/master/toblock.lst https://raw.githubusercontent.com/AdlistCreator/Pi-Hole-Blocklist/main/ente-list/crypto-hosts.txt https://raw.githubusercontent.com/Snota418/Youtube-spam-host-list/main/Crypto%20streams https://raw.githubusercontent.com/YAMA-EDV/blocklist-cryptojacking/master/yama_blacklist_cryptojacking.txt https://raw.githubusercontent.com/SystemJargon/pi-hole/main/lists/blacklist/v.firebog.net/Prigent-Crypto.txt
+
+=============================================================================================================================================================================================================================================
+
+ ___________
+|           |
+|  Credits  |
+|___________|
+
+
+
+- Blocklist Project
+- ZeroDot1
+- ShadowWhisperer
+- justdomains
+- Amdromeda
+- a1TPEPfP
+- WaLLy3K
+- greatis
+- Levero
+- ZeroDot1
+- dehakkelaar
+- Akamaru
+- anudeep
+- hectorm
+- Esox-Lucius
+- erkexzcx
+- stamparm
+- missdeer
+- hell-sh
+- mitchellkrogza
+- RPiList
+- neoFelhz
+- FireHOL
+- austinheap
+- CryptoFR
+- justdomains
+- wildquaker
+- theycallmetimmy
+- FadeMind
+- Amdr0meda
+- smokingwheels
+- zetagi74
+- einyx
+- timocapa
+- vitorinux
+- gcebollero
+- KevinThomas0
+- Willi Entenmann
+- missdeer
+- AdlistCreator
+- Snota418
+- YAMA-EDV
+- SystemJargon
+
+

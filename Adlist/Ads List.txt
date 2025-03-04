@@ -1,0 +1,1283 @@
+The ads list is to be used for blocking ads on sites, but it can't block all ads since some websites have anti-adblock features, like YouTube and some news sites. However, most ad blockers have some extra that is mixed in with other blockers, for example, tracking, malware, phishing, porn, or some kind of telemetry from Windows, Android, and iOS/MacOS. It's recommended to make your own whitelist because everyone has their own reason to unblock some websites due to certain scenarios.
+
+Note: Some of the lists have "Temp," which means they were previously unavailable and we don't know when they will be restored. I used the Wayback Machine to get the file before the owner or website took it down.
+
+Blocklist Type: Ads
+(Includes ads, tracking, malware, phishing, porn, Windows, iOS, and Android.)
+
+=============================================================================================================================================================================================================================================
+ __________________
+|                  |
+|  Blocklist: Ads  |
+|__________________|
+
+
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts (Ads and Malware)
+
+http://sysctl.org/cameleon/hosts (Ads)
+
+https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt (Ads)
+
+https://blocklistproject.github.io/Lists/ads.txt (Ads)
+
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/adaway.org/list.txt (Ads)
+
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/adguard-simplified/list.txt (Ads)
+
+https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts (Ads)
+
+https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts (Ads)
+
+https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt (Ads and Tracking)
+
+https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts (Ads)
+
+https://raw.githubusercontent.com/ADsecu/black-domains/master/domain_hosts.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/zebpalmer/dns_blocklists/master/blocklist.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/SweetSophia/androidappspihole/master/testrareandroappblock.txt (Ads)
+
+https://raw.githubusercontent.com/neodevpro/neodevhost/master/host (Ads and Tracking)
+
+https://raw.githubusercontent.com/AlexRabbit/ADios-ADS/master/hosts (Ads)
+
+https://raw.githubusercontent.com/nicholasb2101/PiHole/master/Blocklists/Tertiary%20Blocklist.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/nicholasb2101/PiHole/master/Blocklists/Primary%20Blocklist.txt (Ads and Tracking)
+
+ https://raw.githubusercontent.com/erkexzcx/disconnectme-pihole/master/services_Advertising.txt (Ads)
+
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads (Ads)
+
+https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/MobileAppAds/appadsblocklist.txt (Ads for Moblie)
+
+https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/SmartTV/smarttvblocklist.txt (Ads for Moblie)
+
+https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/Android/androidblocklist.txt (Ads)
+
+https://justdomains.github.io/blocklists/lists/adguarddns-justdomains.txt (Ads)
+
+https://raw.githubusercontent.com/aspartam206/gravity_housekeeper/master/blocklist/ordered.txt (Ads)
+
+https://web.archive.org/web/20201007212908/https://raw.githubusercontent.com/jawz101/MobileAdTrackers/master/hosts (Ads and Tracking)
+
+https://raw.githubusercontent.com/RmG152/pi-hole-ownlist/master/adservers.txt (Ads)
+
+https://raw.githubusercontent.com/KitsapCreator/pihole-blocklists/master/ads.txt (Ads)
+
+https://v.firebog.net/hosts/static/w3kbl.txt (Ads)
+
+https://adaway.org/hosts.txt (Ads)
+
+https://v.firebog.net/hosts/AdguardDNS.txt (Ads)
+
+https://v.firebog.net/hosts/Admiral.txt (Ads)
+
+https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt (Ads)
+
+https://v.firebog.net/hosts/Easylist.txt (Ads)
+
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext   (Ads)
+
+https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts_without_controversies.txt (Ads)
+
+https://v.firebog.net/hosts/Prigent-Ads.txt (Ads)
+
+https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts (Ads and Malware)
+
+https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt (Ads)
+
+https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt (Ads)
+
+https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileAds.txt (Ads)
+
+https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardDNS.txt (Ads)
+
+https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt (Ads)
+
+https://raw.githubusercontent.com/realodix/AdBlockID/master/output/adblockid.txt (Ads)
+
+https://raw.githubusercontent.com/Levero/PiHole-Block-Whitelist/master/mobile.txt (Ads)
+
+https://tgc.cloud/downloads/hosts.txt (Ads)
+
+http://web.archive.org/web/20220801054727/https://abpvn.com/android/abpvn.txt (Ads)
+
+https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/adservers-and-trackers.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/Phentora/AdguardPersonalList/master/blocklist.txt (Ads)
+
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/AdAway-Default-Blocklist.txt (Ads)
+
+https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdList (Ads)
+
+https://getadhell.com/standard-package.txt (Ads)
+
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Adware-Filters.txt (Ads)
+
+https://raw.githubusercontent.com/kowith337/PersonalFilterListCollection/master/hosts/hosts_google_adservice_id.txt (Ads)
+
+https://repo.andnixsh.com/adblocker/hosts (Ads)
+
+https://raw.githubusercontent.com/yhonay/antipopads/master/hosts (Ads and Malware)
+
+https://www.bentasker.co.uk/adblock/blockeddomains.txt (Ads)
+
+https://asc.hk/adplus.txt (Ads and Malware)
+
+https://raw.githubusercontent.com/zznidar/BAR/master/BAR-list (Ads)
+
+https://someonewhocares.org/hosts/ipv6/hosts (Ads, Malware, and Tracking)
+
+https://block.energized.pro/basic/formats/hosts.txt (Ads, Malware, and Tracking)
+
+https://block.energized.pro/blu/formats/hosts.txt (Ads, Malware, and Tracking)
+
+https://raw.githubusercontent.com/hell-sh/Evil-Domains/master/evil-domains.txt (Ads, Malware, and Tracking)
+
+https://raw.githubusercontent.com/joeylane/hosts/master/hosts (Ads, and Malware)
+
+https://gitlab.com/my-privacy-dns/matrix/matrix/-/raw/master/source/adware/domains.list (Ads, and Tracking)
+
+https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/mvps-hosts-file.txt (Ads, Malware, and Tracking)
+
+https://winhelp2002.mvps.org/hosts.txt (Ads, Malware, and Tracking)
+
+https://tgc.cloud/downloads/iOSAds.txt (Ads)
+
+https://raw.githubusercontent.com/migueldemoura/ublock-umatrix-rulesets/master/Hosts/ads-tracking  (Ads - Non Breaking)
+
+https://adblock.mahakala.is (Ads)
+
+https://raw.githubusercontent.com/biroloter/Mobile-Ad-Hosts/master/hosts (Ads for Moblie)
+
+http://blacklists.ntop.org/adblocker-hostnames.txt (Ads)
+
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext (Ads)
+
+https://raw.githubusercontent.com/pexcn/daily/gh-pages/adlist/adlist.txt (Ads)
+
+https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/PiHole/Archive/Yahoo_Ad_Servers.txt (Ads)
+
+https://raw.githubusercontent.com/mhxion/pornaway/master/hosts/porn_ads.txt (Ads and Porn)
+
+https://raw.githubusercontent.com/ReddestDream/reddestdream.github.io/master/Projects/MinimalHostsCB/etc/MinimalHostsBlocker/minimalhosts (Ads)
+
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/SatterlysAdblockPlusFilters.txt (Ads)
+
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-main.txt (Ads)
+
+https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains (Ads)
+
+https://raw.githubusercontent.com/smed79/blacklist/master/hosts.txt (Ads)
+
+https://raw.githubusercontent.com/soteria-nou/domain-list/master/ads.txt (Ads)
+
+https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/spotifyads.txt (Ads)
+
+https://raw.githubusercontent.com/w13d/adblockListABP-PiHole/master/Spotify.txt (Ads)
+
+https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts (Ads)
+
+https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/steven-blacks-ad-hoc-list.txt (Ads)
+
+https://raw.githubusercontent.com/nathanaccidentally/SystemHostsBlocker/master/hosts (Ads)
+
+https://hostsfile.mine.nu/hosts0.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/uAssetsFilters.txt (Ads)
+
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/uBlockFiltersPlus.txt (Ads)
+
+https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-porn/hosts (Ads)
+
+https://raw.githubusercontent.com/jackrabbit335/UsefulLinuxShellScripts/master/Hosts%20%26%20sourcelist/blacklist.txt (Ads)
+
+https://assets.windscribe.com/custom_blocklists/clickbait.txt (Ads)
+
+https://raw.githubusercontent.com/mtxadmin/ublock/master/hosts.txt (Ads)
+
+https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/adservers-and-trackers.txt (Ads and Tracking)
+
+https://asc.hk/adplus.txt (Ads)
+
+https://raw.githubusercontent.com/bjornstar/hosts/master/hosts (Ads)
+
+https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/blacklist.tx (Ads)
+
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Blockzilla.txt (Ads)
+
+https://raw.githubusercontent.com/CitizenXVIL/Hosts/master/mobile%20domains.txt (Ads and Phishing)
+
+https://raw.githubusercontent.com/DataMaster-2501/DataMaster-Android-AdBlock-Hosts/master/hosts (Ads and Tracking on Moblie)
+
+https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/easylist.txt (Ads)
+
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Hant05080-Filters.txt (Ads)
+
+https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/iPv4Hosts.txt (Ads - iOS)
+
+https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/jakejarvis/ios-trackers/master/blocklist.txt (Ads - iOS)
+
+https://tgc.cloud/downloads/iOSAds.txt (Ads - iOS)
+
+https://raw.githubusercontent.com/kowith337/PersonalFilterListCollection/master/hosts/hosts_leftover.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Metaphoricgiraffe-Privacy-Filters.txt (Ads)
+
+https://raw.githubusercontent.com/migueldemoura/ublock-umatrix-rulesets/master/Hosts/ads-tracking-breaking (Ads and Tracking)
+
+https://raw.githubusercontent.com/arcetera/Minimal-Hosts-Blocker/master/etc/MinimalHostsBlocker/minimalhosts (Ads - iOS)
+
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Mitchell-Krogs-Badd-Boyz-Hosts.txt (Ads)
+
+https://raw.githubusercontent.com/angelics/pfbng/master/ads/ads-domain-list.txt (Ads)
+
+https://raw.githubusercontent.com/rimu/no-qanon/master/etc_hosts.txt.ipv6 (Ads)
+
+https://raw.githubusercontent.com/svetlyobg/svet-custom-domains/master/ads-domains (Ads)
+
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Thoughtconverge-AdBlock-Filters.txt (Ads)
+
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/ZeuS-Domain-Blocklist-Bad-Domains.txt (Ads)
+
+https://hblock.molinero.dev/hosts (Ads)
+
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Michael-Trimms-Hosts.txt (Ads)
+
+https://raw.githubusercontent.com/jackrabbit335/UsefulLinuxShellScripts/master/Hosts%20%26%20sourcelist/blacklist.txt (Ads)
+
+https://raw.githubusercontent.com/dnswarden/blocklist/master/blacklist-formats/hosts (Ads, Malware, and Tracking)
+
+https://web.archive.org/web/20160221140034if_/http://adblock.gjtech.net/?format=unix-hosts (Ads)
+
+https://list.kwbt.de/kwbtlist.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/anudeepnd-adservers/list.txt (Ads)
+
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/kadhosts/list.txt (Ads)
+
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/pgl.yoyo.org/list.txt (Ads)
+
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/someonewhocares.org/list.txt (Ads)
+
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/winhelp2002.mvps.org/list.txt (Ads)
+
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/AakList.txt (Ads)
+
+https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/Personal%20Cookie%20list%20-%20Ads (Ads)
+
+https://media.githubusercontent.com/media/Xcalizorz/Blocklist/master/adlists.list (Ads)
+
+https://raw.githubusercontent.com/AdamO20054/PiHoleAdFucker/main/AdListsMulti/AdBlocklist (Ads)
+
+https://raw.githubusercontent.com/growal-it/pihole/main/hosts.txt (Ads)
+
+https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-VN (Ads)
+
+https://raw.githubusercontent.com/jmhenrique/adblock/master/etc/adblock_hosts (Ads)
+
+https://raw.githubusercontent.com/kowith337/PersonalFilterListCollection/master/hosts/hosts_google_adservice_id.txt (Ads)
+
+https://paulgb.github.io/BarbBlock/blacklists/domain-list.txt (Ads)
+
+https://someonewhocares.org/hosts/zero/hosts (Ads, Malware, and Tracking)
+
+https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds-Ultra.txt (Ads,Malware, and Tracking)
+
+https://raw.githubusercontent.com/ZYX2019/host-block-list/master/Custom.txt (Ads)
+
+http://web.archive.org/web/20211121172049/https://www.thedumbterminal.co.uk/files/services/squidblockedsites/blocked.txt (Ads)
+
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/SatterlysAdblockPlusFilters.txt (Ads)
+
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Prebake-Obtrusive.txt (Ads)
+
+https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/PiHole/Archive/Yahoo_Ad_Servers.txt (Ads - Yahoo)
+
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=1&mimetype=plaintext (Ads and Tracking)
+
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Mat1th-DNS-add-block.txt (Ads)
+
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/GandJ-Hosts.txt (Ads)
+
+https://raw.githubusercontent.com/nicholasb2101/PiHole/master/Blocklists/Extended%20Primary%20Blocklist.txt (Ads, and Tracking)
+
+https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardApps.txt (Ads)
+
+https://raw.githubusercontent.com/Corey-6-6-6/PiHoleBlocklists/main/ListTwo.txt (Ads)
+
+https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt (Ads)
+
+https://raw.githubusercontent.com/bloodhunterd/Pi-hole-Blocklists/master/Amazon.txt (Ads)
+
+https://raw.githubusercontent.com/bloodhunterd/Pi-hole-Blocklists/master/LG.txt (Ads)
+
+https://raw.githubusercontent.com/bloodhunterd/Pi-hole-Blocklists/master/Samsung.txt (Ads)
+
+https://raw.githubusercontent.com/bloodhunterd/Pi-hole-Blocklists/master/Twitch.txt (Ads)
+
+https://raw.githubusercontent.com/hemiipatu/PiHoleBlocklists/master/blocklists/advertisement.txt (Ads)
+
+https://github.com/doadin/Pi-Hole-Blocklist/blob/master/block.list (Ads)
+
+https://github.com/alertnetwork/pi-hole-blocklist/blob/master/noname-p1 (Ads)
+
+https://raw.githubusercontent.com/alertnetwork/pi-hole-blocklist/master/noname-p2 (Ads)
+
+https://raw.githubusercontent.com/TheRandomOwl/Custom-Hosts-blocklist/main/mobile-device-blocklist.txt (Ads)
+
+https://github.com/growal-it/pihole/blob/main/hosts.txt (Ads)
+
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Yhonay-AntiPopAds.txt (Ads)
+
+https://raw.githubusercontent.com/jackrabbit335/UsefulLinuxShellScripts/master/Hosts%20%26%20sourcelist/blacklist.txt (Ads)
+
+https://raw.githubusercontent.com/bmyjacks/adlists/master/filter-registry/anti-AD-for-Pi-Hole.txt (Ads)
+
+https://raw.githubusercontent.com/marcusminus/Orthrus-BlockList/master/hosts.txt (Ads)
+
+https://raw.githubusercontent.com/krullmizter/pihole-blocklist/main/blocklist.txt (Ads)
+
+https://raw.githubusercontent.com/MorganMLGman/Blocklist/main/blocklist.txt (Ads)
+
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/uBOPersonalFilters.txt (Ads)
+
+https://raw.githubusercontent.com/Amdromeda/Blocklist-Pi-Hole/master/Ads%20and%20trackers.txt (Ads and Tracking)
+
+https://blocklistproject.github.io/Lists/smart-tv.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-domains.txt (Ads)
+
+https://perflyst.github.io/PiHoleBlocklist/SmartTV.txt (Ads for SmartTv)
+
+https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard-or-PiHole/master/Modules/privacybadger_sourced_blocklist.txt (Ads)
+
+https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts (Ads)
+
+https://justdomains.github.io/blocklists/lists/easylist-justdomains.txt (Ads)
+
+https://raw.githubusercontent.com/ftpmorph/ftprivacy/master/blocklists/smart-tv-ads-tracking.txt (Ads - Smart Tv)
+
+https://raw.githubusercontent.com/ftpmorph/ftprivacy/master/blocklists/smartphone-ads-tracking.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/ftpmorph/ftprivacy/master/blocklists/spotify-ads-tracking.txt (Ads - Spotify)
+
+https://raw.githubusercontent.com/ftpmorph/ftprivacy/master/blocklists/windows10-spying-erm-i-mean-telemetry-lol.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/ftpmorph/ftprivacy/master/blocklists/xiaomi-ads-tracking.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/ftpmorph/ftprivacy/master/personal-lists/personal-regex-blocklist.txt (Ads)
+
+https://web.archive.org/web/20200311045346/https://raw.githubusercontent.com/FadeMind/hosts.extras/master/StreamingAds/hosts (Ads)
+
+https://raw.githubusercontent.com/blocklistproject/Lists/master/ads.txt (Ads)
+
+https://web.archive.org/web/20210124110332/https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/iPv4Hosts.txt (Ads - Temp)
+
+https://raw.githubusercontent.com/TonyRL/blocklist/master/hosts (Ads)
+
+https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard-or-PiHole/master/dns_disallowed_domains.txt (Ads)
+
+https://hosts.anudeep.me/mirror/adservers.txt (Ads)
+
+https://anti-ad.net/domains.txt (Ads)
+
+https://web.archive.org/web/20200218153719/http://hosts-file.net:80/ad_servers.txt (Ads and Tracking)
+
+https://web.archive.org/web/20180108125255/https://raw.githubusercontent.com/quidsup/notrack/master/trackers.txt (Ads and Tracking)
+
+https://hostsfile.org/Downloads/hosts.txt (Ads and Tracking)
+
+http://web.archive.org/web/20211026004744/https://v.firebog.net/hosts/Airelle-trc.txt (Ads and Tracking)
+
+https://v.firebog.net/hosts/Airelle-hrsk.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.2o7Net/hosts (Ads and Tracking)
+
+https://hphosts.gt500.org/hosts.txt (Ads and Tracking)
+
+https://gitlab.com/my-privacy-dns/matrix/matrix/-/raw/master/source/adware/domains.list (Ads)
+
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=0&mimetype=plaintext (Ads)
+
+https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/Regular%20Hosts.txt (Ads - iOS)
+
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AncientLibrary/gmbkslist%20%28Hosts%29.txt (Ads)
+
+https://raw.githubusercontent.com/JoseGalRe/Hosty/master/bits/hosty.blacklist (Ads and Tracking)
+
+https://web.archive.org/web/20200119103319/http://hosts-file.net/ad_servers.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts (Ads)
+
+https://raw.githubusercontent.com/bentasker/adblocklists/master/config/manualblocks/00_general.txt (Ads - Andriod)
+
+https://raw.githubusercontent.com/bentasker/adblocklists/master/config/manualblocks/admiral-antiadblock.txt (Ads - Andriod)
+
+https://raw.githubusercontent.com/bentasker/adblocklists/master/config/manualzones.txt (Ads - Andriod)
+
+https://raw.githubusercontent.com/bentasker/adblocklists/master/config/manualblocks/xiaomi.txt (Ads - Andriod)
+
+https://raw.githubusercontent.com/bigdargon/hostsVN/master/filters/domain-adservers-all.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-iOS (Ads - iOS)
+
+https://raw.githubusercontent.com/bigdargon/hostsVN/master/source/adservers-all.txt (Ads)
+
+https://raw.githubusercontent.com/bigdargon/hostsVN/master/source/adservers-extra.txt (Ads)
+
+https://raw.githubusercontent.com/bigdargon/hostsVN/master/source/hosts-extra.txt (Ads)
+
+https://raw.githubusercontent.com/bigdargon/hostsVN/master/source/hosts.txt (Ads)
+
+https://raw.githubusercontent.com/durablenapkin/block/master/home-heavy.txt (Ads)
+
+https://raw.githubusercontent.com/durablenapkin/block/master/home-obese.txt (Ads)
+
+https://raw.githubusercontent.com/durablenapkin/block/master/streaming.txt (Ads)
+
+https://raw.githubusercontent.com/faralai/Pihole-Rules/master/Fara-Popups_Head (Ads)
+
+https://raw.githubusercontent.com/llacb47/mischosts/master/streaming-hosts (Ads)
+
+https://raw.githubusercontent.com/nathanaccidentally/SystemHostsBlocker/master/hosts (Ads, Tracking, and Malware)
+
+https://raw.githubusercontent.com/soteria-nou/domain-list/cleaned/ads.txt (Ads)
+
+https://raw.githubusercontent.com/vokins/yhosts/master/hosts (Ads and Tracking)
+
+https://v.firebog.net/hosts/static/SamsungSmart.txt (Ads - Andriod)
+
+https://www.bentasker.co.uk/adblock/blocked_domains_with_sm.txt (Ads and Tracking)
+
+https://www.bentasker.co.uk/adblock/blockeddomains.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/Laicure/hosts/master/shithosts (Ads and Tracking)
+
+https://v.firebog.net/hosts/neohostsbasic.txt (Ads)        
+                                                                                           
+https://raw.githubusercontent.com/RamReb/pihole_blocklists/main/LG_blockLists.txt (Ads)
+
+https://raw.githubusercontent.com/robi052/pihole/master/hosts (Ads)
+
+https://sysctl.org/cameleon/hosts (Ads)
+
+https://raw.githubusercontent.com/ecks06/my-pihole-blocklist/master/Ad%20Blocker.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts (Ads and Tracking)
+
+https://raw.githubusercontent.com/CleanMachine1/AdlistTXTS/main/list.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/JohnHiqs/Blocklist/master/blocklist_category_advertising.txt (Ads)
+
+https://raw.githubusercontent.com/JohnHiqs/blocklist/master/blocklist_devices_samsungsmarttv.txt (Ads and Tracking)
+
+https://paulgb.github.io/BarbBlock/blacklists/hosts-file.txt (Ads)
+
+https://web.archive.org/web/20191226063733/http://hosts-file.net/ad_servers.txt (Ads)
+
+https://raw.githubusercontent.com/betterwebleon/international-list/master/filters.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/smashah/smashblock/master/blocklist.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/CountryCodesLists/UnitedStatesofAmerica.txt (Ads and Tracking)
+
+https://web.archive.org/web/20210308133505/https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/other.txt (Ads and Tracking - Temp)
+
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/AakList.txt (AdBlock - Anti Block)
+
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/easylist/list.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/stevenblack/list.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/CaptBV/piholeblocklist/main/blocklist-valid-domains (Ads, and Tracking)
+
+https://raw.githubusercontent.com/brunomota2020/blocklist/main/lista1.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/ABP-Clickbait-Blocklist.txt (Ads - Clickbait)
+
+https://raw.githubusercontent.com/erkexzcx/disconnectme-pihole/master/services.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/theshepnetwork/pihole/main/tsn-curatedblocklist (Ads and Tracking)
+
+https://raw.githubusercontent.com/rushadantia/Pi-Hole-Blocklist/main/pihole.txt (Ads and Tracking)
+
+https://dsi.ut-capitole.fr/blacklists/download/shortener.tar.gz (Ads and Tracking)
+
+https://raw.githubusercontent.com/justdomains/blocklists/master/lists/adguarddns-justdomains.txt (Ads and Tracking)
+
+https://web.archive.org/web/20210124153812/https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/other.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/infinitytec/blocklists/master/possibilities.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/neoFelhz/neohosts/data/_data/extra/popup/common.txt (Ads and Tracking) 
+
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Anti-Elsagate%20List.txt (Ads)
+
+https://github.com/j-moriarti/pDNSf-Hosts-collection/releases/download/v1.0.0/pDNSf-hosts-part1.txt (Youtube, Ads and Tracking)
+
+https://raw.githubusercontent.com/neoFelhz/neohosts/data/_data/extra/popup/1.txt (Ads) 
+
+https://raw.githubusercontent.com/neoFelhz/neohosts/data/_data/extra/popup/2.txt (Ads) 
+
+https://raw.githubusercontent.com/neoFelhz/neohosts/data/_data/extra/popup/3.txt (Ads) 
+
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt (Ads and Tracking)
+
+https://web.archive.org/web/20210127174323/https://lists.noads.online/lists/compilation.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/AlexRabbit/ADios/master/hosts (Ads)
+
+https://raw.githubusercontent.com/allendema/noplaylist/main/NoPlayList.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/anthony-wang/PiHoleBlocklist/master/hosts1.txt (Ads and Tracking)                                   
+
+https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/add-dead.txt (Ads)
+  
+https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/add-risk.txt (Ads)
+
+https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/steven-blacks-unified-list.txt (Ads and Tracking)    
+                                                                                   
+https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/Hosts.txt (Ads and Tracking - iOS) 
+
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AdGuard%20Home%20Compilation%20List/AdGuardHomeCompilationList.txt (Ads)       
+
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/GameConsoleAdblockList.txt (Ads)  
+
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Disconnect-Advertising-Filter.txt (Ads)     
+ 
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Hufilter.txt (Ads)      
+
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/PLgeneral.txt (Ads)     
+
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Samsung-SmartTV-Domains.txt (Ads and Tracking)   
+   
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Tofu-Filter.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/wildcard-domains/blacklist/ads-and-trackers.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/adguard.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/eEIi0A5L/adblock_filter/master/ichigo_filter.txt (Ads)
+
+https://raw.githubusercontent.com/ftpmorph/ftpihole/master/blocklists/smart-tv-ads-tracking.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/ftpmorph/ftpihole/master/blocklists/smartphone-ads-tracking.txt (Ads and Tracking)                 
+
+https://raw.githubusercontent.com/ftpmorph/ftpihole/master/blocklists/spotify-ads-tracking.txt (Ads and Tracking)        
+
+https://raw.githubusercontent.com/furkun/ProtectorHosts/main/hosts (Ads and Tracking)  
+
+https://raw.githubusercontent.com/gasull/adblock-nsa/master/filters.txt (Ads and Tracking) 
+
+https://raw.githubusercontent.com/genediazjr/nopelist/master/nopelist.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard/master/Modules/privacybadger_sourced_blocklist.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/justdomains/blocklists/master/lists/easylist-justdomains.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_adblocker (Ads)
+
+https://raw.githubusercontent.com/twcau/AdblockRules/master/CustomSonyTVList (Ads and Tracking)
+
+https://github.com/j-moriarti/pDNSf-Hosts-collection/releases/download/v1.0.0/Wildcards.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/wildquaker/filterlists/master/Blockzilla.txt (Ads)
+
+https://raw.githubusercontent.com/wildquaker/filterlists/master/TOP_EU_US_Ads_Trackers.txt (Ads)
+
+https://raw.githubusercontent.com/wildquaker/filterlists/master/hpHosts.txt (Ads)
+
+https://raw.githubusercontent.com/wildquaker/filterlists/master/immortal_domains.txt (Ads)
+
+https://raw.githubusercontent.com/uBlock-user/Adguard-for-Android-Filters/master/HOSTS.txt (Ads)
+
+https://raw.githubusercontent.com/muxcc/AdsBlockLists/master/aumm.hosts (Ads)
+
+https://github.com/GitGoehler/Pihole-Blocklists/blob/master/Block-Crap.txt (Ads and Tracking)
+
+https://web.archive.org/web/20210117093305/http://www.thedumbterminal.co.uk/files/services/squidblockedsites/blocked.txt (Ads)
+
+https://web.archive.org/web/20210125013755/https://raw.githubusercontent.com/hectorm/hmirror/master/data/disconnect.me-ad/list.txt (Ads)
+
+https://web.archive.org/web/20210114081441/https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/TOP_EU_US_Ads_Trackers_HOST (Ads and Tracking)
+
+https://web.archive.org/web/20200923181716/https://hphosts.gt500.org/hosts.txt (Ads and Tracking)
+
+https://github.com/slyfox1186/pihole.youtube.blocklist/blob/main/blacklist/smart-tv-filters.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/slyfox1186/pihole.regex/main/domains/blacklist/exact-blacklist.txt (Ads)
+
+https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/optimized-win-Dual.hosts (Ads and Tracking with Windows)
+
+http://web.archive.org/web/20220427061213/https://adblock.mahakala.is/ (Ads and Tracking)
+
+https://gitlab.com/dns-firewall/dns/matrix/matrix/raw/master/source/adware/domains.list (Ads)
+
+https://raw.githubusercontent.com/fredprod/host-file.net-backup/master/ad_servers.txt (Ads)
+
+https://reddestdream.github.io/Projects/MinimalHosts/etc/MinimalHostsBlocker/minimalhosts (Ads and Tracking)
+
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts;showintro=0 (Ads and Tracking)
+
+https://raw.githubusercontent.com/fredprod/host-file.net-backup/master/mmt.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/AdlistCreator/Pi-Hole-Blocklist/main/OldestBlocklist (Ads and Tracking)
+
+https://raw.githubusercontent.com/shahidcodes/firebog-ticked-list/main/ads.txt (Ads)
+
+https://raw.githubusercontent.com/lwsnz/pihole-lists-armada/main/SmartTV-telemetry-ads.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/lwsnz/pihole-lists-armada/main/ads-telemetry-nzherald.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/ads1.txt (Ads)
+
+https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/ads2.txt (Ads)
+
+https://raw.githubusercontent.com/FadeMind/hosts.extras/master/antipopads/hosts (Ads)
+
+https://raw.githubusercontent.com/mayesidevel/PiHoleLists/master/MiscBlocklist (Ads and Tracking)
+
+https://v.firebog.net/hosts/static/HPHosts/HostsAdServers.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/mayesidevel/PiHoleLists/master/MiscBlocklist (Ads and Tracking)
+
+https://web.archive.org/web/20200218153719/https://hosts-file.net/ad_servers.txt (Ads)
+
+https://pgl.yoyo.org/as/serverlist.php?showintro=0;hostformat=hosts (Ads and Tracking)
+
+https://raw.githubusercontent.com/dashingdon/blocklists/master/pihole_domains.txt (Ads)
+
+https://raw.githubusercontent.com/dashingdon/blocklists/master/pihole_addonblacklist.txt (Ads and Porn)
+
+https://gist.githubusercontent.com/unlikekinds/c88671454df48532b305ba45127d469d/raw/276df5c461f39f00ec2359b9bff3b8bc082f5411/unlikekinds-video-ads-hosts (Ads)
+
+https://raw.githubusercontent.com/dashingdon/blocklists/master/pihole_black.list (Ads and Tracking)
+
+https://raw.githubusercontent.com/Amdr0meda/Blocklist_Pi_Hole/master/Ads%20and%20trackers.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_host (Ads)
+
+https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt (Ads)
+
+https://raw.githubusercontent.com/robi052/pihole/master/hosts (Ads)
+
+https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/trackers.list (Ads and Tracking)
+
+https://raw.githubusercontent.com/yous/YousList/master/hosts.txt (Ads)
+
+https://raw.githubusercontent.com/smokingwheels/smokingwheels.github.io/master/Pi-hole/allhosts (Ads)
+
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-personal.txt (Ads)   
+
+https://raw.githubusercontent.com/AdlistCreator/Pi-Hole-Blocklist/main/hpub/Hosts.txt (Ads)
+
+https://warui.intaa.net/adhosts/hosts.txt (Ads and Tracking)
+
+https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list/-/raw/master/Individual%20lists/The_Quantum_Simply-ads-list.txt (Ads)
+
+https://raw.githubusercontent.com/12425/adblist/master/adbhost.txt (Ads)
+
+https://raw.githubusercontent.com/34730/asd/master/adaway-export (Ads)
+
+https://raw.githubusercontent.com/aleclee/DNS-Blacklists/master/AdHosts.txt (Ads)
+
+https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain.txt (Ads)
+
+https://raw.githubusercontent.com/DK-255/Pi-hole-list-1/main/Ads-Blocklist (Ads)
+
+https://raw.githubusercontent.com/doadin/Pi-Hole-Blocklist/main/block.list (Ads and Spam)
+
+https://blokada.org/blocklists/exodusprivacy/standard/hosts.txt (Ads and Tracking)
+
+https://gist.githubusercontent.com/hkamran80/779019103fcd306979411d44c8d38459/raw/5d5a2950777b9c1ea88d1e7ae5db921b300d9c39/SmartTV2.txt (Ads and Tracking – Android)
+
+https://raw.githubusercontent.com/What-Zit-Tooya/Ad-Block/main/Main-Blocklist/Ad-Block-HOSTS.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/bigdargon/hostsVN/master/source/hosts-group.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/comes/blocklist-pihole/main/blocklist.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/GreyHeadTed/blocklist/main/list.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/Lvc4/Pihole-Blocklist/main/hosts (Ads and Tracking)
+
+https://raw.githubusercontent.com/unixunite/pihole-domain-list/master/pihole-domain-list.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/dasdiesernoah/pihole-blocklists/main/Blocklists/Werbung (Ads)
+
+https://raw.githubusercontent.com/Kenny2k8/Pihole-Blocklist/master/Blocklist/Abusive-Ad-Blocking (Ads)
+
+https://raw.githubusercontent.com/Kenny2k8/Pihole-Blocklist/master/Blocklist/ad-block (Ads)
+
+https://raw.githubusercontent.com/Kenny2k8/Pihole-Blocklist/master/Blocklist/adguard-mobile-ads (Ads)
+
+https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdBlock-dnsmasq (Ads)
+
+https://raw.githubusercontent.com/rediur/ads/master/xaa.txt (Ads)
+
+https://raw.githubusercontent.com/rediur/ads/master/xab.txt (Ads)
+
+https://raw.githubusercontent.com/rediur/ads/master/xac.txt (Ads)
+
+https://raw.githubusercontent.com/rediur/ads/master/xad.txt (Ads)
+
+https://raw.githubusercontent.com/rediur/ads/master/xae.txt (Ads)
+
+https://raw.githubusercontent.com/rediur/ads/master/xaf.txt (Ads)
+
+https://raw.githubusercontent.com/rediur/ads/master/xag.txt (Ads)
+
+https://raw.githubusercontent.com/rediur/ads/master/xah.txt (Ads)
+
+https://raw.githubusercontent.com/rediur/ads/master/xai.txt (Ads)
+
+https://raw.githubusercontent.com/Yusaki-Akito/blocklist/master/serverblocklist.txt (Ads)
+
+https://raw.githubusercontent.com/Yusaki-Akito/blocklist/master/list.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/zetagi74/blocklists/master/ads (Ads)
+
+https://raw.githubusercontent.com/zetagi74/blocklists/master/bigblock (Ads)
+
+https://raw.githubusercontent.com/zetagi74/blocklists/master/ad_and_tracking (Ads and Tracking)
+
+https://raw.githubusercontent.com/zetagi74/blocklists/master/smarttv (Ads and Tracking)
+
+https://raw.githubusercontent.com/einyx/pfsense-pihole-blocklist/master/ads.txt (Ads)
+
+https://raw.githubusercontent.com/einyx/pfsense-pihole-blocklist/master/spotify.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/einyx/pfsense-pihole-blocklist/master/xiaomi.txt (Ads and Tracking)
+
+https://gitlab.com/m0ze1r/Pihole-Blocklist/-/raw/master/AD-Tracking.txt (Ads and Tracking)
+
+https://gitlab.com/m0ze1r/Pihole-Blocklist/-/raw/master/MVPS-Hosts.txt (Ads and Tracking)
+
+https://gitlab.com/bramschenau/pi-hole/-/raw/master/block.txt (Ads and Tracking)
+
+https://gitlab.com/kodekitchen/pihole_list/-/raw/master/blacklist.txt (Ads and Tracking)
+
+https://gitlab.com/m0ze1r/Pihole-Blocklist/-/raw/master/dg-ads.acl (Ads)
+
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/antipopads/list.txt (Ads)
+
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/anudeepnd-adservers/list.txt (Ads)
+
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/dandelionsprout-nordic/list.txt (Ads)
+
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/easylist-ara/list.txt (Ads)
+
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/easylist-bul/list.txt (Ads)
+
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/easylist-ces-slk/list.txt (Ads)
+
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/easylist-deu/list.txt (Ads)
+
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/easylist-fra/list.txt (Ads)
+
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/easylist-heb/list.txt (Ads)
+
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/easylist-ind/list.txt (Ads)
+
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/easylist-ita/list.txt (Ads)
+
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/easylist-kor/list.txt (Ads)
+
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/easylist-lav/list.txt (Ads)
+
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/easylist-lit/list.txt (Ads)
+
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/easylist-nld/list.txt (Ads)
+
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/easylist-por/list.txt (Ads)
+
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/easylist-rus/list.txt (Ads)
+
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/easylist-spa/list.txt (Ads)
+
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/easylist-zho/list.txt (Ads)
+
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/easylist/list.txt (Ads)
+
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/hostsvn/list.txt (Ads)
+
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/kadhosts/list.txt (Ads)
+
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/mozilla-shavar-advertising/list.txt (Ads)
+
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/pgl.yoyo.org/list.txt (Ads)
+
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/someonewhocares.org/list.txt (Ads)
+
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/stevenblack/list.txt (Ads)
+
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/ublock/list.txt (Ads)
+
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/adaway.org/list.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/adguard-cname-trackers/list.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/adguard-simplified/list.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/fanboy-annoyance/list.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/lightswitch05-ads-and-tracking/list.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/molinero.dev/list.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/winhelp2002.mvps.org/list.txt (Ads and Tracking)
+
+https://gitlab.com/sbioa1234/pihole/-/raw/master/etc-pihole/list.5.s3.amazonaws.com.domains (Ads)
+
+https://raw.githubusercontent.com/RmG152/pi-hole-ownlist/master/adservers.txt (Ads)
+
+https://filtri-dns.ga/filtri.txt (Ads)
+
+https://filters.adtidy.org/extension/chromium/filters/2.txt (Ads)
+
+https://gitlab.com/grublets/appletv-blocklist/-/raw/master/appletv.hosts (Ads and Tracking iOS)
+
+https://gitlab.com/bramschenau/pi-hole/-/raw/master/block.txt (Ads and Tracking)
+
+https://gitlab.com/youvegotmoxie/pihole/-/raw/master/blocklist.txt (Ads and Tracking)
+
+https://gitlab.com/loveland/pihole/-/raw/master/blist_hosts (Ads and Tracking)
+
+https://gitlab.com/sbioa1234/pihole/-/raw/master/etc-pihole/gravity.list (Ads and Tracking)
+
+https://gitlab.com/sbioa1234/pihole/-/raw/master/etc-pihole/list.0.raw.githubusercontent.com.domains (Ads and Tracking)
+
+https://gitlab.com/sbioa1234/pihole/-/raw/master/etc-pihole/list.2.sysctl.org.domains (Ads and Tracking)
+
+https://gitlab.com/sbioa1234/pihole/-/raw/master/etc-pihole/list.6.hosts-file.net.domains (Ads and Tracking)
+
+https://gitlab.com/sbioa1234/pihole/-/raw/master/etc-pihole/list.preEventHorizon (Ads and Tracking)
+
+https://raw.githubusercontent.com/rotzbouf/pi-hole-dns-lists/master/piholeBL.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/vokins/yhosts/master/hosts (Ads and Tracking)
+
+https://raw.githubusercontent.com/Firestorrrm/Minimal-Hosts-Blocker/master/iosadlist.txt (Ads and Tracking)
+
+https://hostsfile.org/Downloads/hosts.txt (Ads and Tracking)
+
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts;showintro=0 (Ads and Tracking)
+
+https://gitlab.com/nelson20/pihole-list/-/raw/master/niko.domains (Ads and Tracking Windows Telemetry)
+
+https://gitlab.com/kodekitchen/pihole_list/-/raw/master/blacklist.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/JohnHiqs/CHEF-KOCH/main/HOSTS/Ad-Tracker-HOSTS-FilterList.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/JohnHiqs/blocklist/master/blocklist_category_advertising.txt (Ads)
+
+https://raw.githubusercontent.com/FleuryK/pihole-ads/master/blocklist-ads-website/blocklist.txt (Ads)
+
+https://raw.githubusercontent.com/FleuryK/pihole-ads/master/blocklist-ads-website/hosts-file.net_ad_servers_at_20191026.txt (Ads)
+
+https://raw.githubusercontent.com/suhas316380/pihole-ads-list/master/blocked.list (Ads)
+
+https://raw.githubusercontent.com/suhas316380/pihole-ads-list/master/LG-TV-Ads.txt (Ads)
+
+https://raw.githubusercontent.com/marcusminus/Orthrus-BlockList/master/domains.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/dondom90/blocklists-pihole/master/blocklist%231.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/dondom90/blocklists-pihole/master/blocklist%232.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/killuminati3001/host-block/master/black.list (Ads and Tracking)
+
+https://raw.githubusercontent.com/WorldWideBlock/netguard-block/master/hosts.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/muxcc/AdsBlockLists/master/smart-tv.hosts (Ads and Tracking)
+
+https://raw.githubusercontent.com/muxcc/AdsBlockLists/master/xiaomi.hosts (Ads and Tracking)
+
+https://raw.githubusercontent.com/marcofrhem/piholelist/main/u (Ads and Tracking)
+
+https://gitlab.com/YAMA-EDV/pihole-blacklist/-/raw/master/yama_blacklist.txt (Ads, Tracking, and Phishing)
+
+https://raw.githubusercontent.com/Kwinnieprince/pihole-blocklists/master/ads/adguarddnsblocklist.txt (Ads)
+
+https://raw.githubusercontent.com/Kwinnieprince/pihole-blocklists/master/ads/adsblocklist.txt  (Ads)
+
+https://raw.githubusercontent.com/Kwinnieprince/pihole-blocklists/master/ads/adserversblocklist.txt (Ads)
+
+https://raw.githubusercontent.com/Kwinnieprince/pihole-blocklists/master/ads/curated_adblocklist.txt (Ads)
+
+https://raw.githubusercontent.com/Kwinnieprince/pihole-blocklists/master/ads/simpleadblocklist.txt (Ads)
+
+https://raw.githubusercontent.com/Kwinnieprince/pihole-blocklists/master/ads/mobile_ads/mobileadsblocklist.txt (Ads)
+
+https://raw.githubusercontent.com/Kwinnieprince/pihole-blocklists/master/ads/smarttv/smarttvblocklist.txt (Ads)
+
+https://raw.githubusercontent.com/skiantblutch/skiant/master/blocklist1.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/skiantblutch/skiant/master/blocklist2.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/skiantblutch/skiant/master/blocklist3.txt (Ads and Tracking)
+
+https://ente.dev/api/blocklist/tv-hosts (Ads - SmartTv)
+
+https://ente.dev/api/blocklist/advertising-hosts (Ads)
+
+https://web.archive.org/web/20180318103701/https://www.sa-blacklist.stearns.org/sa-blacklist/sa-blacklist.current.domains (Ads)
+
+https://hostsfile.mine.nu/Hosts.txt (Ads)
+
+https://raw.githubusercontent.com/root-host/Spotify-AdBlock/master/domains2 (Ads)
+
+https://github.com/minoplhy/filters/releases/download/latest/ucate_hosts.txt (Ads)
+
+https://raw.githubusercontent.com/ShadowWhisperer/IPs/master/Other/Ads (Ads)
+
+https://raw.githubusercontent.com/AdlistCreator/Pi-Hole-Blocklist/main/ente-list/advertising-hosts.txt (Ads)
+
+https://raw.githubusercontent.com/AdlistCreator/Pi-Hole-Blocklist/main/ente-list/tv-hosts.txt (Ads and Tracking)
+
+http://web.archive.org/web/20210503025227/https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/TOP_EU_US_Ads_Trackers_HOST (Ads and Tracking)
+
+https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US%2Bmost_used_ad_and_tracking_networks (Ads and Tracking)
+
+http://web.archive.org/web/20201018221138/https://raw.githubusercontent.com/TakoYachty/Gift-Card-Killer/master/Mega%20Untrusted%20Hosts%20Blocker.txt (Ads and Tracking)
+
+https://web.archive.org/web/20211026004751/https://v.firebog.net/hosts/Airelle-hrsk.txt (Ads and Tracking)
+
+https://web.archive.org/web/20201124210237/https://raw.githubusercontent.com/chrisjudk/hosts/master/hosts (Ads, Malware, and Tracking)
+
+https://raw.githubusercontent.com/Kenny2k8/Pihole-Blocklist/master/Blocklist/Deutsche-Ministerien-Behoerden (Ads and Tracking)
+
+https://raw.githubusercontent.com/Kenny2k8/Pihole-Blocklist/master/Blocklist/Deutsche-Staedte-und-Gemeinden (Ads and Tracking)
+
+https://raw.githubusercontent.com/Kenny2k8/Pihole-Blocklist/master/Blocklist/ad-block (Ads)
+
+https://raw.githubusercontent.com/Kenny2k8/Pihole-Blocklist/master/Blocklist/host-Japan (Ads and Tracking)
+
+https://raw.githubusercontent.com/Kenny2k8/Pihole-Blocklist/master/Blocklist/IPv4-Adressen (Ads and Tracking)
+
+https://raw.githubusercontent.com/AdlistCreator/Pi-Hole-Blocklist/main/GameIndustry_de.txt (Ads and Tracking)
+
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext (Ads and Tracking)
+
+https://raw.githubusercontent.com/sireture/Master-adlist/main/Master-adlist.txt (Ads Only)
+
+https://raw.githubusercontent.com/SystemJargon/pi-hole/main/lists/blacklist/v.firebog.net/Prigent-Ads.txt (Ads Only)
+
+https://raw.githubusercontent.com/SystemJargon/pi-hole/main/lists/blacklist/mobile_android/android-telemetry-tracking.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/SystemJargon/pi-hole/main/lists/blacklist/telemetry/SmartTV-more.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/SystemJargon/pi-hole/main/lists/blacklist/telemetry/ads-telemetry-nzherald.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/SystemJargon/pi-hole/main/lists/blacklist/telemetry/other-ads-telemetry.txt (Ads and Tracking)
+
+https://raw.githubusercontent.com/Zyzonix/pihole-utilities/master/adlists/fulllist.txt (Ads, Tracking, and Malware)
+
+https://raw.githubusercontent.com/harshithyechuri/PiHole-Adlist/main/MAT-adlist.txt (Ads, Tracking, and Malware)
+
+https://raw.githubusercontent.com/jagagta/adlist/master/domains.txt (Ads, Tracking, and Malware)
+
+https://raw.githubusercontent.com/SystemJargon/pi-hole/main/lists/blacklist/v.firebog.net/w3kbl.txt (Ads, Tracking, and Crypto)
+
+=============================================================================================================================================================================================================================================
+
+If anyone wants to copy the "Ads Only" blocklist into Pihole, this is a simple copy list. Remember, there is a chance it could be blocked, in which case you might need to make a custom whitelist.
+ _____________________________________
+|                                     |
+| Easy Copy List: Ads Only for Pihole | 
+|_____________________________________|
+
+
+http://sysctl.org/cameleon/hosts https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt https://blocklistproject.github.io/Lists/ads.txt https://raw.githubusercontent.com/hectorm/hmirror/master/data/adaway.org/list.txt  https://raw.githubusercontent.com/hectorm/hmirror/master/data/adguard-simplified/list.txt https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts https://raw.githubusercontent.com/SweetSophia/androidappspihole/master/testrareandroappblock.txt https://raw.githubusercontent.com/AlexRabbit/ADios-ADS/master/hosts https://raw.githubusercontent.com/erkexzcx/disconnectme-pihole/master/services_Advertising.txt https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/MobileAppAds/appadsblocklist.txt https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/SmartTV/smarttvblocklist.txt https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/Android/androidblocklist.txt https://justdomains.github.io/blocklists/lists/adguarddns-justdomains.txt  https://raw.githubusercontent.com/RmG152/pi-hole-ownlist/master/adservers.txt https://raw.githubusercontent.com/KitsapCreator/pihole-blocklists/master/ads.txt https://v.firebog.net/hosts/static/w3kbl.txt https://adaway.org/hosts.txt https://v.firebog.net/hosts/AdguardDNS.txt https://v.firebog.net/hosts/Admiral.txt https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt https://v.firebog.net/hosts/Easylist.txt https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts_without_controversies.txt https://v.firebog.net/hosts/Prigent-Ads.txt https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileAds.txt https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardDNS.txt https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt https://raw.githubusercontent.com/realodix/AdBlockID/master/output/adblockid.txt https://raw.githubusercontent.com/Levero/PiHole-Block-Whitelist/master/mobile.txt https://tgc.cloud/downloads/hosts.txt http://web.archive.org/web/20220801054727/https://abpvn.com/android/abpvn.txt https://raw.githubusercontent.com/Phentora/AdguardPersonalList/master/blocklist.txt https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/AdAway-Default-Blocklist.txt https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdList https://getadhell.com/standard-package.txt https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Adware-Filters.txt https://raw.githubusercontent.com/kowith337/PersonalFilterListCollection/master/hosts/hosts_google_adservice_id.txt https://repo.andnixsh.com/adblocker/hosts https://www.bentasker.co.uk/adblock/blockeddomains.txt https://raw.githubusercontent.com/zznidar/BAR/master/BAR-list https://tgc.cloud/downloads/iOSAds.txt https://raw.githubusercontent.com/migueldemoura/ublock-umatrix-rulesets/master/Hosts/ads-tracking https://adblock.mahakala.is https://raw.githubusercontent.com/biroloter/Mobile-Ad-Hosts/master/hosts http://blacklists.ntop.org/adblocker-hostnames.txt https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext https://raw.githubusercontent.com/pexcn/daily/gh-pages/adlist/adlist.txt https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/PiHole/Archive/Yahoo_Ad_Servers.txt https://raw.githubusercontent.com/ReddestDream/reddestdream.github.io/master/Projects/MinimalHostsCB/etc/MinimalHostsBlocker/minimalhosts https://raw.githubusercontent.com/aspartam206/gravity_housekeeper/master/blocklist/ordered.txt https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-main.txt https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains https://raw.githubusercontent.com/smed79/blacklist/master/hosts.txt https://raw.githubusercontent.com/soteria-nou/domain-list/master/ads.txt https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/spotifyads.txt https://raw.githubusercontent.com/w13d/adblockListABP-PiHole/master/Spotify.txt https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/steven-blacks-ad-hoc-list.txt https://raw.githubusercontent.com/nathanaccidentally/SystemHostsBlocker/master/hosts https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/uAssetsFilters.txt https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/uBlockFiltersPlus.txt https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-porn/hosts https://raw.githubusercontent.com/jackrabbit335/UsefulLinuxShellScripts/master/Hosts%20%26%20sourcelist/blacklist.txt https://assets.windscribe.com/custom_blocklists/clickbait.txt https://raw.githubusercontent.com/mtxadmin/ublock/master/hosts.txt https://asc.hk/adplus.txt https://raw.githubusercontent.com/bjornstar/hosts/master/hosts https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/blacklist.txt https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Blockzilla.txt https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/easylist.txt https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Hant05080-Filters.txt https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/iPv4Hosts.txt https://raw.githubusercontent.com/jakejarvis/ios-trackers/master/blocklist.txt https://tgc.cloud/downloads/iOSAds.txt https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Metaphoricgiraffe-Privacy-Filters.txt https://raw.githubusercontent.com/arcetera/Minimal-Hosts-Blocker/master/etc/MinimalHostsBlocker/minimalhosts https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Mitchell-Krogs-Badd-Boyz-Hosts.txt https://raw.githubusercontent.com/angelics/pfbng/master/ads/ads-domain-list.txt https://raw.githubusercontent.com/rimu/no-qanon/master/etc_hosts.txt.ipv6 https://raw.githubusercontent.com/svetlyobg/svet-custom-domains/master/ads-domains https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Thoughtconverge-AdBlock-Filters.txt https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/ZeuS-Domain-Blocklist-Bad-Domains.txt https://hblock.molinero.dev/hosts https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Michael-Trimms-Hosts.txt https://raw.githubusercontent.com/jackrabbit335/UsefulLinuxShellScripts/master/Hosts%20%26%20sourcelist/blacklist.txt https://web.archive.org/web/20160221140034if_/http://adblock.gjtech.net/?format=unix-hosts https://raw.githubusercontent.com/hectorm/hmirror/master/data/anudeepnd-adservers/list.txt https://raw.githubusercontent.com/hectorm/hmirror/master/data/kadhosts/list.txt https://raw.githubusercontent.com/hectorm/hmirror/master/data/pgl.yoyo.org/list.txt https://raw.githubusercontent.com/hectorm/hmirror/master/data/someonewhocares.org/list.txt https://raw.githubusercontent.com/hectorm/hmirror/master/data/winhelp2002.mvps.org/list.txt https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/AakList.txt https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/Personal%20Cookie%20list%20-%20Ads https://media.githubusercontent.com/media/Xcalizorz/Blocklist/master/adlists.list https://raw.githubusercontent.com/AdamO20054/PiHoleAdFucker/main/AdListsMulti/AdBlocklist https://raw.githubusercontent.com/growal-it/pihole/main/hosts.txt https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-VN https://raw.githubusercontent.com/jmhenrique/adblock/master/etc/adblock_hosts https://raw.githubusercontent.com/kowith337/PersonalFilterListCollection/master/hosts/hosts_google_adservice_id.txt https://paulgb.github.io/BarbBlock/blacklists/domain-list.txt https://raw.githubusercontent.com/ZYX2019/host-block-list/master/Custom.txt http://web.archive.org/web/20211121172049/https://www.thedumbterminal.co.uk/files/services/squidblockedsites/blocked.txt https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/SatterlysAdblockPlusFilters.txt https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Prebake-Obtrusive.txt https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/PiHole/Archive/Yahoo_Ad_Servers.txt https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Mat1th-DNS-add-block.txt https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/GandJ-Hosts.txt https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardApps.txt https://raw.githubusercontent.com/Corey-6-6-6/PiHoleBlocklists/main/ListTwo.txt https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt https://raw.githubusercontent.com/bloodhunterd/Pi-hole-Blocklists/master/Amazon.txt https://raw.githubusercontent.com/bloodhunterd/Pi-hole-Blocklists/master/LG.txt https://raw.githubusercontent.com/bloodhunterd/Pi-hole-Blocklists/master/Samsung.txt https://raw.githubusercontent.com/bloodhunterd/Pi-hole-Blocklists/master/Twitch.txt https://raw.githubusercontent.com/hemiipatu/PiHoleBlocklists/master/blocklists/advertisement.txt https://github.com/doadin/Pi-Hole-Blocklist/blob/master/block.list https://github.com/alertnetwork/pi-hole-blocklist/blob/master/noname-p1 https://raw.githubusercontent.com/alertnetwork/pi-hole-blocklist/master/noname-p2 https://raw.githubusercontent.com/TheRandomOwl/Custom-Hosts-blocklist/main/mobile-device-blocklist.txt https://github.com/growal-it/pihole/blob/main/hosts.txt https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Yhonay-AntiPopAds.txt https://raw.githubusercontent.com/jackrabbit335/UsefulLinuxShellScripts/master/Hosts%20%26%20sourcelist/blacklist.txt https://raw.githubusercontent.com/bmyjacks/adlists/master/filter-registry/anti-AD-for-Pi-Hole.txt https://raw.githubusercontent.com/marcusminus/Orthrus-BlockList/master/hosts.txt https://raw.githubusercontent.com/krullmizter/pihole-blocklist/main/blocklist.txt https://raw.githubusercontent.com/MorganMLGman/Blocklist/main/blocklist.txt https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/uBOPersonalFilters.txt https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-domains.txt https://perflyst.github.io/PiHoleBlocklist/SmartTV.txt https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard-or-PiHole/master/Modules/privacybadger_sourced_blocklist.txt https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts https://justdomains.github.io/blocklists/lists/easylist-justdomains.txt https://raw.githubusercontent.com/ftpmorph/ftprivacy/master/blocklists/smart-tv-ads-tracking.txt https://raw.githubusercontent.com/ftpmorph/ftprivacy/master/blocklists/spotify-ads-tracking.txt https://raw.githubusercontent.com/ftpmorph/ftprivacy/master/personal-lists/personal-regex-blocklist.txt https://web.archive.org/web/20200311045346/https://raw.githubusercontent.com/FadeMind/hosts.extras/master/StreamingAds/hosts https://raw.githubusercontent.com/blocklistproject/Lists/master/ads.txt https://web.archive.org/web/20210124110332/https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/iPv4Hosts.txt https://raw.githubusercontent.com/TonyRL/blocklist/master/hosts https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard-or-PiHole/master/dns_disallowed_domains.txt https://hosts.anudeep.me/mirror/adservers.txt https://anti-ad.net/domains.txt https://gitlab.com/my-privacy-dns/matrix/matrix/-/raw/master/source/adware/domains.list https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=0&mimetype=plaintext https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/Regular%20Hosts.txt https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AncientLibrary/gmbkslist%20%28Hosts%29.txt https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts https://raw.githubusercontent.com/bentasker/adblocklists/master/config/manualblocks/00_general.txt https://raw.githubusercontent.com/bentasker/adblocklists/master/config/manualblocks/admiral-antiadblock.txt https://raw.githubusercontent.com/bentasker/adblocklists/master/config/manualzones.txt https://raw.githubusercontent.com/bentasker/adblocklists/master/config/manualblocks/xiaomi.txt https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-iOS https://raw.githubusercontent.com/bigdargon/hostsVN/master/source/adservers-all.txt https://raw.githubusercontent.com/bigdargon/hostsVN/master/source/adservers-extra.txt https://raw.githubusercontent.com/bigdargon/hostsVN/master/source/hosts-extra.txt https://raw.githubusercontent.com/bigdargon/hostsVN/master/source/hosts.txt https://raw.githubusercontent.com/durablenapkin/block/master/home-heavy.txt https://raw.githubusercontent.com/durablenapkin/block/master/home-obese.txt https://raw.githubusercontent.com/durablenapkin/block/master/streaming.txt https://raw.githubusercontent.com/faralai/Pihole-Rules/master/Fara-Popups_Head https://raw.githubusercontent.com/llacb47/mischosts/master/streaming-hosts https://raw.githubusercontent.com/soteria-nou/domain-list/cleaned/ads.txt https://v.firebog.net/hosts/static/SamsungSmart.txt https://v.firebog.net/hosts/neohostsbasic.txt https://raw.githubusercontent.com/RamReb/pihole_blocklists/main/LG_blockLists.txt https://raw.githubusercontent.com/robi052/pihole/master/hosts https://sysctl.org/cameleon/hosts https://raw.githubusercontent.com/JohnHiqs/Blocklist/master/blocklist_category_advertising.txt https://paulgb.github.io/BarbBlock/blacklists/hosts-file.txt https://web.archive.org/web/20191226063733/http://hosts-file.net/ad_servers.txt https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/AakList.txt https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/ABP-Clickbait-Blocklist.txt https://raw.githubusercontent.com/neoFelhz/neohosts/data/_data/extra/popup/1.txt https://raw.githubusercontent.com/neoFelhz/neohosts/data/_data/extra/popup/2.txt https://raw.githubusercontent.com/neoFelhz/neohosts/data/_data/extra/popup/3.txt https://raw.githubusercontent.com/AlexRabbit/ADios/master/hosts https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/add-dead.txt https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/add-risk.txt https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AdGuard%20Home%20Compilation%20List/AdGuardHomeCompilationList.txt https://raw.githubusercontent.com/DandelionSprout/adfilt/master/GameConsoleAdblockList.txt https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Disconnect-Advertising-Filter.txt https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Hufilter.txt https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/PLgeneral.txt https://raw.githubusercontent.com/eEIi0A5L/adblock_filter/master/ichigo_filter.txt https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_adblocker https://raw.githubusercontent.com/wildquaker/filterlists/master/Blockzilla.txt https://raw.githubusercontent.com/wildquaker/filterlists/master/TOP_EU_US_Ads_Trackers.txt https://raw.githubusercontent.com/wildquaker/filterlists/master/hpHosts.txt https://raw.githubusercontent.com/wildquaker/filterlists/master/immortal_domains.txt https://raw.githubusercontent.com/uBlock-user/Adguard-for-Android-Filters/master/HOSTS.txt https://raw.githubusercontent.com/muxcc/AdsBlockLists/master/aumm.hosts https://web.archive.org/web/20210117093305/http://www.thedumbterminal.co.uk/files/services/squidblockedsites/blocked.txt https://web.archive.org/web/20210125013755/https://raw.githubusercontent.com/hectorm/hmirror/master/data/disconnect.me-ad/list.txt https://raw.githubusercontent.com/slyfox1186/pihole.regex/main/domains/blacklist/exact-blacklist.txt https://gitlab.com/dns-firewall/dns/matrix/matrix/raw/master/source/adware/domains.list https://raw.githubusercontent.com/fredprod/host-file.net-backup/master/ad_servers.txt https://raw.githubusercontent.com/shahidcodes/firebog-ticked-list/main/ads.txt https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/ads1.txt https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/ads2.txt https://raw.githubusercontent.com/FadeMind/hosts.extras/master/antipopads/hosts https://raw.githubusercontent.com/dashingdon/blocklists/master/pihole_domains.txt https://gist.githubusercontent.com/unlikekinds/c88671454df48532b305ba45127d469d/raw/276df5c461f39f00ec2359b9bff3b8bc082f5411/unlikekinds-video-ads-hosts https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_host https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt https://raw.githubusercontent.com/robi052/pihole/master/hosts https://raw.githubusercontent.com/yous/YousList/master/hosts.txt https://raw.githubusercontent.com/smokingwheels/smokingwheels.github.io/master/Pi-hole/allhosts https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-personal.txt https://raw.githubusercontent.com/AdlistCreator/Pi-Hole-Blocklist/main/hpub/Hosts.txt https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list/-/raw/master/Individual%20lists/The_Quantum_Simply-ads-list.txt https://raw.githubusercontent.com/12425/adblist/master/adbhost.txt https://raw.githubusercontent.com/34730/asd/master/adaway-export https://raw.githubusercontent.com/aleclee/DNS-Blacklists/master/AdHosts.txt https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain.txt https://raw.githubusercontent.com/DK-255/Pi-hole-list-1/main/Ads-Blocklist https://raw.githubusercontent.com/doadin/Pi-Hole-Blocklist/main/block.list https://raw.githubusercontent.com/dasdiesernoah/pihole-blocklists/main/Blocklists/Werbung https://raw.githubusercontent.com/Kenny2k8/Pihole-Blocklist/master/Blocklist/Abusive-Ad-Blocking https://raw.githubusercontent.com/Kenny2k8/Pihole-Blocklist/master/Blocklist/ad-block https://raw.githubusercontent.com/Kenny2k8/Pihole-Blocklist/master/Blocklist/adguard-mobile-ads https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdBlock-dnsmasq https://raw.githubusercontent.com/rediur/ads/master/xaa.txt https://raw.githubusercontent.com/rediur/ads/master/xab.txt https://raw.githubusercontent.com/rediur/ads/master/xac.txt https://raw.githubusercontent.com/rediur/ads/master/xad.txt https://raw.githubusercontent.com/rediur/ads/master/xae.txt https://raw.githubusercontent.com/rediur/ads/master/xaf.txt https://raw.githubusercontent.com/rediur/ads/master/xag.txt https://raw.githubusercontent.com/rediur/ads/master/xah.txt https://raw.githubusercontent.com/rediur/ads/master/xai.txt https://raw.githubusercontent.com/Yusaki-Akito/blocklist/master/serverblocklist.txt https://raw.githubusercontent.com/zetagi74/blocklists/master/ads https://raw.githubusercontent.com/zetagi74/blocklists/master/bigblock https://raw.githubusercontent.com/einyx/pfsense-pihole-blocklist/master/ads.txt https://gitlab.com/m0ze1r/Pihole-Blocklist/-/raw/master/dg-ads.acl https://raw.githubusercontent.com/hectorm/hmirror/master/data/antipopads/list.txt https://raw.githubusercontent.com/hectorm/hmirror/master/data/anudeepnd-adservers/list.txt https://raw.githubusercontent.com/hectorm/hmirror/master/data/dandelionsprout-nordic/list.txt https://raw.githubusercontent.com/hectorm/hmirror/master/data/easylist-ara/list.txt https://raw.githubusercontent.com/hectorm/hmirror/master/data/easylist-bul/list.txt https://raw.githubusercontent.com/hectorm/hmirror/master/data/easylist-ces-slk/list.txt https://raw.githubusercontent.com/hectorm/hmirror/master/data/easylist-deu/list.txt https://raw.githubusercontent.com/hectorm/hmirror/master/data/easylist-fra/list.txt https://raw.githubusercontent.com/hectorm/hmirror/master/data/easylist-heb/list.txt https://raw.githubusercontent.com/hectorm/hmirror/master/data/easylist-ind/list.txt https://raw.githubusercontent.com/hectorm/hmirror/master/data/easylist-ita/list.txt https://raw.githubusercontent.com/hectorm/hmirror/master/data/easylist-kor/list.txt https://raw.githubusercontent.com/hectorm/hmirror/master/data/easylist-lav/list.txt https://raw.githubusercontent.com/hectorm/hmirror/master/data/easylist-lit/list.txt https://raw.githubusercontent.com/hectorm/hmirror/master/data/easylist-nld/list.txt https://raw.githubusercontent.com/hectorm/hmirror/master/data/easylist-por/list.txt https://raw.githubusercontent.com/hectorm/hmirror/master/data/easylist-rus/list.txt https://raw.githubusercontent.com/hectorm/hmirror/master/data/easylist-spa/list.txt https://raw.githubusercontent.com/hectorm/hmirror/master/data/easylist-zho/list.txt https://raw.githubusercontent.com/hectorm/hmirror/master/data/easylist/list.txt https://raw.githubusercontent.com/hectorm/hmirror/master/data/hostsvn/list.txt https://raw.githubusercontent.com/hectorm/hmirror/master/data/kadhosts/list.txt https://raw.githubusercontent.com/hectorm/hmirror/master/data/mozilla-shavar-advertising/list.txt https://raw.githubusercontent.com/hectorm/hmirror/master/data/pgl.yoyo.org/list.txt https://raw.githubusercontent.com/hectorm/hmirror/master/data/someonewhocares.org/list.txt https://raw.githubusercontent.com/hectorm/hmirror/master/data/stevenblack/list.txt https://raw.githubusercontent.com/hectorm/hmirror/master/data/ublock/list.txt https://gitlab.com/sbioa1234/pihole/-/raw/master/etc-pihole/list.5.s3.amazonaws.com.domains https://raw.githubusercontent.com/RmG152/pi-hole-ownlist/master/adservers.txt https://filtri-dns.ga/filtri.txt https://filters.adtidy.org/extension/chromium/filters/2.txt https://raw.githubusercontent.com/JohnHiqs/blocklist/master/blocklist_category_advertising.txt https://raw.githubusercontent.com/FleuryK/pihole-ads/master/blocklist-ads-website/blocklist.txt https://raw.githubusercontent.com/FleuryK/pihole-ads/master/blocklist-ads-website/hosts-file.net_ad_servers_at_20191026.txt https://raw.githubusercontent.com/suhas316380/pihole-ads-list/master/blocked.list https://raw.githubusercontent.com/suhas316380/pihole-ads-list/master/LG-TV-Ads.txt https://raw.githubusercontent.com/Kwinnieprince/pihole-blocklists/master/ads/adguarddnsblocklist.txt https://raw.githubusercontent.com/Kwinnieprince/pihole-blocklists/master/ads/adsblocklist.txt https://raw.githubusercontent.com/Kwinnieprince/pihole-blocklists/master/ads/adserversblocklist.txt https://raw.githubusercontent.com/Kwinnieprince/pihole-blocklists/master/ads/curated_adblocklist.txt https://raw.githubusercontent.com/Kwinnieprince/pihole-blocklists/master/ads/simpleadblocklist.txt https://raw.githubusercontent.com/Kwinnieprince/pihole-blocklists/master/ads/mobile_ads/mobileadsblocklist.txt https://raw.githubusercontent.com/Kwinnieprince/pihole-blocklists/master/ads/smarttv/smarttvblocklist.txt https://ente.dev/api/blocklist/tv-hosts https://ente.dev/api/blocklist/advertising-hosts https://web.archive.org/web/20180318103701/https://www.sa-blacklist.stearns.org/sa-blacklist/sa-blacklist.current.domains https://hostsfile.mine.nu/Hosts.txt https://raw.githubusercontent.com/root-host/Spotify-AdBlock/master/domains2 https://github.com/minoplhy/filters/releases/download/latest/ucate_hosts.txt https://raw.githubusercontent.com/ShadowWhisperer/IPs/master/Other/Ads https://raw.githubusercontent.com/AdlistCreator/Pi-Hole-Blocklist/main/ente-list/advertising-hosts.txt https://raw.githubusercontent.com/sireture/Master-adlist/main/Master-adlist.txt https://raw.githubusercontent.com/SystemJargon/pi-hole/main/lists/blacklist/v.firebog.net/Prigent-Ads.txt
+
+
+=============================================================================================================================================================================================================================================
+
+This is an easy-to-copy list if anyone wants to copy the "Ads and Tracking" blocklist into Pihole. But, remember, there is a chance it could be overblocking, which might require making a custom whitelist.
+ _____________________________________________
+|                                             |
+| Easy Copy List: Ads and Tracking for Pihole |
+|_____________________________________________|
+
+
+https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt https://raw.githubusercontent.com/ADsecu/black-domains/master/domain_hosts.txt https://raw.githubusercontent.com/zebpalmer/dns_blocklists/master/blocklist.txt https://raw.githubusercontent.com/neodevpro/neodevhost/master/host https://raw.githubusercontent.com/nicholasb2101/PiHole/master/Blocklists/Tertiary%20Blocklist.txt https://raw.githubusercontent.com/nicholasb2101/PiHole/master/Blocklists/Primary%20Blocklist.txt https://web.archive.org/web/20201007212908/https://raw.githubusercontent.com/jawz101/MobileAdTrackers/master/hosts https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/adservers-and-trackers.txt https://gitlab.com/my-privacy-dns/matrix/matrix/-/raw/master/source/adware/domains.list https://hostsfile.mine.nu/hosts0.txt https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/adservers-and-trackers.txt https://raw.githubusercontent.com/DataMaster-2501/DataMaster-Android-AdBlock-Hosts/master/hosts https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt https://raw.githubusercontent.com/kowith337/PersonalFilterListCollection/master/hosts/hosts_leftover.txt https://raw.githubusercontent.com/migueldemoura/ublock-umatrix-rulesets/master/Hosts/ads-tracking-breaking https://list.kwbt.de/kwbtlist.txt https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=1&mimetype=plaintext https://raw.githubusercontent.com/nicholasb2101/PiHole/master/Blocklists/Extended%20Primary%20Blocklist.txt https://raw.githubusercontent.com/Amdromeda/Blocklist-Pi-Hole/master/Ads%20and%20trackers.txt https://blocklistproject.github.io/Lists/smart-tv.txt https://raw.githubusercontent.com/ftpmorph/ftprivacy/master/blocklists/smartphone-ads-tracking.txt https://raw.githubusercontent.com/ftpmorph/ftprivacy/master/blocklists/windows10-spying-erm-i-mean-telemetry-lol.txt https://raw.githubusercontent.com/ftpmorph/ftprivacy/master/blocklists/xiaomi-ads-tracking.txt https://web.archive.org/web/20200218153719/http://hosts-file.net:80/ad_servers.txt https://web.archive.org/web/20180108125255/https://raw.githubusercontent.com/quidsup/notrack/master/trackers.txt https://hostsfile.org/Downloads/hosts.txt http://web.archive.org/web/20211026004744/https://v.firebog.net/hosts/Airelle-trc.txt https://web.archive.org/web/20211026004751/https://v.firebog.net/hosts/Airelle-hrsk.txt https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.2o7Net/hosts  https://hphosts.gt500.org/hosts.txt  https://raw.githubusercontent.com/JoseGalRe/Hosty/master/bits/hosty.blacklist https://web.archive.org/web/20200119103319/http://hosts-file.net/ad_servers.txt https://raw.githubusercontent.com/bigdargon/hostsVN/master/filters/domain-adservers-all.txt https://raw.githubusercontent.com/vokins/yhosts/master/hosts https://www.bentasker.co.uk/adblock/blocked_domains_with_sm.txt https://www.bentasker.co.uk/adblock/blockeddomains.txt https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt https://raw.githubusercontent.com/Laicure/hosts/master/shithosts https://raw.githubusercontent.com/ecks06/my-pihole-blocklist/master/Ad%20Blocker.txt https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts https://raw.githubusercontent.com/CleanMachine1/AdlistTXTS/main/list.txt  https://raw.githubusercontent.com/JohnHiqs/blocklist/master/blocklist_devices_samsungsmarttv.txt https://raw.githubusercontent.com/betterwebleon/international-list/master/filters.txt https://raw.githubusercontent.com/smashah/smashblock/master/blocklist.txt https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/CountryCodesLists/UnitedStatesofAmerica.txt https://web.archive.org/web/20210308133505/https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/other.txt https://raw.githubusercontent.com/hectorm/hmirror/master/data/easylist/list.txt https://raw.githubusercontent.com/hectorm/hmirror/master/data/stevenblack/list.txt https://raw.githubusercontent.com/CaptBV/piholeblocklist/main/blocklist-valid-domains https://raw.githubusercontent.com/brunomota2020/blocklist/main/lista1.txt https://raw.githubusercontent.com/erkexzcx/disconnectme-pihole/master/services.txt https://raw.githubusercontent.com/theshepnetwork/pihole/main/tsn-curatedblocklist https://raw.githubusercontent.com/rushadantia/Pi-Hole-Blocklist/main/pihole.txt https://dsi.ut-capitole.fr/blacklists/download/shortener.tar.gz https://raw.githubusercontent.com/justdomains/blocklists/master/lists/adguarddns-justdomains.txt https://web.archive.org/web/20210124153812/https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/other.txt https://raw.githubusercontent.com/infinitytec/blocklists/master/possibilities.txt https://raw.githubusercontent.com/neoFelhz/neohosts/data/_data/extra/popup/common.txt https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Anti-Elsagate%20List.txt https://github.com/j-moriarti/pDNSf-Hosts-collection/releases/download/v1.0.0/pDNSf-hosts-part1.txt https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt https://web.archive.org/web/20210127174323/https://lists.noads.online/lists/compilation.txt https://raw.githubusercontent.com/allendema/noplaylist/main/NoPlayList.txt https://raw.githubusercontent.com/anthony-wang/PiHoleBlocklist/master/hosts1.txt https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/steven-blacks-unified-list.txt https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Samsung-SmartTV-Domains.txt https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Tofu-Filter.txt https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/wildcard-domains/blacklist/ads-and-trackers.txt https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/adguard.txt https://raw.githubusercontent.com/ftpmorph/ftpihole/master/blocklists/smart-tv-ads-tracking.txt https://raw.githubusercontent.com/ftpmorph/ftpihole/master/blocklists/smartphone-ads-tracking.txt https://raw.githubusercontent.com/ftpmorph/ftpihole/master/blocklists/spotify-ads-tracking.txt https://raw.githubusercontent.com/furkun/ProtectorHosts/main/hosts https://raw.githubusercontent.com/gasull/adblock-nsa/master/filters.txt https://raw.githubusercontent.com/genediazjr/nopelist/master/nopelist.txt https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard/master/Modules/privacybadger_sourced_blocklist.txt https://raw.githubusercontent.com/justdomains/blocklists/master/lists/easylist-justdomains.txt https://raw.githubusercontent.com/twcau/AdblockRules/master/CustomSonyTVList https://github.com/j-moriarti/pDNSf-Hosts-collection/releases/download/v1.0.0/Wildcards.txt https://github.com/GitGoehler/Pihole-Blocklists/blob/master/Block-Crap.txt https://web.archive.org/web/20210114081441/https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/TOP_EU_US_Ads_Trackers_HOST https://web.archive.org/web/20200923181716/https://hphosts.gt500.org/hosts.txt https://github.com/slyfox1186/pihole.youtube.blocklist/blob/main/blacklist/smart-tv-filters.txt https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/optimized-win-Dual.hosts http://web.archive.org/web/20220427061213/https://adblock.mahakala.is/ https://reddestdream.github.io/Projects/MinimalHosts/etc/MinimalHostsBlocker/minimalhosts https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts;showintro=0 https://raw.githubusercontent.com/fredprod/host-file.net-backup/master/mmt.txt https://raw.githubusercontent.com/AdlistCreator/Pi-Hole-Blocklist/main/OldestBlocklist https://raw.githubusercontent.com/lwsnz/pihole-lists-armada/main/SmartTV-telemetry-ads.txt https://raw.githubusercontent.com/lwsnz/pihole-lists-armada/main/ads-telemetry-nzherald.txt https://raw.githubusercontent.com/mayesidevel/PiHoleLists/master/MiscBlocklist https://v.firebog.net/hosts/static/HPHosts/HostsAdServers.txt https://raw.githubusercontent.com/mayesidevel/PiHoleLists/master/MiscBlocklist https://pgl.yoyo.org/as/serverlist.php?showintro=0;hostformat=hosts https://raw.githubusercontent.com/dashingdon/blocklists/master/pihole_black.list https://raw.githubusercontent.com/Amdr0meda/Blocklist_Pi_Hole/master/Ads%20and%20trackers.txt https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/trackers.list https://warui.intaa.net/adhosts/hosts.txt https://blokada.org/blocklists/exodusprivacy/standard/hosts.txt https://gist.githubusercontent.com/hkamran80/779019103fcd306979411d44c8d38459/raw/5d5a2950777b9c1ea88d1e7ae5db921b300d9c39/SmartTV2.txt https://raw.githubusercontent.com/What-Zit-Tooya/Ad-Block/main/Main-Blocklist/Ad-Block-HOSTS.txt https://raw.githubusercontent.com/bigdargon/hostsVN/master/source/hosts-group.txt https://raw.githubusercontent.com/comes/blocklist-pihole/main/blocklist.txt https://raw.githubusercontent.com/GreyHeadTed/blocklist/main/list.txt https://raw.githubusercontent.com/Lvc4/Pihole-Blocklist/main/hosts https://raw.githubusercontent.com/unixunite/pihole-domain-list/master/pihole-domain-list.txt https://raw.githubusercontent.com/Yusaki-Akito/blocklist/master/list.txt https://raw.githubusercontent.com/zetagi74/blocklists/master/ad_and_tracking https://raw.githubusercontent.com/zetagi74/blocklists/master/smarttv https://raw.githubusercontent.com/einyx/pfsense-pihole-blocklist/master/spotify.txt https://raw.githubusercontent.com/einyx/pfsense-pihole-blocklist/master/xiaomi.txt https://gitlab.com/m0ze1r/Pihole-Blocklist/-/raw/master/AD-Tracking.txt https://gitlab.com/m0ze1r/Pihole-Blocklist/-/raw/master/MVPS-Hosts.txt https://gitlab.com/bramschenau/pi-hole/-/raw/master/block.txt https://gitlab.com/kodekitchen/pihole_list/-/raw/master/blacklist.txt https://raw.githubusercontent.com/hectorm/hmirror/master/data/adaway.org/list.txt https://raw.githubusercontent.com/hectorm/hmirror/master/data/adguard-cname-trackers/list.txt https://raw.githubusercontent.com/hectorm/hmirror/master/data/adguard-simplified/list.txt https://raw.githubusercontent.com/hectorm/hmirror/master/data/fanboy-annoyance/list.txt https://raw.githubusercontent.com/hectorm/hmirror/master/data/lightswitch05-ads-and-tracking/list.txt https://raw.githubusercontent.com/hectorm/hmirror/master/data/molinero.dev/list.txt https://raw.githubusercontent.com/hectorm/hmirror/master/data/winhelp2002.mvps.org/list.txt https://gitlab.com/bramschenau/pi-hole/-/raw/master/block.txt https://gitlab.com/youvegotmoxie/pihole/-/raw/master/blocklist.txt https://gitlab.com/loveland/pihole/-/raw/master/blist_hosts https://gitlab.com/sbioa1234/pihole/-/raw/master/etc-pihole/gravity.list https://gitlab.com/sbioa1234/pihole/-/raw/master/etc-pihole/list.0.raw.githubusercontent.com.domains https://gitlab.com/sbioa1234/pihole/-/raw/master/etc-pihole/list.2.sysctl.org.domains https://gitlab.com/sbioa1234/pihole/-/raw/master/etc-pihole/list.6.hosts-file.net.domains https://gitlab.com/sbioa1234/pihole/-/raw/master/etc-pihole/list.preEventHorizon https://raw.githubusercontent.com/rotzbouf/pi-hole-dns-lists/master/piholeBL.txt https://raw.githubusercontent.com/vokins/yhosts/master/hosts https://raw.githubusercontent.com/Firestorrrm/Minimal-Hosts-Blocker/master/iosadlist.txt https://hostsfile.org/Downloads/hosts.txt https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts;showintro=0 https://gitlab.com/kodekitchen/pihole_list/-/raw/master/blacklist.txt https://gitlab.com/bramschenau/pi-hole/-/raw/master/block.txt https://gitlab.com/youvegotmoxie/pihole/-/raw/master/blocklist.txt https://gitlab.com/loveland/pihole/-/raw/master/blist_hosts https://gitlab.com/sbioa1234/pihole/-/raw/master/etc-pihole/gravity.list https://gitlab.com/sbioa1234/pihole/-/raw/master/etc-pihole/list.0.raw.githubusercontent.com.domains https://gitlab.com/sbioa1234/pihole/-/raw/master/etc-pihole/list.2.sysctl.org.domains https://gitlab.com/sbioa1234/pihole/-/raw/master/etc-pihole/list.6.hosts-file.net.domains https://gitlab.com/sbioa1234/pihole/-/raw/master/etc-pihole/list.preEventHorizon https://raw.githubusercontent.com/rotzbouf/pi-hole-dns-lists/master/piholeBL.txt https://raw.githubusercontent.com/vokins/yhosts/master/hosts https://raw.githubusercontent.com/Firestorrrm/Minimal-Hosts-Blocker/master/iosadlist.txt https://hostsfile.org/Downloads/hosts.txt https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts;showintro=0 https://gitlab.com/kodekitchen/pihole_list/-/raw/master/blacklist.txt https://gitlab.com/grublets/appletv-blocklist/-/raw/master/appletv.hosts https://gitlab.com/nelson20/pihole-list/-/raw/master/niko.domains https://raw.githubusercontent.com/JohnHiqs/CHEF-KOCH/main/HOSTS/Ad-Tracker-HOSTS-FilterList.txt https://raw.githubusercontent.com/marcusminus/Orthrus-BlockList/master/domains.txt https://raw.githubusercontent.com/dondom90/blocklists-pihole/master/blocklist%231.txt https://raw.githubusercontent.com/dondom90/blocklists-pihole/master/blocklist%232.txt https://raw.githubusercontent.com/killuminati3001/host-block/master/black.list https://raw.githubusercontent.com/WorldWideBlock/netguard-block/master/hosts.txt https://raw.githubusercontent.com/muxcc/AdsBlockLists/master/smart-tv.hosts https://raw.githubusercontent.com/muxcc/AdsBlockLists/master/xiaomi.hosts https://raw.githubusercontent.com/marcofrhem/piholelist/main/u https://raw.githubusercontent.com/skiantblutch/skiant/master/blocklist1.txt  https://raw.githubusercontent.com/skiantblutch/skiant/master/blocklist2.txt  https://raw.githubusercontent.com/skiantblutch/skiant/master/blocklist3.txt https://raw.githubusercontent.com/AdlistCreator/Pi-Hole-Blocklist/main/ente-list/tv-hosts.txt http://web.archive.org/web/20210503025227/https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/TOP_EU_US_Ads_Trackers_HOST https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US%2Bmost_used_ad_and_tracking_networks http://web.archive.org/web/20201018221138/https://raw.githubusercontent.com/TakoYachty/Gift-Card-Killer/master/Mega%20Untrusted%20Hosts%20Blocker.txt https://raw.githubusercontent.com/Kenny2k8/Pihole-Blocklist/master/Blocklist/Deutsche-Ministerien-Behoerden https://raw.githubusercontent.com/Kenny2k8/Pihole-Blocklist/master/Blocklist/Deutsche-Staedte-und-Gemeinden https://raw.githubusercontent.com/Kenny2k8/Pihole-Blocklist/master/Blocklist/host-Japan https://raw.githubusercontent.com/Kenny2k8/Pihole-Blocklist/master/Blocklist/IPv4-Adressen https://raw.githubusercontent.com/AdlistCreator/Pi-Hole-Blocklist/main/GameIndustry_de.txt https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext https://raw.githubusercontent.com/SystemJargon/pi-hole/main/lists/blacklist/mobile_android/android-telemetry-tracking.txt https://raw.githubusercontent.com/SystemJargon/pi-hole/main/lists/blacklist/telemetry/SmartTV-more.txt https://raw.githubusercontent.com/SystemJargon/pi-hole/main/lists/blacklist/telemetry/ads-telemetry-nzherald.txt https://raw.githubusercontent.com/SystemJargon/pi-hole/main/lists/blacklist/telemetry/other-ads-telemetry.txt
+
+
+=============================================================================================================================================================================================================================================
+
+This is an easy-to-copy list if anyone wants to copy the "Ads and Tracking for iOS and MacOS" blocklist into Pi-Hole. But, remember, there is a chance it could be overblocking, which might require making a custom whitelist.
+
+ _____________________________________________________________
+|                                                             |
+| Easy Copy List: Ads and Tracking (iOS and MacOS) for Pihole |
+|_____________________________________________________________|
+
+
+https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/Hosts.txt         
+
+=============================================================================================================================================================================================================================================
+
+This is an easy-to-copy list if anyone wants to copy the "Ads and Tracking for Windows" blocklist into Pi-Hole. But, remember, there is a chance it could be overblocking, which might require making a custom whitelist.
+
+ _______________________________________________________
+|                                                       |
+| Easy Copy List: Ads and Tracking (Windows) for Pihole |
+|_______________________________________________________|
+
+
+https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/List%20Files/list.141.raw.githubusercontent.com.domains 
+
+=============================================================================================================================================================================================================================================
+
+This is an easy-to-copy list if anyone wants to copy the "Ads, Tracking, Phishing, Porn, and Malware" blocklist into Pi-Hole. But, remember, there is a chance it could be overblocking, which might require making a custom whitelist.
+
+ _______________________________________________________________________
+|                                                                       |
+| Easy Copy List: Ads, Tracking, Phishing, Porn, and Malware for Pihole |
+|_______________________________________________________________________|
+
+
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts https://raw.githubusercontent.com/yhonay/antipopads/master/hosts https://asc.hk/adplus.txt https://someonewhocares.org/hosts/ipv6/hosts https://block.energized.pro/basic/formats/hosts.txt https://block.energized.pro/blu/formats/hosts.txt https://raw.githubusercontent.com/hell-sh/Evil-Domains/master/evil-domains.txt https://raw.githubusercontent.com/joeylane/hosts/master/hosts https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/mvps-hosts-file.txt https://winhelp2002.mvps.org/hosts.txt https://raw.githubusercontent.com/mhxion/pornaway/master/hosts/porn_ads.txt https://raw.githubusercontent.com/CitizenXVIL/Hosts/master/mobile%20domains.txt https://raw.githubusercontent.com/dnswarden/blocklist/master/blacklist-formats/hosts https://someonewhocares.org/hosts/zero/hosts https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds-Ultra.txt https://raw.githubusercontent.com/nathanaccidentally/SystemHostsBlocker/master/hosts https://raw.githubusercontent.com/dashingdon/blocklists/master/pihole_addonblacklist.txt https://gitlab.com/YAMA-EDV/pihole-blacklist/-/raw/master/yama_blacklist.txt https://web.archive.org/web/20201124210237/https://raw.githubusercontent.com/chrisjudk/hosts/master/hosts https://raw.githubusercontent.com/Zyzonix/pihole-utilities/master/adlists/fulllist.txt https://raw.githubusercontent.com/harshithyechuri/PiHole-Adlist/main/MAT-adlist.txt https://raw.githubusercontent.com/jagagta/adlist/master/domains.txt https://raw.githubusercontent.com/SystemJargon/pi-hole/main/lists/blacklist/v.firebog.net/w3kbl.txt 
+
+
+=============================================================================================================================================================================================================================================
+ ___________
+|           |
+|  Credits  |
+|___________|
+
+- StevenBlack
+- sysctl.org
+- lists.disconnect.me
+- Blocklist Project
+- hectorm
+- bigdragon
+- jdlingyu
+- RooneyMcNibNug
+- Daniel White
+- FadeMind
+- ADsecu
+- zebpalmer
+- SweetSophia
+- neodevpro
+- AlexRabbit
+- nicholasb2101
+- erkexzcx
+- ShadowWhisperer
+- d43m0nhLInt3r
+- justdomains
+- aspartam206
+- jawz101
+- RmG152
+- KitsapCreator
+- WaLLy3K
+- adaway
+- anudeepND
+- Peter Lowe
+- PolishFiltersTeam
+- Perflyst
+- jerryn70
+- r-a-y
+- infinitytec
+- adguardteam
+- realodix
+- Levero
+- tgc.cloud
+- ABPVN
+- DRSDavidSoft
+- Phentora
+- deathbybandaid
+- Licolnlee
+- getadhell
+- kowith337
+- andnixsh
+- yhonay
+- bentasker
+- ASC.hk - deiG
+- zznidar
+- chrisjudk
+- someonewhocares
+- Energized Team
+- hell-sh
+- joeylane
+- my-privacy-dns
+- austinheap
+- MVPS
+- tgc.cloud
+- migueldemoura
+- mahakala
+- biroloter
+- pexcn
+- XionKzn
+- mhxion
+- ReddestDream
+- scafroglia93
+- cbuijs
+- smed79
+- soteria-nou-domain
+- w13d
+- nathanaccidentally
+- Andy Short (sh0rtie)
+- jackrabbit335
+- windscribe
+- mtxadmin
+- bjornstar
+- ookangzheng
+- CitizenXVIL
+- DataMaster-2501
+- BlackJack8
+- jakejarvis
+- TakoYachty
+- arcetera
+- angelics
+- rimu
+- svetlyobg
+- dnswarden
+- gjtech
+- kowabit
+- Esox-Lucius
+- Xcalizorz
+- AdamO20054
+- growal-it
+- bigdargon
+- jmhenrique
+- BarBlock
+- ZYX2019
+- thedumbterminal
+- Corey-6-6-6
+- hemiipatu
+- bloodhunterd
+- doadlin
+- TheRandomOwl
+- GitGoehler
+- bmyjacks
+- marcusminus
+- krullmizter
+- MorganMLGman
+- muxcc
+- Kees1958
+- Amdr0meda
+- action-user
+- hl2guide
+- ftpmorph
+- TonyRL
+- hostfile
+- quidsup
+- DandelionSprout
+- JoseGalRe
+- Yhonay
+- durablenapkin
+- faralai
+- llacb47
+- vokins
+- d3ward
+- Laicure
+- RamReb
+- robi052
+- ecks06
+- VeleSila
+- CleanMachine1
+- slyfox1186
+- JohnHiqs
+- betterwebleon
+- smashah
+- Akamaru
+- CaptBV
+- brunomota2020
+- theshepnetwork
+- rushadantia
+- ftpihole
+- ut-capitole
+- neoFelhz
+- J-Moriarti
+- uBlockOrigin
+- Dandelicence
+- allendema
+- anthony-wang
+- eEli0A5L
+- furkun
+- gasull
+- genediazjr
+- twcau
+- wildquaker
+- uBlock-user
+- bubblev
+- bongochong
+- dns-firewall
+- fredprod
+- MHB73
+- AdlistCreator
+- shahidcodes
+- lwsnz
+- theycallmetimmy
+- mayesidevel
+- dashingdon
+- unlikekinds
+- AdAway
+- yous
+- smokingwheels
+- warui.intaa.net
+- VX-X AI, The_Quantum_Alpha & Co.
+- 12425
+- 34730
+- aleclee
+- DK-255
+- doadin
+- Blokada
+- hkamran80
+- What-Zit-Tooya
+- comes
+- GreyHeadTed
+- Lvc4
+- Kenny2k8
+- unixunite
+- dasdiesernoah
+- rediur
+- Yusaki-Akito
+- zetagi74
+- einyx
+- m0zelr
+- bramschenau
+- kodekitchen
+- sbioa1234
+- RmG152
+- filtri-dns.ga
+- grublets
+- youvegotmoxie
+- loveland
+- rotzbouf
+- Firestorrm
+- nelson20
+- FleuryK
+- suhas316380
+- dondom90
+- killuminati3001
+- WorldWideBlock
+- marcofrhem
+- YAMA-EDV
+- Kwinnieprince
+- skiantblutch
+- Willi Entenmann
+- sa-blacklist.stearns.org
+- Andy Short
+- MrHumanRebel
+- minoplhy
+- sireture
+- Zyzonix
+- harshithyechuri
+- jagagta
+- SystemJargon
+
+
+

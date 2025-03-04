@@ -1,0 +1,65 @@
+The gambling blocklist was designed for pihole and just blocks some gambling sites through the DNS level, with a few porn and fake news sites included. It's recommended to make your own whitelist because everyone has their own reason to unblock some websites due to certain scenarios.
+
+Note: Some of the lists have "Temp," which means they were previously unavailable and we don't know when they will be restored. I used the Wayback Machine to get the file before the owner or website took it down.
+
+Blocklist Type: Gambling
+(This includes gambling, porn, and fake news.)
+
+=============================================================================================================================================================================================================================================
+ _______________________
+|                       |
+|  Blocklist: Gambling  |
+|_______________________|
+
+
+https://blocklistproject.github.io/Lists/gambling.txt (Gambling)
+
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Steven-Blacks-Gambling.txt (Gambling)
+
+https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/gambling-hosts (Gambling)
+
+https://raw.githubusercontent.com/blocklistproject/Lists/master/gambling.txt (Gambling)
+
+https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling/hosts (Gambling)
+
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/gambling (Gambling)
+
+https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn/hosts (Gambling, Porn, and Fakenews)
+
+https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/gambling.txt (Gambling)
+
+https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/List%20Files/list.156.raw.githubusercontent.com.domains (Gambling)
+
+https://raw.githubusercontent.com/JuanRodenas/Pi-hole_list/main/Listas/Gambling/Gambling.txt (Gambling)
+
+
+=============================================================================================================================================================================================================================================
+
+If anyone wants to copy the "gambling" blocklist into Pihole, this is a simple copy list. Remember, there is a chance it could be blocked, in which case you might need to make a custom whitelist.
+
+ _____________________________________
+|                                     |
+| Easy Copy List: Gambling for Pihole |
+|_____________________________________|
+
+
+https://blocklistproject.github.io/Lists/gambling.txt https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Steven-Blacks-Gambling.txt https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/gambling-hosts https://raw.githubusercontent.com/blocklistproject/Lists/master/gambling.txt https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling/hosts https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/gambling https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn/hosts https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/gambling.txt https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/List%20Files/list.156.raw.githubusercontent.com.domains https://raw.githubusercontent.com/JuanRodenas/Pi-hole_list/main/Listas/Gambling/Gambling.txt
+
+
+=============================================================================================================================================================================================================================================
+
+ ___________
+|           |
+|  Credits  |
+|___________|
+
+
+- Blocklist Project
+- deathbybandaid
+- Sinfonietta
+- StevenBlack
+- RPiList
+- ShadowWhisperer
+- theycallmetimmy
+- MrHumanRebel
+- JuanRodenas

@@ -1,0 +1,305 @@
+DNS, ISP, VPN, and other service blocking is used to increase security for personal computers and IoT devices by reducing the number of openings on the local network. This list is only designed for multiple servers or nodes to defend against outside attacks without needing to spend a lot of money on network security. It's recommended to make your own whitelist because everyone has their own reason to unblock some websites due to certain scenarios.
+
+Note: Some of the lists have "Temp," which means they were previously unavailable and we don't know when they will be restored. I used the Wayback Machine to get the file before the owner or website took it down.
+
+Blocklist Type: DNS
+(Includes DNS, ISP, VPN, and other service blocking.)
+
+=============================================================================================================================================================================================================================================
+ _________________________________________________________
+|                                                         |
+|  Blocklist: DNS, ISP, VPN, and Other Services Blocking  |
+|_________________________________________________________|
+
+
+https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/master/doh-ipv4.txt (DoH and DoT Blocking - IPv4)
+
+https://raw.githubusercontent.com/oneoffdallas/dohservers/master/iplist.txt (DoH and DoT Blocking - IPv4)
+
+https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOHipv4.txt (DoH and DoT Blocking - IPv4)
+
+https://raw.githubusercontent.com/cbuijs/accomplist/master/doh/plain.black.ip4cidr.list (DoH and DoT Blocking - IPv4)
+
+https://raw.githubusercontent.com/Sekhan/TheGreatWall/master/TheGreatWall.txt (DoH and DoT Blocking - IPv4)
+
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tunnels (VPN Blocking)
+
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Dynamic (DoH Blocking - IPv4)
+
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Bloat (DoH Blocking - IPv4, Fonts, Cookies, Antivirus, Social, and Tracking)
+
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk (ISP Blocking, Screen Recorder, Search Engine, and Bookmark site)
+
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Remote (Remote Control PC Software)
+
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Risk (ISP Blocking, Keylogger, Software Hosting, and Phone/Computer Monitor)
+
+https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/PiHole/Archive/Quad9.txt (DoH Blocking)
+
+https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/cloudflare/all (DoH Blocking)
+
+https://raw.githubusercontent.com/highsea/Hosts/master/host-include-appale/hosts (Breaks everything Towards Google, Apple, Dropbox, Facebook, Twitter, Youtube, Github, Wordpress, Wikipedia)
+
+https://raw.githubusercontent.com/superliaoyong/hosts/master/hosts (Breaks everything Google, Youtube, Dropbox, Box, Apkpure, Soundcloud, Wordpress, Vimeo, Medium, DuckDuckGo, Imgur, MEGA, FlipBoard, Startpage, W3schools, OneDrive, Wiki, XDA, Github, Facebook, Instagram, Steam, Twitter, Yahoo, Andriod)
+
+https://raw.githubusercontent.com/cbuijs/shallalist/master/anonvpn/domains (Blocking VPNS)
+
+https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspicious/dynamic_domain.txt (Dynamic DNS Block)
+
+https://raw.githubusercontent.com/cbuijs/shallalist/master/dynamic/domains (Ads, ISP Blocking, and DNS Blocking)
+
+https://raw.githubusercontent.com/cbuijs/shallalist/master/isp/domains (Tracking - ISP)
+
+https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/dnsparsed (Google - DNS Blocking, Tracking)
+
+https://raw.githubusercontent.com/bambenek/block-doh/master/doh-hosts.txt (Blocking DNS Providers - DOH)
+
+https://raw.githubusercontent.com/Cybo1927/Hosts/master/Anti-corp/Verizon (Blocking DNS and ISP)
+
+https://web.archive.org/web/20200215131949/http://mirror1.malwaredomains.com:80/files/dynamic_dns.txt (Blocking DNS - Dynamic DNS)
+
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Free (Blocking Free Hosting)
+
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Top_Level (Blocking Top Level Domains)
+
+https://raw.githubusercontent.com/cbuijs/shallalist/master/military/domains 
+(Blocking Military Related Sites)
+
+https://raw.githubusercontent.com/de956/adblock-list/main/blocklist.txt (Blocking DNS, Everything)
+
+https://raw.githubusercontent.com/unixunite/pihole-domain-list/master/big_list (Blocking DNS, Tracking)
+
+https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/dns.txt (Blocking DNS)
+
+https://raw.githubusercontent.com/jonschipp/mal-dnssearch/master/mandiant_apt1.dns (Blocking DNS, and Tracking)
+
+https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard-or-PiHole/master/Blocklist/filter_blocklist1.txt (Blocking OpenVPN, and Crypto)
+
+https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard-or-PiHole/master/Blocklist/filter_blocklist3.txt (Blocking DNS, and Tracking)
+
+https://github.com/j-moriarti/pDNSf-Hosts-collection/releases/download/v1.0.0/pDNSf-hosts-part2.txt (Blocking DNS, and Tracking)
+                                                                                                   
+https://github.com/j-moriarti/pDNSf-Hosts-collection/releases/download/v1.0.0/just-IPs.txt (Blocking IP Addresses)
+
+https://raw.githubusercontent.com/neoFelhz/neohosts/gh-pages/full/hosts (DNS Blocking, Ads, and Tracking) 
+
+https://raw.githubusercontent.com/bebasid/bebasid/master/releases/hosts (Blocking CDNS, Reddit, Vimeo, Priatebay, Hitomi, Porn, 4chan, and Ads)
+
+https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/doh/domains (Blocking DNS Providers, and IP Addresses)
+
+https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/master/doh-domains.txt (Blocking DNS Providers)
+
+https://raw.githubusercontent.com/cbuijs/accomplist/master/doh/plain.black.hosts.list (Blocking DNS Providers, and VPNs)
+
+https://raw.githubusercontent.com/cbuijs/accomplist/master/oisd/plain.black.top-n.domain.list (Blocking CDNs, DNS, and Tracking)
+
+https://raw.githubusercontent.com/cbuijs/accomplist/master/family-safe/plain.black.top-n.domain.list (Blocking CDNs, DNS, and Tracking)
+
+https://raw.githubusercontent.com/cbuijs/accomplist/master/doh/plain.black.top-n.domain.list (Blocking DNS, Proxy, and VPNs)
+
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level1.netset (Blocking IP Addresses)
+
+https://iplists.firehol.org/files/cruzit_web_attacks.ipset (Blocking DDoS Scans)
+
+https://iplists.firehol.org/files/dshield_top_1000.ipset (Blocking VPNS)
+
+https://iplists.firehol.org/files/ipblacklistcloud_recent_7d.ipset (Blocking WordPress Dangerous Plugins)
+
+https://iplists.firehol.org/files/normshield_all_ddosbot.ipset (Blocking DDos Bot Attacks )
+
+https://iplists.firehol.org/files/normshield_all_dnsscan.ipset (DNS Scanner)
+
+https://iplists.firehol.org/files/normshield_high_ddosbot.ipset (Blocking DDoS Bot Attacks)
+
+https://raw.githubusercontent.com/cloudsvrtech/pfsense_ips_custom_blocklist/master/custom_blocklist (Rouge IP Addresses Active)
+
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/DNS-BH-Free-Web-Hosts.txt (Blocking Free Web DNS Host)
+
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/DNS-BH-Malware-Domains.txt (Blocking DNS Malware Domains)
+
+https://raw.githubusercontent.com/ftpmorph/ftpihole/master/blocklists/hola-luminati-full-block.txt (Blocking Hola VPN Malware / Spyware)
+
+https://raw.githubusercontent.com/0xrishabh/ActiveDns/master/resolvers.txt (Blocking DNS)
+
+https://raw.githubusercontent.com/tjay/DoH-List/master/hosts (Blocking DNS)
+
+https://raw.githubusercontent.com/Trigus42/Block-SecureDNS/master/Lists/SDNS-Domains-RevLookup.list (Blocking DNS)
+
+https://raw.githubusercontent.com/Trigus42/Block-SecureDNS/master/Lists/SDNS-Domains.list (Blocking DNS)
+
+https://raw.githubusercontent.com/Trigus42/Block-SecureDNS/master/Lists/SDNS-IPs-RevLookup.list (Blocking DNS)
+
+https://raw.githubusercontent.com/Trigus42/Block-SecureDNS/master/Lists/SDNS-IPs.list (Blocking DNS)
+
+https://raw.githubusercontent.com/nilsstreedain/Long-List-of-DNS-Servers/main/DoH-DoT-servers/IPv4/servers.txt (DNS Blocking)
+
+https://raw.githubusercontent.com/nilsstreedain/Long-List-of-DNS-Servers/main/regular-and-DoH-DoT-servers/IPv4/servers.txt (DNS Blocking)
+
+https://raw.githubusercontent.com/nilsstreedain/Long-List-of-DNS-Servers/main/regular-dns-servers/IPv4/servers.txt (DNS Blocking)
+
+https://raw.githubusercontent.com/nilsstreedain/Long-List-of-DNS-Servers/main/regular-and-DoH-DoT-servers/IPv4-and-v6/servers.txt (Blocking DNS)
+
+https://raw.githubusercontent.com/nilsstreedain/Long-List-of-DNS-Servers/main/DoH-DoT-servers/IPv6/servers.txt (Blocking DNS)
+
+https://raw.githubusercontent.com/nilsstreedain/Long-List-of-DNS-Servers/main/regular-and-DoH-DoT-servers/IPv6/servers.txt (Blocking DNS)
+
+https://raw.githubusercontent.com/nilsstreedain/Long-List-of-DNS-Servers/main/regular-dns-servers/IPv6/servers.txt (Blocking DNS)
+
+https://raw.githubusercontent.com/oneoffdallas/dohservers/master/ipv6list.txt (DNS Blocking)
+
+https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt (DNS Blocking)
+
+https://raw.githubusercontent.com/oneoffdallas/dohservers/master/listv6.txt (DNS Blocking)
+
+https://raw.githubusercontent.com/nilsstreedain/Long-List-of-DNS-Servers/main/DoH-DoT-servers/IPv4-and-v6/servers.txt (DNS Blocking)
+
+https://raw.githubusercontent.com/nilsstreedain/Long-List-of-DNS-Servers/main/regular-dns-servers/IPv4-and-v6/servers.txt (DNS Blocking)
+
+https://public-dns.info/nameserver/us.txt (DNS Blocking)
+
+https://raw.githubusercontent.com/AdlistCreator/Pi-Hole-Blocklist/main/DNS-Servers-Based-in-NA (DNS Blocking)
+
+https://raw.githubusercontent.com/AdlistCreator/Pi-Hole-Blocklist/main/ISP-Blocking-DNS-Servers-in-NA (ISP DNS Blocking)
+
+https://raw.githubusercontent.com/lwsnz/pihole-lists-armada/main/copy-thegreatwall-dns-doh.txt (DNS Blocking)
+
+https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/vpn.txt (VPN Blocking)
+
+https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/1-black.list (DNS Blocking)
+
+https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/encrypted-DNS.txt (DNS Blocking)
+
+https://raw.githubusercontent.com/durablenapkin/block/master/luminati.txt (VPN Blocking)
+
+https://pfblockerlists.smallbusinesstech.net/hackerlist.txt (ISP Blocking)
+
+https://raw.githubusercontent.com/nocturnalarchives/BlockLists-x/master/dns-providers.txt (Blocking DoH)
+
+https://raw.githubusercontent.com/nocturnalarchives/BlockLists-x/master/public-dns-servers.txt (Blocking DNS Servers)
+
+https://gitlab.com/jafarkhq/pihole-adlists/-/raw/main/adlists/doh (DNS Blocking)
+
+https://raw.githubusercontent.com/JohnHiqs/CHEF-KOCH/main/HOSTS/Cloudflare-HOSTS-FilterList.txt (DNS Blocking)
+
+https://web.archive.org/web/20211215100733/https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/doh-vpn-proxy-bypass.txt (DNS, VPN, and Proxy Blocking)
+
+https://raw.githubusercontent.com/Sekhan/TheGreatWall/master/TheGreatWall_ipv4 (DNS Blocking)
+
+https://raw.githubusercontent.com/Sekhan/TheGreatWall/master/TheGreatWall_ipv6 (DNS Blocking)
+
+https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/1-blacklist.txt (DNS Blocking)
+
+https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/SSH_attackers_probers/master/domains.list (SSH Attackers Probes)
+
+https://ente.dev/api/blocklist/cloudflare-hosts (DNS Blocking)
+
+https://raw.githubusercontent.com/Bryantdl7/pihole-blocklists/main/dns-https-block.txt (DNS Blocking)
+
+https://raw.githubusercontent.com/ShadowWhisperer/IPs/master/Other/Tunnel (VPN Blocking)
+
+https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/bypass-methods (DNS Blocking)
+
+https://raw.githubusercontent.com/AdlistCreator/Pi-Hole-Blocklist/main/DNSandVPNBlocking.txt (DNS and VPN Blocking)
+
+https://raw.githubusercontent.com/lwsnz/pihole/main/lists/v.firebog.net/copy-thegreatwall-dns-doh.txt (DNS Blocking)
+
+https://raw.githubusercontent.com/JuanRodenas/Pi-hole_list/main/Listas/Cloudflare/all (DNS Blocking)
+
+https://raw.githubusercontent.com/SystemJargon/pi-hole/main/lists/blacklist/dns-dot-quic-doh/TheGreaterWall-dns-dot.txt (DNS and VPN Blocking)
+
+=============================================================================================================================================================================================================================================
+
+This is an easy-to-copy list if anyone wants to copy the "DNS Blocking" blocklist into Pi-Hole. Remember, there is a chance it could be blocked, in which case you might need to make a custom whitelist.
+ _________________________________________
+|                                         |
+| Easy Copy List: DNS Blocking for Pihole |
+|_________________________________________|
+
+
+https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/master/doh-ipv4.txt https://raw.githubusercontent.com/oneoffdallas/dohservers/master/iplist.txt https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOHipv4.txt https://raw.githubusercontent.com/cbuijs/accomplist/master/doh/plain.black.ip4cidr.list https://raw.githubusercontent.com/Sekhan/TheGreatWall/master/TheGreatWall.txt https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Dynamic https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Bloat https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Remote https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/PiHole/Archive/Quad9.txt https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/cloudflare/all https://raw.githubusercontent.com/highsea/Hosts/master/host-include-appale/hosts https://raw.githubusercontent.com/superliaoyong/hosts/master/hosts https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspicious/dynamic_domain.txt https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/dnsparsed https://raw.githubusercontent.com/bambenek/block-doh/master/doh-hosts.txt https://web.archive.org/web/20200215131949/http://mirror1.malwaredomains.com:80/files/dynamic_dns.txt https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Free https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Top_Level https://raw.githubusercontent.com/cbuijs/shallalist/master/military/domains https://raw.githubusercontent.com/de956/adblock-list/main/blocklist.txt https://raw.githubusercontent.com/unixunite/pihole-domain-list/master/big_list https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/dns.txt  https://raw.githubusercontent.com/jonschipp/mal-dnssearch/master/mandiant_apt1.dns https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard-or-PiHole/master/Blocklist/filter_blocklist3.txt https://github.com/j-moriarti/pDNSf-Hosts-collection/releases/download/v1.0.0/pDNSf-hosts-part2.txt https://github.com/j-moriarti/pDNSf-Hosts-collection/releases/download/v1.0.0/just-IPs.txt https://raw.githubusercontent.com/neoFelhz/neohosts/gh-pages/full/hosts https://raw.githubusercontent.com/bebasid/bebasid/master/releases/hosts https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/doh/domains https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/master/doh-domains.txt https://raw.githubusercontent.com/cbuijs/accomplist/master/oisd/plain.black.top-n.domain.list https://raw.githubusercontent.com/cbuijs/accomplist/master/family-safe/plain.black.top-n.domain.list https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level1.netset https://iplists.firehol.org/files/cruzit_web_attacks.ipset https://iplists.firehol.org/files/ipblacklistcloud_recent_7d.ipset https://iplists.firehol.org/files/normshield_all_ddosbot.ipset https://iplists.firehol.org/files/normshield_all_dnsscan.ipset https://iplists.firehol.org/files/normshield_high_ddosbot.ipset https://raw.githubusercontent.com/cloudsvrtech/pfsense_ips_custom_blocklist/master/custom_blocklist https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/DNS-BH-Free-Web-Hosts.txt https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/DNS-BH-Malware-Domains.txt https://raw.githubusercontent.com/ejrv/VPNs/master/vpn-ipv4.txt https://raw.githubusercontent.com/ejrv/VPNs/master/vpn-ipv6.txt https://raw.githubusercontent.com/0xrishabh/ActiveDns/master/resolvers.txt https://raw.githubusercontent.com/tjay/DoH-List/master/hosts https://raw.githubusercontent.com/Trigus42/Block-SecureDNS/master/Lists/SDNS-Domains-RevLookup.list https://raw.githubusercontent.com/Trigus42/Block-SecureDNS/master/Lists/SDNS-Domains.list https://raw.githubusercontent.com/Trigus42/Block-SecureDNS/master/Lists/SDNS-IPs-RevLookup.list https://raw.githubusercontent.com/Trigus42/Block-SecureDNS/master/Lists/SDNS-IPs.list https://raw.githubusercontent.com/nilsstreedain/Long-List-of-DNS-Servers/main/DoH-DoT-servers/IPv4/servers.txt
+https://raw.githubusercontent.com/nilsstreedain/Long-List-of-DNS-Servers/main/regular-and-DoH-DoT-servers/IPv4/servers.txt https://raw.githubusercontent.com/nilsstreedain/Long-List-of-DNS-Servers/main/regular-dns-servers/IPv4/servers.txt https://raw.githubusercontent.com/nilsstreedain/Long-List-of-DNS-Servers/main/regular-and-DoH-DoT-servers/IPv4-and-v6/servers.txt https://raw.githubusercontent.com/nilsstreedain/Long-List-of-DNS-Servers/main/DoH-DoT-servers/IPv6/servers.txt https://raw.githubusercontent.com/nilsstreedain/Long-List-of-DNS-Servers/main/regular-and-DoH-DoT-servers/IPv6/servers.txt https://raw.githubusercontent.com/nilsstreedain/Long-List-of-DNS-Servers/main/regular-dns-servers/IPv6/servers.txt https://raw.githubusercontent.com/oneoffdallas/dohservers/master/ipv6list.txt https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt https://raw.githubusercontent.com/oneoffdallas/dohservers/master/listv6.txt https://raw.githubusercontent.com/nilsstreedain/Long-List-of-DNS-Servers/main/DoH-DoT-servers/IPv4-and-v6/servers.txt https://raw.githubusercontent.com/nilsstreedain/Long-List-of-DNS-Servers/main/regular-dns-servers/IPv4-and-v6/servers.txt https://public-dns.info/nameserver/us.txt https://raw.githubusercontent.com/AdlistCreator/Pi-Hole-Blocklist/main/DNS-Servers-Based-in-NA https://raw.githubusercontent.com/AdlistCreator/Pi-Hole-Blocklist/main/ISP-Blocking-DNS-Servers-in-NA https://raw.githubusercontent.com/lwsnz/pihole-lists-armada/main/copy-thegreatwall-dns-doh.txt https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/1-black.list https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/encrypted-DNS.txt https://raw.githubusercontent.com/nocturnalarchives/BlockLists-x/master/dns-providers.txt  https://raw.githubusercontent.com/nocturnalarchives/BlockLists-x/master/public-dns-servers.txt https://gitlab.com/jafarkhq/pihole-adlists/-/raw/main/adlists/doh https://raw.githubusercontent.com/JohnHiqs/CHEF-KOCH/main/HOSTS/Cloudflare-HOSTS-FilterList.txt https://web.archive.org/web/20211215100733/https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/doh-vpn-proxy-bypass.txt https://raw.githubusercontent.com/Sekhan/TheGreatWall/master/TheGreatWall_ipv4 https://raw.githubusercontent.com/Sekhan/TheGreatWall/master/TheGreatWall_ipv6 https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/1-blacklist.txt https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/SSH_attackers_probers/master/domains.list https://ente.dev/api/blocklist/cloudflare-hosts https://raw.githubusercontent.com/Bryantdl7/pihole-blocklists/main/dns-https-block.txt https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/bypass-methods https://raw.githubusercontent.com/AdlistCreator/Pi-Hole-Blocklist/main/DNSandVPNBlocking.txt https://raw.githubusercontent.com/lwsnz/pihole/main/lists/v.firebog.net/copy-thegreatwall-dns-doh.txt https://raw.githubusercontent.com/JuanRodenas/Pi-hole_list/main/Listas/Cloudflare/all https://raw.githubusercontent.com/SystemJargon/pi-hole/main/lists/blacklist/dns-dot-quic-doh/TheGreaterWall-dns-dot.txt
+
+=============================================================================================================================================================================================================================================
+
+This is an easy-to-copy list if anyone wants to copy the "VPN Blocking" blocklist into Pi-Hole. But, remember, there is a chance it could be overblocking, which might require making a custom whitelist.
+ _________________________________________
+|                                         |
+| Easy Copy List: VPN Blocking for Pihole |
+|_________________________________________|
+
+
+https://iplists.firehol.org/files/dshield_top_1000.ipset https://raw.githubusercontent.com/cbuijs/accomplist/master/doh/plain.black.hosts.list https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard-or-PiHole/master/Blocklist/filter_blocklist1.txt https://raw.githubusercontent.com/cbuijs/shallalist/master/anonvpn/domains https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tunnels https://raw.githubusercontent.com/durablenapkin/block/master/luminati.txt https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/vpn.txt https://raw.githubusercontent.com/ftpmorph/ftpihole/master/blocklists/hola-luminati-full-block.txt https://raw.githubusercontent.com/cbuijs/accomplist/master/doh/plain.black.top-n.domain.list https://raw.githubusercontent.com/ShadowWhisperer/IPs/master/Other/Tunnel
+
+
+=============================================================================================================================================================================================================================================
+
+This is an easy-to-copy list if anyone wants to copy the "ISP Blocking" blocklist into Pi-Hole. But, remember, there is a chance it could be overblocking, which might require making a custom whitelist.
+ _________________________________________
+|                                         |
+| Easy Copy List: ISP Blocking for Pihole |
+|_________________________________________|
+
+
+https://raw.githubusercontent.com/Cybo1927/Hosts/master/Anti-corp/Verizon https://raw.githubusercontent.com/cbuijs/shallalist/master/isp/domains https://raw.githubusercontent.com/cbuijs/shallalist/master/dynamic/domains https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Risk https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk https://pfblockerlists.smallbusinesstech.net/hackerlist.txt
+
+
+=============================================================================================================================================================================================================================================
+
+ ___________
+|           |
+|  Credits  |
+|___________|
+
+
+
+- dibdot
+- oneoffdallas
+- jpgpi250
+- cbuijs
+- Sekhan
+- ShadowWhisperer
+- XionKzn
+- jmdugan
+- highsea
+- superliaoyong
+- stamparm
+- nickspaargaren
+- bambenek
+- Cybo1927
+- malwaredomains
+- de956
+- unixunite
+- jonschipp
+- hl2guide
+- j-moriarti
+- neoFelhz
+- bebasid
+- olbat
+- firehol
+- JohnHiqs
+- FireHOL
+- cloudsvrtech
+- deathbybandaid
+- ftpmorph
+- 0xrishabh
+- tjay
+- Trigus42
+- nilsstreedain
+- public-dns.info
+- AdlistCreator
+- lwsnz
+- theycallmetimmy
+- durablenapkin
+- Soren Stoutner
+- nocturnalarchives
+- jafarkhq
+- Zelo72
+- Sekhan
+- Willi Entenmann
+- Bryantdl7
+- JuanRodenas
+- SystemJargon
+
+
+
+

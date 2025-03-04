@@ -1,0 +1,237 @@
+Pi-Hole's social blocklist is geared toward blocking social media, news, and other socially related websites at the DNS level. It's recommended to make your own whitelist because everyone has their own reason to unblock some websites due to certain scenarios.
+
+Note: Some of the lists have "Temp," which means they were previously unavailable and we don't know when they will be restored. I used the Wayback Machine to get the file before the owner or website took it down.
+
+Blocklist Type: Social
+(Includes social, social media, and news.)
+
+=============================================================================================================================================================================================================================================
+ _____________________
+|                     |
+|  Blocklist: Social  |
+|_____________________|
+
+
+https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt (Social)
+
+https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/Agency/agencyblocklist.txt (Social)
+
+https://raw.githubusercontent.com/kowith337/PersonalFilterListCollection/master/hosts/hosts_facebook0.txt (Social)
+
+https://raw.githubusercontent.com/erkexzcx/disconnectme-pihole/master/services_Social.txt (Social)
+
+https://hosts.anudeep.me/mirror/facebook.txt (Social Media)
+
+https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/Snapchat/snapchatblocklist.txt (Social Media)
+
+https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/TikTok/tiktokblocklist.txt (Social Media)
+
+https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/WhatsAppblocklist/whatsappblocklist.txt (Social Media)
+
+https://raw.githubusercontent.com/evpne/socialblocklists/master/Skype/skypeblocklist.txt (Social Media)
+
+https://raw.githubusercontent.com/ftpmorph/ftpihole/master/blocklists/facebook-full-block.txt (Social Media)
+
+https://raw.githubusercontent.com/ftpmorph/ftpihole/master/blocklists/instagram-full-block.txt (Social Media)
+
+https://raw.githubusercontent.com/ftpmorph/ftpihole/master/blocklists/tiktok-full-block-ftpihole.txt (Social Media)
+
+https://raw.githubusercontent.com/ftpmorph/ftpihole/master/blocklists/whatsapp-full-block.txt (Social Media)
+
+https://www.github.developerdan.com/hosts/lists/facebook-extended.txt (Social Media)
+
+https://raw.githubusercontent.com/MarByteBeep/BlockNews/main/blocknews.txt (Social – Block News Sites)
+
+https://raw.githubusercontent.com/autinerd/anti-axelspringer-hosts/master/axelspringer-hosts (Social)
+
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Sensitive%20lists/AntiPreacherList.txt (Social)
+
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AntiPCPriceHiderList.txt (Social)
+
+https://raw.githubusercontent.com/Nebula-Mechanica/Anti-AutoTranslation-List/master/anti-autotranslation-list.txt (Social)
+
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Other%20domains%20versions/AntiF%25D1%2596%25D0%259C%2520ListDomains.txt (Social)
+
+https://raw.githubusercontent.com/lwsnz/pihole-lists-armada/main/smartphone-social-telemetry-ads.txt (Social Media)
+
+https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/chat.txt (Social)
+
+https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/dating.txt (Social)
+
+https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/snapchat.txt (Social Media)
+
+https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/socialmedia.txt (Social Media)
+
+https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/tiktok.txt (Social Media)
+
+https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/news.txt (Social – News)
+
+https://raw.githubusercontent.com/llacb47/mischosts/master/tiktok-hosts (Social Media)
+
+https://raw.githubusercontent.com/dasdiesernoah/pihole-blocklists/main/einzelne%20Dienste%20sperren/TikTok (Social Media)
+
+https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/pinterest/all (Social)
+
+https://raw.githubusercontent.com/buckmelanoma/block_lists/master/trump.txt (Social)
+
+https://raw.githubusercontent.com/zetagi74/blocklists/master/whatsapp (Social Media)
+
+https://raw.githubusercontent.com/zetagi74/blocklists/master/SocialMiscRemix (Social Media)
+
+https://raw.githubusercontent.com/zetagi74/blocklists/master/Social (Social Media)
+
+https://raw.githubusercontent.com/einyx/pfsense-pihole-blocklist/master/facebook.txt (Social Media)
+
+https://raw.githubusercontent.com/daylamtayari/Pi-Hole-Blocklist/master/Mirrors/Pinterest-Blocklist--CHEF-KOCH.txt (Social Media)
+
+https://raw.githubusercontent.com/daylamtayari/Pi-Hole-Blocklist/master/Mirrors/Snapchat-Blocklist--d43m0nhLInt3r.txt (Social Media)
+
+https://raw.githubusercontent.com/daylamtayari/Pi-Hole-Blocklist/master/Mirrors/Tik-Tok-Blocklist--CHEF-KOCH.txt (Social Media)
+
+https://raw.githubusercontent.com/nocturnalarchives/BlockLists-x/master/facebook-trackers.txt (Social Media)
+
+https://raw.githubusercontent.com/antifa-n/pihole/master/blocklist-alttech.txt (Social Media - Dark)
+
+https://raw.githubusercontent.com/antifa-n/pihole/master/blocklist-pop.txt (Social Media - Dark)
+
+https://raw.githubusercontent.com/antifa-n/pihole/master/blocklist.txt (Social Media - Dark)
+
+https://gitlab.com/m0ze1r/Pihole-Blocklist/-/raw/master/Anti-Murdoch-Aust.txt (Social Media)
+
+https://gitlab.com/m0ze1r/Pihole-Blocklist/-/raw/master/suodrazah-murdoch_blocklist (Social Media)
+
+https://gitlab.com/im-boots/pihole-lists/-/raw/main/fb_ads.txt (Social Media)
+
+https://gitlab.com/tinfoilmylife/disinfo-pihole-list/-/raw/master/disinfoList.txt (Social Media)
+
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/anudeepnd-facebook/list.txt (Social Media)
+
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/fanboy-social/list.txt (Social Media)
+
+https://gitlab.com/im-boots/pihole-lists/-/raw/main/fb_ads.txt (Social Media)
+
+https://raw.githubusercontent.com/JohnHiqs/CHEF-KOCH/main/HOSTS/Facebook-HOSTS-FilterList.txt  (Social Media)
+
+https://raw.githubusercontent.com/JohnHiqs/CHEF-KOCH/main/HOSTS/Instagram-HOSTS-FilterList.txt  (Social Media)
+
+https://raw.githubusercontent.com/JohnHiqs/CHEF-KOCH/main/HOSTS/Pinterest-HOSTS-FilterList.txt  (Social Media)
+
+https://raw.githubusercontent.com/JohnHiqs/blocklist/master/blocklist_category_toxicdomains.txt (Social Media)
+
+https://raw.githubusercontent.com/JohnHiqs/blocklist/master/blocklist_experimental.txt (Social Media)
+
+https://raw.githubusercontent.com/KitsapCreator/pihole-blocklists/master/social/facebook/facebook.txt (Social Media)
+
+https://raw.githubusercontent.com/KitsapCreator/pihole-blocklists/master/social/facebook/whatsapp.txt (Social Media)
+
+https://raw.githubusercontent.com/KitsapCreator/pihole-blocklists/master/social/snapchat.txt (Social Media)
+
+https://raw.githubusercontent.com/KitsapCreator/pihole-blocklists/master/social/tiktok.txt (Social Media)
+
+https://raw.githubusercontent.com/lwsnz/pihole-lists-armada/main/socialmedia_block-instagram (Social Media)
+
+https://raw.githubusercontent.com/lwsnz/pihole-lists-armada/main/socialmedia_block-facebook (Social Media)
+
+https://raw.githubusercontent.com/lwsnz/pihole-lists-armada/main/socialmedia_block-whatsapp (Social Media)
+
+https://raw.githubusercontent.com/lwsnz/pihole-lists-armada/main/socialmedia_block-tiktok (Social Media)
+
+https://raw.githubusercontent.com/FleuryK/pihole-ads/master/blocklist-ads-website/fake_sites_discord_nitro.txt (Social Media)
+
+https://raw.githubusercontent.com/mcuix/piholefacebook/master/pihole-facebook-sponsored-ads.txt (Social Media)
+
+https://ente.dev/api/blocklist/pinterest (Social)
+
+https://ente.dev/api/blocklist/snapchat-hosts (Social Media)
+
+https://ente.dev/api/blocklist/twitter-hosts (Social Media)
+
+https://ente.dev/api/blocklist/tiktok-hosts (Social Media)
+
+https://raw.githubusercontent.com/AdlistCreator/Pi-Hole-Blocklist/main/ente-list/pinterest.txt (Social Media)
+
+https://raw.githubusercontent.com/AdlistCreator/Pi-Hole-Blocklist/main/ente-list/facebook-hosts.txt (Social Media)
+
+https://raw.githubusercontent.com/AdlistCreator/Pi-Hole-Blocklist/main/ente-list/tiktok-hosts.txt (Social Media)
+
+https://raw.githubusercontent.com/AdlistCreator/Pi-Hole-Blocklist/main/ente-list/twitter-hosts.txt (Social Media)
+
+https://raw.githubusercontent.com/JuanRodenas/Pi-hole_list/main/Listas/Facebook/all (Social)
+
+https://raw.githubusercontent.com/JuanRodenas/Pi-hole_list/main/Listas/Pinterest/all (Social Media)
+
+https://raw.githubusercontent.com/JuanRodenas/Pi-hole_list/main/Listas/Twitter/all (Social Media)
+
+https://raw.githubusercontent.com/SystemJargon/pi-hole/main/lists/blacklist/social-media/facebook-instagram-whatsapp-snapchat.list (Social Media)
+
+https://raw.githubusercontent.com/SystemJargon/pi-hole/main/lists/blacklist/social-media/socialmedia_block-facebook (Social Media)
+
+https://raw.githubusercontent.com/SystemJargon/pi-hole/main/lists/blacklist/social-media/socialmedia_block-instagram (Social Media)
+
+https://raw.githubusercontent.com/SystemJargon/pi-hole/main/lists/blacklist/social-media/socialmedia_block-snapchat.txt (Social Media)
+
+https://raw.githubusercontent.com/SystemJargon/pi-hole/main/lists/blacklist/social-media/socialmedia_block-tiktok (Social Media)
+
+https://raw.githubusercontent.com/SystemJargon/pi-hole/main/lists/blacklist/social-media/socialmedia_block-whatsapp (Social Media)
+
+https://blocklistproject.github.io/Lists/facebook.txt (Social Media)
+
+https://blocklistproject.github.io/Lists/whatsapp.txt (Social Media)
+
+=============================================================================================================================================================================================================================================
+
+This is an easy-to-copy list if anyone wants to copy the "Social" blocklist into Pi-Hole. Remember, there is a chance it could be blocked, in which case you might need to make a custom whitelist.
+
+ ___________________________________
+|                                   |
+| Easy Copy List: Social for Pihole |
+|___________________________________|
+
+
+https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/Agency/agencyblocklist.txt https://raw.githubusercontent.com/kowith337/PersonalFilterListCollection/master/hosts/hosts_facebook0.txt https://raw.githubusercontent.com/erkexzcx/disconnectme-pihole/master/services_Social.txt https://hosts.anudeep.me/mirror/facebook.txt https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/Snapchat/snapchatblocklist.txt https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/TikTok/tiktokblocklist.txt https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/WhatsAppblocklist/whatsappblocklist.txt https://raw.githubusercontent.com/evpne/socialblocklists/master/Skype/skypeblocklist.txt https://raw.githubusercontent.com/ftpmorph/ftpihole/master/blocklists/facebook-full-block.txt https://raw.githubusercontent.com/ftpmorph/ftpihole/master/blocklists/instagram-full-block.txt https://raw.githubusercontent.com/ftpmorph/ftpihole/master/blocklists/tiktok-full-block-ftpihole.txt https://raw.githubusercontent.com/ftpmorph/ftpihole/master/blocklists/whatsapp-full-block.txt https://www.github.developerdan.com/hosts/lists/facebook-extended.txt https://raw.githubusercontent.com/MarByteBeep/BlockNews/main/blocknews.txt https://raw.githubusercontent.com/autinerd/anti-axelspringer-hosts/master/axelspringer-hosts https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Sensitive%20lists/AntiPreacherList.txt https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AntiPCPriceHiderList.txt https://raw.githubusercontent.com/Nebula-Mechanica/Anti-AutoTranslation-List/master/anti-autotranslation-list.txt https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Other%20domains%20versions/AntiF%25D1%2596%25D0%259C%2520ListDomains.txt https://raw.githubusercontent.com/lwsnz/pihole-lists-armada/main/smartphone-social-telemetry-ads.txt https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/chat.txt https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/dating.txt https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/snapchat.txt https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/socialmedia.txt https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/tiktok.txt https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/news.txt https://raw.githubusercontent.com/llacb47/mischosts/master/tiktok-hosts https://raw.githubusercontent.com/dasdiesernoah/pihole-blocklists/main/einzelne%20Dienste%20sperren/TikTok https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/pinterest/all https://raw.githubusercontent.com/buckmelanoma/block_lists/master/trump.txt https://raw.githubusercontent.com/zetagi74/blocklists/master/whatsapp https://raw.githubusercontent.com/zetagi74/blocklists/master/SocialMiscRemix https://raw.githubusercontent.com/zetagi74/blocklists/master/Social https://raw.githubusercontent.com/einyx/pfsense-pihole-blocklist/master/facebook.txt https://raw.githubusercontent.com/daylamtayari/Pi-Hole-Blocklist/master/Mirrors/Pinterest-Blocklist--CHEF-KOCH.txt https://raw.githubusercontent.com/daylamtayari/Pi-Hole-Blocklist/master/Mirrors/Snapchat-Blocklist--d43m0nhLInt3r.txt https://raw.githubusercontent.com/daylamtayari/Pi-Hole-Blocklist/master/Mirrors/Tik-Tok-Blocklist--CHEF-KOCH.txt https://raw.githubusercontent.com/nocturnalarchives/BlockLists-x/master/facebook-trackers.txt https://raw.githubusercontent.com/antifa-n/pihole/master/blocklist-alttech.txt https://raw.githubusercontent.com/antifa-n/pihole/master/blocklist-pop.txt https://raw.githubusercontent.com/antifa-n/pihole/master/blocklist.txt https://gitlab.com/m0ze1r/Pihole-Blocklist/-/raw/master/Anti-Murdoch-Aust.txt https://gitlab.com/m0ze1r/Pihole-Blocklist/-/raw/master/suodrazah-murdoch_blocklist https://gitlab.com/im-boots/pihole-lists/-/raw/main/fb_ads.txt https://gitlab.com/tinfoilmylife/disinfo-pihole-list/-/raw/master/disinfoList.txt  https://raw.githubusercontent.com/hectorm/hmirror/master/data/anudeepnd-facebook/list.txt https://raw.githubusercontent.com/hectorm/hmirror/master/data/fanboy-social/list.txt https://gitlab.com/im-boots/pihole-lists/-/raw/main/fb_ads.txt https://raw.githubusercontent.com/JohnHiqs/CHEF-KOCH/main/HOSTS/Facebook-HOSTS-FilterList.txt https://raw.githubusercontent.com/JohnHiqs/CHEF-KOCH/main/HOSTS/Instagram-HOSTS-FilterList.txt https://raw.githubusercontent.com/JohnHiqs/CHEF-KOCH/main/HOSTS/Pinterest-HOSTS-FilterList.txt https://raw.githubusercontent.com/JohnHiqs/blocklist/master/blocklist_category_toxicdomains.txt https://github.com/JohnHiqs/blocklist/blob/master/blocklist_experimental.txt https://raw.githubusercontent.com/KitsapCreator/pihole-blocklists/master/social/facebook/facebook.txt https://raw.githubusercontent.com/KitsapCreator/pihole-blocklists/master/social/facebook/whatsapp.txt https://raw.githubusercontent.com/KitsapCreator/pihole-blocklists/master/social/snapchat.txt https://raw.githubusercontent.com/KitsapCreator/pihole-blocklists/master/social/tiktok.txt https://raw.githubusercontent.com/lwsnz/pihole-lists-armada/main/socialmedia_block-instagram https://raw.githubusercontent.com/lwsnz/pihole-lists-armada/main/socialmedia_block-facebook https://raw.githubusercontent.com/lwsnz/pihole-lists-armada/main/socialmedia_block-whatsapp https://raw.githubusercontent.com/lwsnz/pihole-lists-armada/main/socialmedia_block-tiktok https://raw.githubusercontent.com/FleuryK/pihole-ads/master/blocklist-ads-website/fake_sites_discord_nitro.txt https://raw.githubusercontent.com/mcuix/piholefacebook/master/pihole-facebook-sponsored-ads.txt https://raw.githubusercontent.com/JohnHiqs/blocklist/master/blocklist_experimental.txt https://ente.dev/api/blocklist/pinterest https://ente.dev/api/blocklist/snapchat-hosts https://ente.dev/api/blocklist/twitter-hosts https://ente.dev/api/blocklist/tiktok-hosts https://raw.githubusercontent.com/AdlistCreator/Pi-Hole-Blocklist/main/ente-list/pinterest.txt https://raw.githubusercontent.com/AdlistCreator/Pi-Hole-Blocklist/main/ente-list/facebook-hosts.txt https://raw.githubusercontent.com/AdlistCreator/Pi-Hole-Blocklist/main/ente-list/tiktok-hosts.txt https://raw.githubusercontent.com/AdlistCreator/Pi-Hole-Blocklist/main/ente-list/twitter-hosts.txt https://raw.githubusercontent.com/JuanRodenas/Pi-hole_list/main/Listas/Facebook/all https://raw.githubusercontent.com/JuanRodenas/Pi-hole_list/main/Listas/Pinterest/all https://raw.githubusercontent.com/JuanRodenas/Pi-hole_list/main/Listas/Twitter/all https://raw.githubusercontent.com/SystemJargon/pi-hole/main/lists/blacklist/social-media/facebook-instagram-whatsapp-snapchat.list https://raw.githubusercontent.com/SystemJargon/pi-hole/main/lists/blacklist/social-media/socialmedia_block-facebook https://raw.githubusercontent.com/SystemJargon/pi-hole/main/lists/blacklist/social-media/socialmedia_block-instagram https://raw.githubusercontent.com/SystemJargon/pi-hole/main/lists/blacklist/social-media/socialmedia_block-snapchat.txt https://raw.githubusercontent.com/SystemJargon/pi-hole/main/lists/blacklist/social-media/socialmedia_block-tiktok https://raw.githubusercontent.com/SystemJargon/pi-hole/main/lists/blacklist/social-media/socialmedia_block-whatsapp https://blocklistproject.github.io/Lists/facebook.txt https://blocklistproject.github.io/Lists/whatsapp.txt 
+
+
+=============================================================================================================================================================================================================================================
+
+ ___________
+|           |
+|  Credits  |
+|___________|
+
+
+
+- anudeep
+- d43m0nhLInt3r
+- kowith337
+- erkexzcx
+- evpne
+- ftpmorph
+- Daniel White
+- MarByteBeep
+- autinerd
+- DandelionSprout
+- Nebula-Mechanica
+- theycallmetimmy
+- llacb47
+- dasdiesernoah
+- jmdugan
+- buckmelanoma
+- zetagi74
+- einyx
+- daylamtayari
+- nocturnalarchives
+- antifa-n
+- m0ze1r
+- im-boots
+- tinfoilmylife
+- hectorm
+- JohnHiqs
+- KitsapCreator
+- FleuryK
+- mcuix
+- Willi Entenmann
+- AdlistCreator
+- JuanRodenas
+- SystemJargon
+
+

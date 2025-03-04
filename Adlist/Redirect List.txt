@@ -1,0 +1,51 @@
+The redirect blocklist was designed for Pi-Hole. Redirect blocklists block sites that are trying to mimic popular sites in order to prompt scams, phishing, ransomware, malware, and more for the users. It's recommended to make your own whitelist because everyone has their own reason to unblock some websites due to certain scenarios.
+
+Note: Some of the lists have "Temp," which means they were previously unavailable and we don't know when they will be restored. I used the Wayback Machine to get the file before the owner or website took it down.
+
+Blocklist Type: Redirect
+(Includes Redirect)
+
+=============================================================================================================================================================================================================================================
+ _______________________
+|                       |
+|  Blocklist: Redirect  |
+|_______________________|
+
+
+https://blocklistproject.github.io/Lists/redirect.txt (Redirect)
+
+https://raw.githubusercontent.com/cbuijs/shallalist/master/redirector/domains (Redirect)
+
+https://raw.githubusercontent.com/hemiipatu/PiHoleBlocklists/master/blocklists/redirect.txt (Redirect)
+
+https://raw.githubusercontent.com/hl2guide/DNS-Sinkhole-Lists-A2/master/typosquatting_blocklist.txt (Redirect Typos)
+
+https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/1-DNS_CNAME_redirects.txt (Redirect)
+
+
+=============================================================================================================================================================================================================================================
+
+If anyone wants to copy the "Redirect" blocklist into Pihole, this is a simple copy list. Remember, there is a chance it could be blocked, in which case you might need to make a custom whitelist.
+
+ _____________________________________
+|                                     |
+| Easy Copy List: Redirect for Pihole |
+|_____________________________________|
+
+
+https://blocklistproject.github.io/Lists/redirect.txt https://raw.githubusercontent.com/cbuijs/shallalist/master/redirector/domains https://raw.githubusercontent.com/hemiipatu/PiHoleBlocklists/master/blocklists/redirect.txt https://raw.githubusercontent.com/hl2guide/DNS-Sinkhole-Lists-A2/master/typosquatting_blocklist.txt https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/1-DNS_CNAME_redirects.txt 
+
+
+=============================================================================================================================================================================================================================================
+
+ ___________
+|           |
+|  Credits  |
+|___________|
+
+
+- Blocklist Project
+- cbuijs
+- hemiipatu
+- hl2guide
+

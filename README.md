@@ -26,28 +26,25 @@ The folder inside "Adlist" contains the list as a text file if you want to downl
 - Spam
 - Torrent
 - Tracking
+
+
+# Everything  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- --------------
-|  Everything  |
- --------------
 
 The "Everything" blocklist contains almost all of the categories listed above, but it is constructed from a different blocklist that includes some of the categories removed from the previous blocklist. However, you might need to make your own allowlist in order to access some websites since the "Everything" category mostly blocks everything above.
 
 - Everything
 
+
+# Youtube 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- -----------
-|  Youtube  |
- -----------
 
 Youtube's ad servers are constantly being updated, which invalidates blocklists. To bypass the ads on YouTube, you will need to install adblock. For Android, you will have to use a modified YouTube app to bypass ads or the Blockada app to block ads.
 
 - Youtube
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- -------------------
-|  Mixed Categories |
- -------------------
+# Mixed Categories 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 
 There are mixed categories inside that can't be separated from the list because they have more than one category. For example:
 
@@ -73,10 +70,8 @@ The folder inside "Denylist Regex" contains a list as a text file. There are iss
 - Tracking
 - Youtube
 
+# Youtube  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- -----------
-|  Youtube  |
- -----------
 
 The same problem exists with YouTube's "Adlist" blocklist: it can block some ads, but YouTube has multiple ad servers that could break the video stream.
 
@@ -100,11 +95,9 @@ https://regex101.com/
 
 https://www.debuggex.com/
 
-_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-
- =====================
-|       Updates       |
- =====================
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Updates       
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  -----------------------------
 | Adlist - Updates Stopped |

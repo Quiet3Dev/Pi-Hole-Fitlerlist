@@ -1,5 +1,5 @@
 # Pi-Hole Filterlist Blocklist
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 This project started in January 2020, focusing on the differences between using "adlist/domains" and "denylist regex" when using low-end hardware like the Rasberry Pi Zero W or obsolete hardware based on 32-bit systems. The project ended around June 2022 since it worked with 32-bit systems and the Rasberry Pi Zero W was not overloaded with access times and updates.
 

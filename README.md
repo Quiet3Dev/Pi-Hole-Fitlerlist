@@ -29,7 +29,7 @@ The folder inside "Adlist" contains the list as a text file if you want to downl
 
 
 # Everything  
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 The "Everything" blocklist contains almost all of the categories listed above, but it is constructed from a different blocklist that includes some of the categories removed from the previous blocklist. However, you might need to make your own allowlist in order to access some websites since the "Everything" category mostly blocks everything above.
 
@@ -37,14 +37,12 @@ The "Everything" blocklist contains almost all of the categories listed above, b
 
 
 # Youtube 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Youtube's ad servers are constantly being updated, which invalidates blocklists. To bypass the ads on YouTube, you will need to install adblock. For Android, you will have to use a modified YouTube app to bypass ads or the Blockada app to block ads.
 
 - Youtube
 
-# Mixed Categories 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+# Mixed Categories  
 
 There are mixed categories inside that can't be separated from the list because they have more than one category. For example:
 
@@ -71,7 +69,6 @@ The folder inside "Denylist Regex" contains a list as a text file. There are iss
 - Youtube
 
 # Youtube  
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The same problem exists with YouTube's "Adlist" blocklist: it can block some ads, but YouTube has multiple ad servers that could break the video stream.
 
@@ -81,13 +78,13 @@ The same problem exists with YouTube's "Adlist" blocklist: it can block some ads
 
 If you want to check if your code is working properly, use "regex101.com" to see if there are any errors. Below is some information on how to create regex code and a website to make it easier to read regex code.
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Videos to Help Create a Regex Denylist: 
 
 https://www.youtube.com/watch?v=bgBWp9EIlMM
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Helpful Websites to Create Regex Code:
 
@@ -95,27 +92,20 @@ https://regex101.com/
 
 https://www.debuggex.com/
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# Updates       
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
- -----------------------------
-| Adlist - Updates Stopped |
- -----------------------------
+# Updates       
+
+Adlist - Updates Stopped 
 
 The Pi-Hole "Adlist" is no longer updated because it consumes storage, time, testing, and cleanup. At the same time, find a similar blocklist and replace the old one; replacing the old blocklist could cause more problems. It is recommended to use a regex denylist because it does not rely on updating blocklists and instead relies on a small algorithm to block IP addresses from accessing websites or block websites that have suspicious links or functions.
 
- --------------------------------
-| Regex Denylist - Slow Updates |
- --------------------------------
-
+ 
+Regex Denylist - Slow Updates 
+ 
 Fiterlist.com's regex denylist is being gradually updated. The lists used are from Adguard, AdBlock, Adblock Plus, and uBlock Origin. Some of the regex lists have some errors, and it will take a while to clean up some of the codes for Pi-Hole to accept some codes.
 
-_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+# Credits   
 
- -------------
-|   Credits   |
- -------------
 
 Majority Adlist and Regex Fitlerlist were found at "filterlists.com" by Collin M. Barrett.
 
